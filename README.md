@@ -34,4 +34,4 @@ Check that poppler is running
 This will compare UniDoc to Poppler text extraction over the PDF files in ~/testdata and write the
 summary to results.txt.
 
-This is an example [results.txt].
+This is an example (results.txt).
