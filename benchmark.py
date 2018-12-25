@@ -1,7 +1,7 @@
 """
-   Remove duplicates from a corpus.
+   Compare unidoc to poppler for text extraction over a corpus.
 
-   Usage: python remove_duplicates.py ~/testdata/*.pdf ~/testdata/**/*.pdf
+   Usage: python benchmark.py ~/testdata/*.pdf ~/testdata/**/*.pdf
 
 """
 import sys
@@ -17,7 +17,6 @@ nlp = spacy.load('en_core_web_sm')
 
 MB = 1024.0 * 1024.0
 
-# RESULTS_PSTOPDF = 'results.pdftotext'
 TMP = 'temp.txt'
 
 
@@ -100,13 +99,8 @@ RE_SPACE = re.compile(r'[\n\s]+', re.MULTILINE | re.DOTALL)
 
 
 def tokenize(data):
-    # print('`' * 80)
-    # print(data)
     s = str(data)
     s = RE_SPACE.sub(' ', s)
-    # print('"' * 80)
-    # print(s)
-    # print('*' * 80)
     doc = nlp(s)
     return [token.text for token in doc]
 
@@ -151,15 +145,6 @@ def diff_words(words1, words2):
     return sorted(words1 - words2, key=word_set_key), sorted(words2 - words1, key=word_set_key)
 
 
-# def diff_jaccard(words1, words2):
-#     words1, words2 = set(words1), set(words2)
-#     num = len(words1 & words2)
-#     den = len(words1 | words2)
-#     if den == 0:
-#         return 1.0
-#     return 1.0 - num / den
-
-
 def n_grams(words, n):
     return {' '.join(words[i:i+n]) for i in range(len(words)-n+1)}
 
@@ -200,14 +185,14 @@ for i, path in enumerate(path_list[:10]):
 for test in TESTS:
     results_dir = 'results.%s' % test
     os.makedirs(results_dir, exist_ok=True)
-    # print("-" * 80)
 
-hash_info = {}
-test_successes = defaultdict(list)
+
+sha1_info = {}
+sha1_successes = defaultdict(list)
 
 for i, path in enumerate(path_list):
     sha1 = file_sha1(path)
-    assert sha1 not in hash_info
+    assert sha1 not in sha1_info
     info = pdf_info(path)
     if not info or info['encrypted'] or not info['viewable'] or info['version'] < '1.3':
         print('**+ %s' % info_str(info))
@@ -215,19 +200,12 @@ for i, path in enumerate(path_list):
     if info['pages'] > 100:
         print('**- %s' % info_str(info))
         continue
-    hash_info[sha1] = info
-
-    # if i < 36:
-    #     continue
-    # elif i > 36:
-    #     break
+    sha1_info[sha1] = info
 
     successes = []
     for test, runner in TESTS.items():
         results_dir = 'results.%s' % test
         dest = make_path(results_dir, i, sha1)
-        # if os.path.exists(dest):
-        #     continue
         if run_test(path, runner):
             os.rename(TMP, dest)
             successes.append(dest)
@@ -243,14 +221,14 @@ for i, path in enumerate(path_list):
         continue
     if num_words < 100:
         continue
-    test_successes[sha1] = successes
-    if len(test_successes) >= 200000:
-        break
+    sha1_successes[sha1] = successes
+    # if len(sha1_successes) >= 200000:
+    #     break
 
 print('#' * 80)
 scores = {}
 name_sha1 = {}
-for sha1, paths in sorted(test_successes.items()):
+for sha1, paths in sorted(sha1_successes.items()):
     path1, path2 = paths
     name = os.path.basename(path1)
     try:
@@ -262,7 +240,7 @@ for sha1, paths in sorted(test_successes.items()):
     jac = [diff_jaccard(words1, words2, n) for n in (1, 2, 3)]
     scores[name] = jac
     name_sha1[name] = sha1
-    info = hash_info[sha1]
+    info = sha1_info[sha1]
     print("$" * 80)
     print("name=%s jac=%.2f %.2f %.2f n=%d %d %s" % (
         name, jac[0], jac[1], jac[2], len(words1), len(words2), info_str(info)))
@@ -271,7 +249,7 @@ for sha1, paths in sorted(test_successes.items()):
 
 print("&" * 80)
 for i, name in enumerate(sorted(scores, key=lambda n: (scores[n][0], scores[n][1], scores[n][2], n))):
-    info = info_str(hash_info[name_sha1[name]])
+    info = info_str(sha1_info[name_sha1[name]])
     print('%4d %.3f %.3f %.3f: %s %s' % (i, scores[name][0], scores[name][1], scores[name][2], name, info))
 
 jac_mean = [0.0, 0.0, 0.0]
