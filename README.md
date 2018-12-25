@@ -39,6 +39,7 @@ This is an example [results.txt](results.txt).
 ## Interpretation.
 
 A line from [results.txt](results.txt) is
+
 	801 0.085 0.114 0.148: 01767-0240c6.txt [1.3] 0.712 MB   2 pages ~/testdata/Wild_comes_the_molten_ore.pdf
 
 * This is the 802nd (801 with zero-offset) successful comparison.
