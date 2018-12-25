@@ -26,3 +26,12 @@ Install poppler and PdfBox
 Check that poppler is running
 
 	pdftotext <some pdf file>
+
+
+## Running
+	python benchmark.py ~/testdata/**/*.pdf ~/testdata/*.pdf > results.txt
+
+This will compare UniDoc to Poppler text extraction over the PDF files in ~/testdata and write the
+summary to results.txt.
+
+This is an example [results.txt].

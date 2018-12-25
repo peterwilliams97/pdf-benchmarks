@@ -1,0 +1,1606 @@
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+   0 0.000 0.000 0.000: 00010-ec9816.txt [1.3] 0.001 MB   1 pages ~/testdata/2_p1.pdf
+   1 0.000 0.000 0.000: 00018-8a7829.txt [1.4] 0.003 MB   1 pages ~/testdata/simple.pdf
+   2 0.000 0.000 0.000: 00040-e0a8b9.txt [1.5] 0.009 MB   1 pages ~/testdata/file_50095.pdf
+   3 0.000 0.000 0.000: 00065-aa3f8b.txt [1.4] 0.017 MB   1 pages ~/testdata/CARDIOVERSION.pdf
+   4 0.000 0.000 0.000: 00074-98969d.txt [1.3] 0.023 MB   1 pages ~/testdata/private/Chemistry_test_revision.pdf
+   5 0.000 0.000 0.000: 00091-a3ab60.txt [1.5] 0.027 MB   2 pages ~/testdata/MeP_K.pdf
+   6 0.000 0.000 0.000: 00092-de7a0d.txt [1.4] 0.027 MB   2 pages ~/testdata/checklist_5c0262a2e9cca.pdf
+   7 0.000 0.000 0.000: 00102-293eb1.txt [1.3] 0.031 MB   1 pages ~/testdata/naplan_students_guide.pdf
+   8 0.000 0.000 0.000: 00121-abac65.txt [1.3] 0.039 MB   1 pages ~/testdata/watermark/000184.pdf
+   9 0.000 0.000 0.000: 00152-7bc739.txt [1.3] 0.046 MB   2 pages ~/testdata/JH Sample Essay Outline 2015.pdf
+  10 0.000 0.000 0.000: 00215-166b25.txt [1.4] 0.066 MB   3 pages ~/testdata/deep-learning-with-pytho.pdf
+  11 0.000 0.000 0.000: 00256-0876ee.txt [1.5] 0.078 MB   1 pages ~/testdata/WEP1 2019 3 -7 June.pdf
+  12 0.000 0.000 0.000: 00258-891e94.txt [1.4] 0.079 MB   1 pages ~/testdata/Stueckelberg6LV.pdf
+  13 0.000 0.000 0.000: 00314-383499.txt [1.5] 0.096 MB   1 pages ~/testdata/CollazoBio.pdf
+  14 0.000 0.000 0.000: 00316-93b934.txt [1.5] 0.096 MB   1 pages ~/testdata/digital_signatures/Protocol for E- Signatures.pdf
+  15 0.000 0.000 0.000: 00317-4c19e4.txt [1.5] 0.096 MB   1 pages ~/testdata/z.pdf
+  16 0.000 0.000 0.000: 00353-6b12d9.txt [1.5] 0.104 MB   4 pages ~/testdata/Doc_Test_papercut.pdf
+  17 0.000 0.000 0.000: 00370-7b0aca.txt [1.7] 0.107 MB   1 pages ~/testdata/Writing_a_Short_Statement_of_Intention_for_your_Creative_Response.pdf
+  18 0.000 0.000 0.000: 00381-4a2a19.txt [1.5] 0.109 MB   2 pages ~/testdata/UMCP CITI Guidance 010814.pdf
+  19 0.000 0.000 0.000: 00479-6b07e5.txt [1.5] 0.138 MB   7 pages ~/testdata/outbreak.pdf
+  20 0.000 0.000 0.000: 00512-ca87d3.txt [1.5] 0.145 MB   2 pages ~/testdata/digital_signatures/summary-of-privacy-impact-assessment-for-the-face-verification-service.pdf
+  21 0.000 0.000 0.000: 00669-431a6f.txt [1.3] 0.183 MB   1 pages ~/testdata/2_pArial.pdf
+  22 0.000 0.000 0.000: 00719-e1e4f4.txt [1.5] 0.200 MB   8 pages ~/testdata/Book Club List - Oct 12.pdf
+  23 0.000 0.000 0.000: 00787-643d92.txt [1.5] 0.217 MB   2 pages ~/testdata/digital_signatures/digitalid.pdf
+  24 0.000 0.000 0.000: 00796-4f3394.txt [1.5] 0.220 MB   4 pages ~/testdata/digital_signatures/ws-inf3510-2014-l06-qa.pdf
+  25 0.000 0.000 0.000: 00903-79446c.txt [1.5] 0.254 MB   1 pages ~/testdata/Schedule_1.pdf
+  26 0.000 0.000 0.000: 01214-25a24b.txt [1.3] 0.368 MB   7 pages ~/testdata/yy.pdf
+  27 0.000 0.000 0.000: 01355-dbda68.txt [1.4] 0.430 MB   2 pages ~/testdata/How to Install ezeep.pdf
+  28 0.000 0.002 0.002: 01081-d886ee.txt [1.5] 0.317 MB  12 pages ~/testdata/16216-script-ad-hoc.pdf
+  29 0.000 0.002 0.004: 00890-8de84b.txt [1.6] 0.250 MB   7 pages ~/testdata/25.7.18-DS-closure-of-Dick-Smith-Foods-both-letters.pdf
+  30 0.000 0.003 0.005: 00948-7e29d9.txt [1.5] 0.270 MB   6 pages ~/testdata/Bring Your Own Technology 2017.pdf
+  31 0.000 0.006 0.009: 00658-4325a4.txt [1.5] 0.181 MB   1 pages ~/testdata/Term One Sport Junior.pdf
+  32 0.000 0.009 0.014: 00084-d42d6e.txt [1.6] 0.025 MB   2 pages ~/testdata/NathanZeldes_CV_2012.pdf
+  33 0.000 0.034 0.078: 01540-18ae0d.txt [1.5] 0.531 MB   5 pages ~/testdata/How-to-sign-a-PDF-form-using-a-digital-signature.pdf
+  34 0.000 0.056 0.109: 00013-6ac3cf.txt [1.3] 0.002 MB   1 pages ~/testdata/4_tables_in_subchap.pdf
+  35 0.000 0.089 0.128: 00028-ea3743.txt [1.3] 0.006 MB   1 pages ~/testdata/watermark/rotated_hungarian.pdf
+  36 0.000 0.091 0.161: 00210-e50fb3.txt [1.7] 0.065 MB   1 pages ~/testdata/44203338375-819208135-ticket.pdf
+  37 0.000 0.091 0.167: 00008-622986.txt [1.3] 0.001 MB   1 pages ~/testdata/template_1.pdf
+  38 0.000 0.103 0.169: 00286-177929.txt [1.3] 0.088 MB   1 pages ~/testdata/pizza invite .pdf
+  39 0.000 0.105 0.207: 00775-6effaf.txt [1.5] 0.214 MB   2 pages ~/testdata/PD1-2008_Form5_Counselling_and_report_fee_invoice_V2.pdf
+  40 0.000 0.118 0.203: 01458-840ef5.txt [1.3] 0.484 MB   1 pages ~/testdata/TOPIC_6__Questions_List_2018.pdf
+  41 0.000 0.139 0.241: 00023-1ac5c9.txt [1.3] 0.004 MB   1 pages ~/testdata/tablecell_wrap.pdf
+  42 0.000 0.146 0.272: 01309-636550.txt [1.4] 0.409 MB   2 pages ~/testdata/spool/000017.pdf
+  43 0.000 0.185 0.294: 00334-a659c5.txt [1.5] 0.100 MB   1 pages ~/testdata/titles-form-25-example.pdf
+  44 0.000 0.214 0.345: 00163-2cf5e2.txt [1.4] 0.049 MB   2 pages ~/testdata/spool/000025.pdf
+  45 0.000 0.222 0.396: 00168-9f4e35.txt [1.7] 0.051 MB   1 pages ~/testdata/xarc/47906749377-794160134-ticket.pdf
+  46 0.000 0.225 0.345: 01026-af4dee.txt [1.4] 0.295 MB   1 pages ~/testdata/digital_signatures/155_332161.pdf
+  47 0.000 0.235 0.380: 01030-b5792c.txt [1.4] 0.296 MB   1 pages ~/testdata/DynamicPDF2.pdf
+  48 0.000 0.239 0.404: 00205-5fddf0.txt [1.7] 0.064 MB   1 pages ~/testdata/spool/25805037562-523735331-ticket.pdf
+  49 0.000 0.247 0.376: 01028-a0c187.txt [1.4] 0.295 MB   1 pages ~/testdata/DynamicPDF4.pdf
+  50 0.000 0.247 0.380: 00239-aad9d5.txt [1.3] 0.073 MB   1 pages ~/testdata/Topic_3_-_Propn__Rates_Quest_List.pdf
+  51 0.000 0.262 0.423: 00804-12d658.txt [1.4] 0.222 MB   2 pages ~/testdata/Jenkins.pdf
+  52 0.000 0.281 0.454: 01013-501340.txt [1.4] 0.288 MB   1 pages ~/testdata/DynamicPDF.pdf
+  53 0.000 0.312 0.476: 00017-d44275.txt [1.3] 0.003 MB   1 pages ~/testdata/ERTA_UA030_fixture.pdf
+  54 0.000 0.312 0.494: 00186-ad3505.txt [1.4] 0.057 MB   1 pages ~/testdata/7421484123867537-5.pdf
+  55 0.000 0.320 0.469: 01950-fd4769.txt [1.7] 0.910 MB   1 pages ~/testdata/Lodging-summary-form.pdf
+  56 0.000 0.330 0.492: 00165-b8b6b0.txt [1.3] 0.051 MB   1 pages ~/testdata/private/github-peterwilliams97-receipt-2018-10-29.pdf
+  57 0.000 0.377 0.607: 00343-f8aad2.txt [1.5] 0.102 MB   1 pages ~/testdata/HR Solutions Spotlight - KM.pdf
+  58 0.000 0.386 0.650: 00020-2f4306.txt [1.3] 0.003 MB   1 pages ~/testdata/hendricks.pdf
+  59 0.000 0.396 0.589: 00981-4e8ab0.txt [1.4] 0.279 MB   1 pages ~/testdata/CP01276.pdf
+  60 0.000 0.477 0.740: 00107-efa8ca.txt [1.7] 0.032 MB   1 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Cover-2--Editorial-Board_2015_Journal-of-Biomedical-Informatics.pdf
+  61 0.000 0.486 0.750: 00011-2304d3.txt [1.3] 0.002 MB   1 pages ~/testdata/ERTA_UA_ladder.pdf
+  62 0.000 0.528 0.842: 00967-861f64.txt [1.4] 0.274 MB   1 pages ~/testdata/TheBeguiled_msnlist.pdf
+  63 0.000 0.541 0.704: 00115-2fc72d.txt [1.3] 0.036 MB   1 pages ~/testdata/unidoc/simple_invoice.pdf
+  64 0.000 0.601 0.648: 00431-f06380.txt [1.5] 0.123 MB   3 pages ~/testdata/scaling_report_2017.pdf
+  65 0.002 0.006 0.034: 01651-4be2f5.txt [1.4] 0.608 MB  42 pages ~/testdata/adobe/5411.ToUnicode.pdf
+  66 0.002 0.003 0.004: 00207-29a9c5.txt [1.3] 0.064 MB   3 pages ~/testdata/arteng07.pdf
+  67 0.002 0.001 0.001: 00550-cc0f65.txt [1.4] 0.153 MB   4 pages ~/testdata/214413e.pdf
+  68 0.003 0.006 0.009: 01398-9cf072.txt [1.5] 0.454 MB   5 pages ~/testdata/Tenant-Invoice-Credit-Setup.pdf
+  69 0.003 0.377 0.552: 00069-754337.txt [1.3] 0.020 MB  10 pages ~/testdata/ERT Fixture Sunday Jnr .pdf
+  70 0.003 0.016 0.024: 01052-5b7295.txt [1.5] 0.307 MB   9 pages ~/testdata/digital_signatures/face-verification-service-fvs-access-policy.pdf
+  71 0.003 0.007 0.020: 01707-e080e6.txt [1.6] 0.664 MB   5 pages ~/testdata/digital_signatures/pdf-signer-tool-guide.pdf
+  72 0.003 0.295 0.505: 00767-9b9271.txt [1.3] 0.211 MB   3 pages ~/testdata/Giron-resen_a-OlaFin-2.pdf
+  73 0.003 0.004 0.005: 00180-c4cef3.txt [1.3] 0.055 MB  25 pages ~/testdata/07-03-14_ken-henry-speech-to-treasury-staff.pdf
+  74 0.003 0.042 0.074: 00183-d7b9c0.txt [1.3] 0.056 MB   3 pages ~/testdata/Senior Developer,Single Origin - Position Description (January 2018).pdf
+  75 0.003 0.002 0.002: 00838-817331.txt [1.5] 0.232 MB   2 pages ~/testdata/116 Opposition leader SNEDDEN.pdf
+  76 0.003 0.003 0.005: 00537-743228.txt [1.6] 0.149 MB   4 pages ~/testdata/Reducing-Meeting-Footprint.pdf
+  77 0.003 0.358 0.529: 00055-c5714b.txt [1.3] 0.014 MB   7 pages ~/testdata/ERTA Sunday fixture 2017 Winter.pdf
+  78 0.003 0.002 0.002: 01442-c2f5d9.txt [1.5] 0.472 MB  40 pages ~/testdata/Halldór Laxness DBL 293.pdf
+  79 0.003 0.016 0.022: 01141-359581.txt [1.6] 0.342 MB   9 pages ~/testdata/somfy_rts_trouble_shooting_guide.pdf
+  80 0.003 0.096 0.162: 01113-dc7b4d.txt [1.5] 0.327 MB   9 pages ~/testdata/Revision-Book-2-with-quotes-to-learn.pdf
+  81 0.004 0.327 0.509: 00031-c6ab3c.txt [1.3] 0.007 MB   3 pages ~/testdata/ERT fixture Saturday Jnr.pdf
+  82 0.004 0.002 0.002: 00935-2c71a6.txt [1.5] 0.267 MB   3 pages ~/testdata/Schoology email to parents 2017.pdf
+  83 0.004 0.008 0.010: 01187-c49244.txt [1.6] 0.359 MB  85 pages ~/testdata/thesis (1).pdf
+  84 0.004 0.002 0.002: 00191-ff743d.txt [1.5] 0.059 MB   3 pages ~/testdata/writing+a+cover+letter.pdf
+  85 0.004 0.012 0.033: 01562-961811.txt [1.6] 0.542 MB   3 pages ~/testdata/private/Progress Check Report Letter and Instructions.pdf
+  86 0.004 0.006 0.008: 00946-247637.txt [1.5] 0.270 MB   9 pages ~/testdata/adobe/quick-start-requiring-digital-certificates.pdf
+  87 0.004 0.149 0.274: 01082-297b59.txt [1.5] 0.317 MB   1 pages ~/testdata/OptimisingMineralsAnalysis.pdf
+  88 0.004 0.002 0.003: 00335-647cc7.txt [1.3] 0.100 MB   6 pages ~/testdata/education.pdf
+  89 0.004 0.002 0.002: 00686-0dd3da.txt [1.3] 0.189 MB   1 pages ~/testdata/Letter to  Community re Age Story December 2016.pdf
+  90 0.004 0.002 0.002: 00823-eb2537.txt [1.3] 0.227 MB   1 pages ~/testdata/Announcement regarding Deputy Head[1].pdf
+  91 0.004 0.069 0.138: 00097-55351b.txt [1.4] 0.029 MB   3 pages ~/testdata/K-10.pdf
+  92 0.004 0.003 0.003: 00212-42648e.txt [1.5] 0.066 MB   1 pages ~/testdata/Introductory Work Experience letter to parents.pdf
+  93 0.004 0.014 0.018: 00891-a8e4a6.txt [1.5] 0.250 MB  12 pages ~/testdata/digital_signatures/LFEA.pdf
+  94 0.005 0.414 0.636: 01106-15e9ae.txt [1.5] 0.324 MB   3 pages ~/testdata/2017 Apps List.pdf
+  95 0.005 0.126 0.234: 00945-6a4b4f.txt [1.3] 0.269 MB   4 pages ~/testdata/pdf_text/4f04d5ce3c3592832eb40c23cc8fc5a9131e.pdf
+  96 0.005 0.003 0.003: 01426-f44fc3.txt [1.7] 0.466 MB   1 pages ~/testdata/Parent Information Evening - Admin & Medical Form.pdf
+  97 0.005 0.053 0.101: 01446-8a7658.txt [1.4] 0.475 MB   5 pages ~/testdata/140812ca_att_33_2.pdf
+  98 0.005 0.186 0.310: 00153-eb58be.txt [1.5] 0.046 MB   2 pages ~/testdata/Procedure-3.-Advanced-Standing-Review-of-decision.pdf
+  99 0.005 0.003 0.003: 00452-9a0e66.txt [1.5] 0.130 MB   1 pages ~/testdata/ICT Parent letter 7 2016.pdf
+ 100 0.005 0.003 0.003: 00584-591e64.txt [1.5] 0.162 MB   1 pages ~/testdata/NAPLAN parent letter 2017.pdf
+ 101 0.005 0.012 0.020: 00167-d15510.txt [1.3] 0.051 MB   2 pages ~/testdata/trucare-business-profile.pdf
+ 102 0.005 0.051 0.229: 00331-14525e.txt [1.3] 0.099 MB  10 pages ~/testdata/Camberwell_Grammar_School_-_Year_9_Activities_Selection.pdf
+ 103 0.006 0.252 0.415: 00111-c478b0.txt [1.7] 0.033 MB   2 pages ~/testdata/iba18entryfees.pdf
+ 104 0.006 0.015 0.026: 00287-90f974.txt [1.5] 0.088 MB  11 pages ~/testdata/the-agile-revolution-in-marketing.pdf
+ 105 0.006 0.004 0.005: 01397-938bdf.txt [1.5] 0.454 MB  19 pages ~/testdata/adobe/180618 high availability whitepaper.pdf
+ 106 0.006 0.004 0.003: 00302-68c9dc.txt [1.5] 0.093 MB   1 pages ~/testdata/SCHOLARSHIPS Generic Letter.pdf
+ 107 0.006 0.004 0.004: 01498-368fdd.txt [1.5] 0.506 MB   1 pages ~/testdata/HSBC Home Value - PaperCut Oct 2018.pdf
+ 108 0.006 0.012 0.014: 00589-9c6c4a.txt [1.3] 0.163 MB  11 pages ~/testdata/RichCaruanaCV.06.20.2008.pdf
+ 109 0.006 0.005 0.006: 01652-d0b0e6.txt [1.5] 0.610 MB   4 pages ~/testdata/Umeå+City+introduction+and+context.pdf
+ 110 0.006 0.463 0.647: 00411-bf77b8.txt [1.3] 0.118 MB   8 pages ~/testdata/Preistraeger.pdf
+ 111 0.006 0.004 0.004: 00523-97e5dd.txt [1.5] 0.147 MB   1 pages ~/testdata/Letter to families 7 - 12  re report changes Semester 1 2017.pdf
+ 112 0.006 0.004 0.004: 00433-3eb10d.txt [1.5] 0.124 MB   1 pages ~/testdata/2017 Arts Festival Letter.pdf
+ 113 0.006 0.608 0.895: 00226-688439.txt [1.5] 0.071 MB   1 pages ~/testdata/2017_2018 SUMMER TRAINING SCHEDULE (004).pdf
+ 114 0.006 0.004 0.004: 00815-f4a183.txt [1.3] 0.224 MB   1 pages ~/testdata/school.pdf
+ 115 0.006 0.004 0.004: 00917-f68700.txt [1.3] 0.258 MB   1 pages ~/testdata/s.pdf
+ 116 0.007 0.011 0.016: 00939-0c10df.txt [1.5] 0.267 MB   7 pages ~/testdata/FAQ Flu Vaccination 2017 FS.pdf
+ 117 0.007 0.007 0.008: 00099-8e13d8.txt [1.5] 0.030 MB   4 pages ~/testdata/CMJ-CZMA_pageforTCSsite.pdf
+ 118 0.007 0.240 0.339: 00267-912aa2.txt [1.3] 0.081 MB   1 pages ~/testdata/Topic_8_-_Probability_Questn_List.pdf
+ 119 0.007 0.006 0.008: 01463-d3dedc.txt [1.5] 0.486 MB   2 pages ~/testdata/NetworksOfControl_PressInfoEN.pdf
+ 120 0.007 0.185 0.315: 01494-b9130f.txt [1.5] 0.504 MB   5 pages ~/testdata/IJETAE_1012_47.pdf
+ 121 0.007 0.005 0.007: 01423-c5cd51.txt [1.5] 0.464 MB  19 pages ~/testdata/PaperCut-High-Availability-whitepaper.pdf
+ 122 0.007 0.008 0.010: 00064-9373e8.txt [1.4] 0.017 MB   2 pages ~/testdata/policyprocedure-adjunctprofessor.pdf
+ 123 0.007 0.015 0.024: 00530-ff22be.txt [1.4] 0.148 MB  14 pages ~/testdata/Ingmar_Bergmann.pdf
+ 124 0.007 0.054 0.074: 01982-376b7f.txt [1.5] 0.955 MB  17 pages ~/testdata/digital_signatures/20180606 - Digital iD Product and Compliance FAQs v1.7.pdf
+ 125 0.007 0.007 0.008: 00531-507281.txt [1.3] 0.148 MB  13 pages ~/testdata/Daly_UK_Paper.pdf
+ 126 0.008 0.020 0.023: 00715-6941ce.txt [1.7] 0.199 MB  12 pages ~/testdata/adobe/aatl_technical_requirements_v2.0.pdf
+ 127 0.008 0.010 0.013: 00075-b417d3.txt [1.5] 0.023 MB   2 pages ~/testdata/t078-notice-of-approval-and-exemption-operation-of-b-double-up-to-25m-in-length.pdf
+ 128 0.008 0.007 0.011: 00629-9d1fe4.txt [1.5] 0.174 MB  27 pages ~/testdata/2013-05-12-Lack-of-effectiveness-of-testing-WG-Report-Final.pdf
+ 129 0.008 0.005 0.006: 00609-808a4b.txt [1.5] 0.169 MB   3 pages ~/testdata/digital_signatures/face-matching-services-fact-sheet.pdf
+ 130 0.008 0.848 0.980: 00414-f5c967.txt [1.5] 0.119 MB   8 pages ~/testdata/Parent Communication Directory - Year 8 - February 2017.pdf
+ 131 0.008 0.015 0.018: 01007-e86011.txt [1.5] 0.285 MB   3 pages ~/testdata/DrJekyllandMrHydeKeyQuotations.pdf
+ 132 0.008 0.053 0.065: 00249-fdb389.txt [1.6] 0.075 MB   7 pages ~/testdata/9780230725720_preview.pdf
+ 133 0.008 0.006 0.005: 00327-f31a46.txt [1.5] 0.098 MB   1 pages ~/testdata/letter to Parents re Telstra Phone Line.pdf
+ 134 0.008 0.110 0.192: 01117-9912d9.txt [1.5] 0.329 MB   4 pages ~/testdata/ckm_cv_sept_2018public.pdf
+ 135 0.009 0.018 0.025: 00572-f33eca.txt [1.5] 0.160 MB   7 pages ~/testdata/Anderson_and_Smith_EmotionalGeographies_ICS_Pre-Print_Final.pdf
+ 136 0.009 0.033 0.051: 00593-00bfc4.txt [1.3] 0.165 MB   2 pages ~/testdata/Ondernemingsraad/mywayPR.pdf
+ 137 0.009 0.217 0.424: 00174-a9272d.txt [1.4] 0.054 MB   1 pages ~/testdata/Copyright_9-23-08.pdf
+ 138 0.009 0.007 0.007: 00235-0dc303.txt [1.5] 0.072 MB   1 pages ~/testdata/2016 FOB Season Launch Breakfast.pdf
+ 139 0.009 0.015 0.020: 01018-b38ef1.txt [1.3] 0.289 MB   4 pages ~/testdata/spool/000010.pdf
+ 140 0.009 0.042 0.064: 00395-3e2765.txt [1.5] 0.115 MB   8 pages ~/testdata/FairUse.pdf
+ 141 0.009 0.010 0.014: 01984-cb74aa.txt [1.6] 0.960 MB  64 pages ~/testdata/Gell-Mann_OHO.pdf
+ 142 0.009 0.284 0.575: 00243-c52eb9.txt [1.4] 0.074 MB   4 pages ~/testdata/spool/000015.pdf
+ 143 0.009 0.063 0.097: 00849-cf6776.txt [1.5] 0.236 MB  17 pages ~/testdata/digital_signatures/docusign-for-salesforce.pdf
+ 144 0.009 0.009 0.012: 00500-d64e22.txt [1.4] 0.143 MB   4 pages ~/testdata/Press_release_resolution_1_CGPM.pdf
+ 145 0.009 0.018 0.021: 00096-1bfdf7.txt [1.5] 0.029 MB   2 pages ~/testdata/ACS4PartnerQuotes.pdf
+ 146 0.009 0.044 0.084: 00510-75a7e8.txt [1.5] 0.144 MB   2 pages ~/testdata/171130 Joint CEOs and Chairs letter.pdf
+ 147 0.009 0.373 0.569: 00225-350193.txt [1.3] 0.070 MB   4 pages ~/testdata/g-suite/SAS14-Attendees.pdf
+ 148 0.010 0.172 0.273: 01867-30aa7e.txt [1.3] 0.809 MB  60 pages ~/testdata/independent_learner_course_guide.pdf
+ 149 0.010 0.008 0.007: 00148-fc979e.txt [1.5] 0.045 MB   1 pages ~/testdata/Computational-Thinking-Competition-Letter-2017.pdf
+ 150 0.010 0.008 0.010: 00170-639670.txt [1.4] 0.052 MB   8 pages ~/testdata/digital_signatures/19005-1_FAQ.pdf
+ 151 0.010 0.213 0.316: 00093-c965d7.txt [1.5] 0.028 MB   1 pages ~/testdata/Yr 8 Exam Timetable Term 2.pdf
+ 152 0.010 0.007 0.007: 00847-47810a.txt [1.5] 0.235 MB   1 pages ~/testdata/Yr 7 Immunisations.pdf
+ 153 0.010 0.074 0.124: 01828-e60c90.txt [1.5] 0.785 MB  37 pages ~/testdata/digital_signatures/requesting-agency-services-mou-template-fvs.pdf
+ 154 0.010 0.008 0.012: 01060-83ac3c.txt [1.5] 0.308 MB   2 pages ~/testdata/140804-Hastings-Fact-Sheet.pdf
+ 155 0.010 0.035 0.065: 01386-169940.txt [1.5] 0.447 MB  20 pages ~/testdata/xarc/7-divergentthinkingpresentation.pdf
+ 156 0.010 0.040 0.068: 00159-efba29.txt [1.5] 0.048 MB   2 pages ~/testdata/Exam timetable 2017.pdf
+ 157 0.010 0.043 0.075: 00247-9eb020.txt [1.5] 0.075 MB   2 pages ~/testdata/Exam timetable letter 2016.pdf
+ 158 0.010 0.006 0.006: 00497-1067a6.txt [1.5] 0.142 MB   2 pages ~/testdata/digital_signatures/Reader-rights.pdf
+ 159 0.010 0.015 0.018: 00570-d90e12.txt [1.5] 0.160 MB   1 pages ~/testdata/150213-CEOBioV1.pdf
+ 160 0.010 0.018 0.024: 00045-8c3af7.txt [1.3] 0.010 MB   3 pages ~/testdata/3_chapters_margins.pdf
+ 161 0.010 0.008 0.009: 00580-5c9692.txt [1.4] 0.161 MB  25 pages ~/testdata/Ludwig_Boltzmann.pdf
+ 162 0.010 0.010 0.012: 01287-95dca7.txt [1.5] 0.402 MB  10 pages ~/testdata/254-811-1-PB.pdf
+ 163 0.010 0.307 0.461: 00406-614faf.txt [1.4] 0.118 MB   2 pages ~/testdata/aprathirty.pdf
+ 164 0.011 0.157 0.289: 01041-7193f6.txt [1.5] 0.301 MB   3 pages ~/testdata/VicEmergency-Newsletter-Thursday-5-April.pdf
+ 165 0.011 0.016 0.020: 00517-8d482a.txt [1.3] 0.145 MB  14 pages ~/testdata/quiggin/QuigginChapter3Revised.pdf
+ 166 0.011 0.072 0.107: 01462-827947.txt [1.5] 0.485 MB   2 pages ~/testdata/PC_Coffee Policy (Final V1.0).pdf
+ 167 0.011 0.023 0.029: 00989-d67be0.txt [1.5] 0.280 MB   3 pages ~/testdata/16178-ipa-laminal.pdf
+ 168 0.011 0.026 0.034: 00398-d897b5.txt [1.4] 0.116 MB   6 pages ~/testdata/IJIRAE_Survey_on_Text_Classification.pdf
+ 169 0.011 0.053 0.107: 00056-b0248b.txt [1.6] 0.014 MB   2 pages ~/testdata/xarc/202 moot.pdf
+ 170 0.011 0.009 0.010: 01236-a95b3e.txt [1.3] 0.378 MB   4 pages ~/testdata/digital_signatures/Basics-of-Digital-Signatures-and-PKI-s (1).pdf
+ 171 0.011 0.030 0.044: 00132-5f74a1.txt [1.3] 0.040 MB   1 pages ~/testdata/fubini_obit.pdf
+ 172 0.011 0.136 0.229: 00539-935317.txt [1.3] 0.149 MB   6 pages ~/testdata/4_headers.pdf
+ 173 0.011 0.063 0.104: 00619-bb73d5.txt [1.6] 0.172 MB  18 pages ~/testdata/myhealth/NEHTA_1157_2010_EndpointLocationService_TechnicalServiceSpecification_v1.3.pdf
+ 174 0.011 0.008 0.010: 00501-5a6ca5.txt [1.5] 0.143 MB   2 pages ~/testdata/fact-sheet-climate-change.pdf
+ 175 0.011 0.007 0.009: 00250-56f413.txt [1.3] 0.076 MB   2 pages ~/testdata/4_barcode_on_tpl.pdf
+ 176 0.011 0.201 0.350: 01246-f6623f.txt [1.6] 0.384 MB  41 pages ~/testdata/digital_signatures/GlobalSign_Client_API_User_Guide.pdf
+ 177 0.011 0.178 0.176: 00650-866cea.txt [1.4] 0.179 MB   1 pages ~/testdata/a_outline.pdf
+ 178 0.011 0.178 0.176: 00720-5d85bc.txt [1.4] 0.200 MB   1 pages ~/testdata/a_im_nomask_hi.pdf
+ 179 0.011 0.178 0.176: 00721-008266.txt [1.4] 0.200 MB   1 pages ~/testdata/a_im_nomask.pdf
+ 180 0.011 0.178 0.176: 00727-8441c6.txt [1.4] 0.202 MB   1 pages ~/testdata/a_im_fit.pdf
+ 181 0.011 0.178 0.176: 00812-3d0b25.txt [1.4] 0.223 MB   1 pages ~/testdata/a_im_good.pdf
+ 182 0.011 0.178 0.176: 01071-a04a83.txt [1.4] 0.312 MB   1 pages ~/testdata/a_im_diag.pdf
+ 183 0.011 0.178 0.176: 01098-b47b0b.txt [1.4] 0.321 MB   1 pages ~/testdata/a_imagemask.pdf
+ 184 0.011 0.178 0.176: 01109-b8bc55.txt [1.4] 0.325 MB   1 pages ~/testdata/a_im_diag_final.pdf
+ 185 0.011 0.178 0.176: 01533-299518.txt [1.4] 0.528 MB   1 pages ~/testdata/ricoh02.SPL.pdf
+ 186 0.011 0.068 0.100: 01762-1186d5.txt [1.5] 0.709 MB  51 pages ~/testdata/pdf_text/Advice 21 Plan before you scan.pdf
+ 187 0.011 0.204 0.245: 01837-6846ef.txt [1.5] 0.794 MB  16 pages ~/testdata/s03c12a.pdf
+ 188 0.012 0.399 0.575: 00077-88a347.txt [1.3] 0.024 MB  12 pages ~/testdata/Sunday 2016 team Fixtures.pdf
+ 189 0.012 0.013 0.017: 00591-5f5315.txt [1.3] 0.164 MB  17 pages ~/testdata/quiggin/QuigginChapter 11  Market failure.pdf
+ 190 0.012 0.274 0.416: 00076-c09364.txt [1.5] 0.024 MB   1 pages ~/testdata/Depth_Chart_Stanford.pdf
+ 191 0.012 0.294 0.411: 01384-2799db.txt [1.3] 0.446 MB   2 pages ~/testdata/telisrts_programming.pdf
+ 192 0.012 0.222 0.366: 01729-937156.txt [1.3] 0.679 MB   8 pages ~/testdata/EY-four-themes-describe-historic-change-in-the-technology-sector.pdf
+ 193 0.012 0.007 0.007: 00384-7fc4c8.txt [1.4] 0.112 MB  18 pages ~/testdata/independent people.pdf
+ 194 0.012 0.012 0.015: 01968-c63043.txt [1.5] 0.939 MB  12 pages ~/testdata/privacy/rss-report-opps-and-ethics-of-big-data-feb-2016.pdf
+ 195 0.012 0.013 0.015: 00192-4e3991.txt [1.7] 0.060 MB   6 pages ~/testdata/su-gente-indipendente-di-halldor-laxness.pdf
+ 196 0.013 0.011 0.011: 00441-bf95f4.txt [1.4] 0.126 MB   5 pages ~/testdata/bullshitjobs1.pdf
+ 197 0.013 0.033 0.053: 00032-a85a69.txt [1.3] 0.007 MB   6 pages ~/testdata/3_chapters.pdf
+ 198 0.013 0.024 0.030: 01574-6c5f31.txt [1.5] 0.552 MB  35 pages ~/testdata/CCU22.pdf
+ 199 0.013 0.010 0.010: 00737-c2a629.txt [1.5] 0.205 MB   1 pages ~/testdata/Email to Parents of 7C - 161017.pdf
+ 200 0.013 0.034 0.056: 00024-303460.txt [1.3] 0.004 MB   3 pages ~/testdata/2_pwrap.pdf
+ 201 0.013 0.034 0.056: 00038-ce5930.txt [1.3] 0.008 MB   7 pages ~/testdata/2_pwrap2.pdf
+ 202 0.013 0.046 0.066: 01601-e1f964.txt [1.4] 0.573 MB  24 pages ~/testdata/RootstockWhitePaperv9-Overview.pdf
+ 203 0.013 0.013 0.022: 01297-326ed3.txt [1.5] 0.406 MB   2 pages ~/testdata/Wouter Koelewijn Press Release for Website.pdf
+ 204 0.014 0.014 0.018: 00402-44f6b6.txt [1.4] 0.117 MB   5 pages ~/testdata/Letter of His Holiness pope Francis to the People of God (1).pdf
+ 205 0.014 0.010 0.013: 01473-bdb10b.txt [1.5] 0.492 MB   5 pages ~/testdata/09.07.18_AustraliaPopulationGrowth30YearsAheadofSchedule_PropertyObserver.pdf
+ 206 0.014 0.135 0.235: 00066-c5af10.txt [1.7] 0.018 MB   1 pages ~/testdata/pdl.pdf
+ 207 0.014 0.309 0.439: 01986-4321e9.txt [1.5] 0.965 MB  35 pages ~/testdata/NHFA-user-guide-v4.2.1.pdf
+ 208 0.014 0.027 0.035: 00388-b05a75.txt [1.7] 0.113 MB  20 pages ~/testdata/2009-09-22_BCC_Council_Meeting_Minutes.pdf
+ 209 0.014 0.019 0.028: 00481-41ec49.txt [1.3] 0.138 MB   8 pages ~/testdata/a_thermodynamics_history.pdf
+ 210 0.014 0.210 0.348: 00761-0681b3.txt [1.5] 0.210 MB   7 pages ~/testdata/IJARCCE 40.pdf
+ 211 0.014 0.042 0.059: 00934-b850c2.txt [1.3] 0.266 MB   8 pages ~/testdata/ED581358.pdf
+ 212 0.014 0.042 0.040: 01061-7b5b11.txt [1.5] 0.309 MB  49 pages ~/testdata/How Being Busy Can Increase Motivation and Reduce Task Completion Time.pdf
+ 213 0.014 0.018 0.023: 01000-25d523.txt [1.3] 0.284 MB  12 pages ~/testdata/quiggin/QuigginChapter4Draft.pdf
+ 214 0.014 0.021 0.027: 00716-dffa0c.txt [1.4] 0.199 MB  18 pages ~/testdata/Niman-George-and-Open-Source.pdf
+ 215 0.014 0.011 0.013: 00538-e17bf1.txt [1.4] 0.149 MB   6 pages ~/testdata/sedhelpsheetfinal.pdf
+ 216 0.015 0.015 0.018: 00487-15f954.txt [1.3] 0.140 MB  15 pages ~/testdata/quiggin/QuigginChapter1Revised.pdf
+ 217 0.015 0.018 0.021: 01921-d6cc34.txt [1.5] 0.872 MB  25 pages ~/testdata/Boyd Richerson Henrich The cultural evolution of technology 7.pdf
+ 218 0.015 0.017 0.021: 01722-52137f.txt [1.5] 0.675 MB  60 pages ~/testdata/CIPM2017-EN.pdf
+ 219 0.015 0.510 0.513: 01435-e65525.txt [1.7] 0.470 MB  33 pages ~/testdata/2018-house-prices-rents-home-ownership-affordability-references.pdf
+ 220 0.015 0.117 0.182: 00113-d0c0f3.txt [1.5] 0.034 MB   2 pages ~/testdata/digital_signatures/Acrobat_DigSig_AlgorithmsAll.pdf
+ 221 0.015 0.032 0.047: 01619-238fad.txt [1.3] 0.584 MB  42 pages ~/testdata/new_products/Equitrac_Office_v5_-_RFP__Proposal_Builder_(Word_Doc).pdf
+ 222 0.015 0.206 0.375: 00269-e6f4d9.txt [1.4] 0.082 MB   2 pages ~/testdata/Ten ways to promote the natural genius in your child.pdf
+ 223 0.015 0.594 0.781: 01164-faf097.txt [1.7] 0.351 MB   4 pages ~/testdata/Cross_Country_2018 (1).pdf
+ 224 0.015 0.015 0.019: 00228-438fad.txt [1.3] 0.071 MB   8 pages ~/testdata/symbiosis-provocation.pdf
+ 225 0.015 0.489 0.660: 00495-87edb3.txt [1.3] 0.142 MB   1 pages ~/testdata/BSD 5 Roster 2017.pdf
+ 226 0.015 0.016 0.018: 00224-e476ed.txt [1.5] 0.070 MB   3 pages ~/testdata/MS Activities Term 3 2017 Letter.pdf
+ 227 0.015 0.303 0.445: 00490-356108.txt [1.5] 0.141 MB   7 pages ~/testdata/private/Williams E-tickets.pdf
+ 228 0.015 0.290 0.466: 00399-2f8a0f.txt [1.4] 0.116 MB   2 pages ~/testdata/Peter W Power Pack - Thank You - Apple (AU).pdf
+ 229 0.016 0.137 0.247: 00829-837c13.txt [1.6] 0.230 MB   8 pages ~/testdata/Bamburgh+Castle+Kids+Activity+Pack.pdf
+ 230 0.016 0.111 0.187: 01777-a0a0da.txt [1.6] 0.722 MB  19 pages ~/testdata/resource.pdf
+ 231 0.016 0.065 0.116: 01690-7ab4b7.txt [1.6] 0.652 MB   2 pages ~/testdata/Governance_Datatsheet.pdf
+ 232 0.016 0.116 0.173: 01809-d4d188.txt [1.5] 0.752 MB  11 pages ~/testdata/156.pdf
+ 233 0.016 0.102 0.170: 00166-c44f2d.txt [1.4] 0.051 MB   2 pages ~/testdata/Detail.pdf
+ 234 0.016 0.205 0.375: 01139-e36dc6.txt [1.5] 0.340 MB   2 pages ~/testdata/RevolutionisingConveyorScanningOreSorting.pdf
+ 235 0.016 0.017 0.020: 00764-e66a1b.txt [1.5] 0.210 MB  20 pages ~/testdata/Transcript-SMCP-Full-Year-2017-Results-Presentation.pdf
+ 236 0.016 0.205 0.291: 00756-a3d78e.txt [1.6] 0.209 MB   5 pages ~/testdata/unidoc-report-adobe.pdf
+ 237 0.016 0.205 0.291: 00880-593c8b.txt [1.3] 0.246 MB   5 pages ~/testdata/unidoc-report.pdf
+ 238 0.016 0.194 0.330: 00322-5df24f.txt [1.4] 0.097 MB   1 pages ~/testdata/mh-guide-matrix.pdf
+ 239 0.016 0.021 0.024: 01358-ab1929.txt [1.5] 0.432 MB  14 pages ~/testdata/5100.pdf
+ 240 0.016 0.141 0.273: 00691-6ba798.txt [1.5] 0.190 MB   3 pages ~/testdata/8389-EP5.7 Tech Specs Standard Edition.pdf
+ 241 0.016 0.712 0.837: 01904-092c4d.txt [1.4] 0.851 MB   1 pages ~/testdata/Sandy-Bay-A3-Campus-Map-WebPrint-JULY-18.pdf
+ 242 0.016 0.019 0.025: 00672-1dc32f.txt [1.3] 0.184 MB  22 pages ~/testdata/xarc/CHAPTER 1.pdf
+ 243 0.016 0.022 0.035: 00211-8cb687.txt [1.3] 0.066 MB   4 pages ~/testdata/spool/000004.gray.pdf
+ 244 0.016 0.095 0.131: 00910-f34fc3.txt [1.5] 0.256 MB  26 pages ~/testdata/32-30.pdf
+ 245 0.017 0.019 0.023: 00386-5e5601.txt [1.3] 0.112 MB  14 pages ~/testdata/quiggin/QuigginChapter6Draft.pdf
+ 246 0.017 0.240 0.417: 00337-0256b5.txt [1.5] 0.101 MB   3 pages ~/testdata/xarc/HD 8 Creative thinking and problem-solving.pdf
+ 247 0.017 0.018 0.024: 01247-db9ee3.txt [1.5] 0.385 MB   1 pages ~/testdata/HSBC offer for Papercut August 2018.pdf
+ 248 0.017 0.067 0.096: 01193-708b84.txt [1.6] 0.361 MB  20 pages ~/testdata/myhealth/NEHTA_0999_2009_SecureMessageDelivery_Overview_v1.0.pdf
+ 249 0.017 0.079 0.125: 01628-1391ce.txt [1.4] 0.590 MB  16 pages ~/testdata/digital_signatures/AGAF-glossary.pdf
+ 250 0.017 0.033 0.048: 01039-5eab52.txt [1.5] 0.301 MB  39 pages ~/testdata/SSRN-id2789865.pdf
+ 251 0.017 0.016 0.020: 01272-096a98.txt [1.5] 0.399 MB   9 pages ~/testdata/yearning/Ng_MLY09.pdf
+ 252 0.017 0.017 0.022: 01568-32b85e.txt [1.5] 0.545 MB   5 pages ~/testdata/10_things_todo_Tokyo_Japan.pdf
+ 253 0.017 0.497 0.638: 01172-47f03d.txt [1.4] 0.353 MB   7 pages ~/testdata/controller.pdf
+ 254 0.017 0.038 0.049: 00473-18a470.txt [1.6] 0.136 MB  10 pages ~/testdata/myhealth/NEHTA_0640_2010_SecureMessageDelivery_QualifiedIdentifiers_v2.0.pdf
+ 255 0.017 0.073 0.122: 00124-8b3412.txt [1.5] 0.039 MB   3 pages ~/testdata/Prashant_CV.pdf
+ 256 0.017 0.242 0.303: 00140-7bd410.txt [1.4] 0.042 MB   6 pages ~/testdata/HayeksInfluence.pdf
+ 257 0.017 0.165 0.226: 01971-31e591.txt [1.6] 0.943 MB  12 pages ~/testdata/Japan-EAG2014-Country-Note.pdf
+ 258 0.018 0.011 0.011: 00711-30de1b.txt [1.5] 0.198 MB   1 pages ~/testdata/Austria-Scott-127.pdf
+ 259 0.018 0.064 0.094: 01233-056ba1.txt [1.5] 0.377 MB  47 pages ~/testdata/digital_signatures/dual-services-mou-template-fvs.pdf
+ 260 0.018 0.029 0.040: 01422-612258.txt [1.3] 0.463 MB  36 pages ~/testdata/The_Silent_Politics_of_Temporal_Work_A_C.pdf
+ 261 0.018 0.023 0.024: 00896-2350f1.txt [1.5] 0.252 MB  64 pages ~/testdata/hunter_hewell_honorsthesis.pdf
+ 262 0.018 0.202 0.356: 00951-d6e3a4.txt [1.5] 0.270 MB   2 pages ~/testdata/digital_signatures/kcl-law-property-update-rebate-statement-agents-not-entitled-to-commissions-and-are-liable-to-refund.pdf
+ 263 0.018 0.041 0.054: 00456-6bafca.txt [1.3] 0.131 MB  18 pages ~/testdata/xarc/CHAPTER 5.pdf
+ 264 0.018 0.020 0.026: 00565-b51bc8.txt [1.3] 0.157 MB  15 pages ~/testdata/quiggin/QuigginChapter2Revised.pdf
+ 265 0.018 0.014 0.015: 01478-2b48c6.txt [1.5] 0.494 MB  32 pages ~/testdata/l09r01.pdf
+ 266 0.018 0.051 0.070: 01750-de00e7.txt [1.5] 0.699 MB  36 pages ~/testdata/Canon Security White Paper_Canadian Version.pdf
+ 267 0.018 0.062 0.101: 00135-4ef502.txt [1.3] 0.041 MB   3 pages ~/testdata/new_products/WhatIsandIsNotPHI.pdf
+ 268 0.018 0.032 0.047: 00634-5ba33f.txt [1.4] 0.175 MB   9 pages ~/testdata/2007WCJSSpeech_20071228.pdf
+ 269 0.018 0.078 0.106: 00304-ab1999.txt [1.4] 0.093 MB   2 pages ~/testdata/independent_peoplesjlfsttt_flk_14_by_halldr_laxness.pdf
+ 270 0.018 0.194 0.347: 01210-00923f.txt [1.4] 0.365 MB   1 pages ~/testdata/page0012.pdf
+ 271 0.018 0.146 0.254: 01524-86090f.txt [1.4] 0.522 MB   1 pages ~/testdata/searchable-symmetric-encryption-elcrypt.pdf
+ 272 0.018 0.069 0.093: 01620-13adc5.txt [1.4] 0.585 MB   7 pages ~/testdata/digital_signatures/NeAF-executive-summary.pdf
+ 273 0.018 0.022 0.026: 00109-b67a44.txt [1.4] 0.032 MB  15 pages ~/testdata/CollapseofMonetarismdelivered.pdf
+ 274 0.019 0.017 0.022: 01783-6ff454.txt [1.5] 0.728 MB  17 pages ~/testdata/White-paper-Counterfeit-Brand-protection-02.02.2017.pdf
+ 275 0.019 0.018 0.022: 00307-fea1d0.txt [1.5] 0.094 MB   3 pages ~/testdata/MS Activities Term 2 2016 Letter.pdf
+ 276 0.019 0.360 0.499: 01452-1ff8d0.txt [1.5] 0.479 MB  29 pages ~/testdata/ChapterP.pdf
+ 277 0.019 0.024 0.032: 00347-d4ee06.txt [1.3] 0.103 MB  11 pages ~/testdata/blank_pages/000015.pdf
+ 278 0.019 0.019 0.023: 01242-530292.txt [1.3] 0.380 MB  17 pages ~/testdata/document.pdf
+ 279 0.019 0.026 0.030: 00814-e41680.txt [1.4] 0.224 MB   8 pages ~/testdata/Print_Stream_Encryption.pdf
+ 280 0.019 0.119 0.201: 01221-5b497a.txt [1.5] 0.371 MB   5 pages ~/testdata/Principl Letter - start of year - 2017.pdf
+ 281 0.019 0.021 0.026: 01850-173cdf.txt [1.4] 0.799 MB  19 pages ~/testdata/E-filing-user-manual.pdf
+ 282 0.019 0.018 0.023: 00457-328d08.txt [1.3] 0.131 MB  16 pages ~/testdata/quiggin/QuigginChapter7Draft.pdf
+ 283 0.019 0.060 0.080: 01373-cd2af3.txt [1.3] 0.441 MB  21 pages ~/testdata/pdf_text/10.1.1.225.7536.pdf
+ 284 0.019 0.189 0.305: 00755-149699.txt [1.4] 0.208 MB   5 pages ~/testdata/xarc/250a5c08cb131c12125c916530830b6d-4836-RJASET-DOI.pdf
+ 285 0.019 0.021 0.026: 01004-71ab1b.txt [1.3] 0.285 MB  17 pages ~/testdata/quiggin/QuigginChapter8Draft.pdf
+ 286 0.019 0.049 0.073: 01393-f3ffb6.txt [1.4] 0.451 MB   5 pages ~/testdata/4.1 Hamilton'sHotelCobden.pdf
+ 287 0.019 0.043 0.052: 00545-2dff36.txt [1.4] 0.151 MB  19 pages ~/testdata/JCLC_2007_V17_N2_04.pdf
+ 288 0.020 0.026 0.032: 01259-d48a8b.txt [1.5] 0.391 MB   4 pages ~/testdata/Hammer_Contenders_2017.pdf
+ 289 0.020 0.027 0.034: 00463-ee6bb0.txt [1.6] 0.133 MB  15 pages ~/testdata/Invoice-Express-TandCs_final.pdf
+ 290 0.020 0.029 0.035: 00133-919ee5.txt [1.3] 0.041 MB   3 pages ~/testdata/BSD4 2017 Summer.pdf
+ 291 0.020 0.023 0.029: 01790-0d4ebf.txt [1.5] 0.737 MB   9 pages ~/testdata/CCM sandbox issue reproduction.pdf
+ 292 0.020 0.233 0.386: 01243-9afff9.txt [1.5] 0.381 MB   1 pages ~/testdata/Infographic_5Steps_to_GetRid_of_Fax_FINAL.pdf
+ 293 0.020 0.020 0.024: 00348-7d8dd1.txt [1.6] 0.103 MB  14 pages ~/testdata/005378s028lbl.pdf
+ 294 0.020 0.023 0.030: 01411-2a11c9.txt [1.5] 0.459 MB   9 pages ~/testdata/yearning/NG_MLY11.pdf
+ 295 0.020 0.025 0.032: 00029-400846.txt [1.4] 0.006 MB   2 pages ~/testdata/corbett_henry_w_1827_1903_.pdf
+ 296 0.020 0.022 0.034: 00459-c0ebb3.txt [1.5] 0.131 MB   1 pages ~/testdata/Subject Choices Confirmation Letter-Year 9.pdf
+ 297 0.020 0.025 0.031: 00768-d69bf6.txt [1.5] 0.211 MB   1 pages ~/testdata/Term 3 Staffing.pdf
+ 298 0.020 0.053 0.067: 01673-2985b6.txt [1.4] 0.637 MB  16 pages ~/testdata/digital_signatures/NeAF-management-summary.pdf
+ 299 0.020 0.047 0.067: 00492-5864ee.txt [1.7] 0.141 MB   6 pages ~/testdata/GDPR-Compliance-Guide-2018-06-18.pdf
+ 300 0.020 0.032 0.044: 00486-b4aa8c.txt [1.5] 0.140 MB   9 pages ~/testdata/8ca1c549e000ee0e22609412cfa00be9faa7.pdf
+ 301 0.020 0.092 0.129: 00974-7f2615.txt [1.3] 0.277 MB  22 pages ~/testdata/Fulcrum-SRS-v0_6.pdf
+ 302 0.020 0.036 0.058: 01689-dc7466.txt [1.4] 0.650 MB   8 pages ~/testdata/Otsuka 8F.pdf
+ 303 0.021 0.050 0.074: 00470-ba9474.txt [1.3] 0.136 MB   5 pages ~/testdata/Ts&Cs - Carlton Draught Front Bar 2018 AFL GF Instagram Competition.pdf
+ 304 0.021 0.194 0.321: 01606-1472c7.txt [1.3] 0.577 MB   9 pages ~/testdata/pdf_text/Computers_beat_Humans_at_Single_Character_Recognit.pdf
+ 305 0.021 0.018 0.022: 00725-f94f48.txt [1.3] 0.202 MB   7 pages ~/testdata/blank_pages/000005.pdf
+ 306 0.021 0.048 0.065: 01016-b24708.txt [1.5] 0.288 MB  23 pages ~/testdata/ISAT-final-briefing.pdf
+ 307 0.021 0.020 0.024: 00518-c42c0d.txt [1.6] 0.146 MB  23 pages ~/testdata/wp_661.pdf
+ 308 0.021 0.154 0.265: 00868-799834.txt [1.4] 0.243 MB  16 pages ~/testdata/NARI_MV057-The-New-Middle-Age-A4-16pg_V2.pdf
+ 309 0.021 0.086 0.152: 00773-eb62f0.txt [1.7] 0.212 MB   2 pages ~/testdata/forms/BirthApp2010_SPA NEW FEE 2012.pdf
+ 310 0.021 0.033 0.032: 01641-a9110c.txt [1.5] 0.601 MB   2 pages ~/testdata/How to install and Configure the NetSuite Mobile App.pdf
+ 311 0.021 0.032 0.039: 00978-45fabd.txt [1.7] 0.278 MB   9 pages ~/testdata/Literature-review_Group-12_Bhatti_Alymenko.pdf
+ 312 0.021 0.119 0.176: 01975-98fb14.txt [1.6] 0.947 MB   4 pages ~/testdata/pdf_text/Nuance_OutputMgr_EN_CA.pdf
+ 313 0.021 0.038 0.052: 00342-e59043.txt [1.6] 0.102 MB  19 pages ~/testdata/commentary_246.pdf
+ 314 0.021 0.160 0.291: 00816-41a8d2.txt [1.4] 0.225 MB   4 pages ~/testdata/Lost Super.pdf
+ 315 0.021 0.023 0.029: 01492-e2e43f.txt [1.5] 0.502 MB  28 pages ~/testdata/23.01.18-Frosty-Woolridge-Article-Commentary-514-Deadliest-booklet.pdf
+ 316 0.021 0.039 0.047: 00649-2eb77e.txt [1.4] 0.179 MB  12 pages ~/testdata/310-2871-1-PB.pdf
+ 317 0.022 0.045 0.063: 00401-11a0fa.txt [1.3] 0.117 MB   8 pages ~/testdata/circ2.pdf
+ 318 0.022 0.142 0.232: 01952-702649.txt [1.4] 0.912 MB  30 pages ~/testdata/digital_signatures/NeAF-BPG-vol3.pdf
+ 319 0.022 0.019 0.021: 01979-d6adb4.txt [1.4] 0.953 MB  45 pages ~/testdata/myhealth/Final-report-Partial-task-analysis-and-heuristic-evaluation-for-on-screen-display-of-medicines-Jul-2015-D15-10276.pdf
+ 320 0.022 0.256 0.378: 01784-a2844c.txt [1.6] 0.728 MB   8 pages ~/testdata/sharp_brochure.pdf
+ 321 0.022 0.056 0.073: 01012-3880a6.txt [1.5] 0.287 MB   3 pages ~/testdata/Support Operations Specialist and Escalation Project Manager - Position Description (April 2018).pdf
+ 322 0.022 0.023 0.030: 00846-f259bd.txt [1.5] 0.235 MB   1 pages ~/testdata/Andrew Fuller flyer.pdf
+ 323 0.022 0.028 0.038: 00378-cb1603.txt [1.3] 0.109 MB   7 pages ~/testdata/NGV_Colony_Excursion.pdf
+ 324 0.022 0.029 0.036: 01471-f566a0.txt [1.5] 0.490 MB  38 pages ~/testdata/TimberlakeIntellectualTyrannyAugust2005.pdf
+ 325 0.022 0.052 0.070: 00496-0ef49a.txt [1.4] 0.142 MB   3 pages ~/testdata/gcsp.2014.52.pdf
+ 326 0.022 0.085 0.152: 00699-ba9bf2.txt [1.3] 0.194 MB  26 pages ~/testdata/3GABP.pdf
+ 327 0.023 0.015 0.018: 00969-fc108e.txt [1.4] 0.275 MB  10 pages ~/testdata/pdf_text/PDF2DTP Characters Editor Manual.pdf
+ 328 0.023 0.123 0.192: 01797-5f57e1.txt [1.4] 0.744 MB  26 pages ~/testdata/digital_signatures/NeAF-BPG-vol2-checklist-templates.pdf
+ 329 0.023 0.025 0.034: 00899-62b310.txt [1.5] 0.253 MB   9 pages ~/testdata/g-suite/gsuitesecurityprivacy.pdf
+ 330 0.023 0.051 0.052: 01716-0faaa2.txt [1.6] 0.672 MB   9 pages ~/testdata/document copy.pdf
+ 331 0.023 0.034 0.044: 00129-8cffd2.txt [1.3] 0.040 MB   4 pages ~/testdata/portland/VHD - PORTLAND CLUB.pdf
+ 332 0.023 0.022 0.028: 00620-be5eef.txt [1.3] 0.172 MB  21 pages ~/testdata/quiggin/QuigginChapter5Draft.pdf
+ 333 0.023 0.020 0.023: 00358-1cf4f6.txt [1.3] 0.106 MB  18 pages ~/testdata/LaxnessEssay_V7.pdf
+ 334 0.023 0.130 0.213: 01966-25aa00.txt [1.4] 0.939 MB  46 pages ~/testdata/digital_signatures/NeAF-BPG-vol1-checklist-templates.pdf
+ 335 0.023 0.022 0.028: 01143-32aad0.txt [1.5] 0.343 MB   9 pages ~/testdata/Customer-Security-Awareness-Program.pdf
+ 336 0.024 0.035 0.045: 01474-6f75d0.txt [1.5] 0.492 MB  18 pages ~/testdata/ReykjavikICProfile_en.pdf.pdf
+ 337 0.024 0.026 0.034: 01121-72a94f.txt [1.7] 0.330 MB  43 pages ~/testdata/Conceptualizing Innovation Orientation_ A Framework for Study and.pdf
+ 338 0.024 0.037 0.056: 00254-c0679e.txt [1.4] 0.077 MB   3 pages ~/testdata/HilbertRadio.pdf
+ 339 0.024 0.038 0.065: 00526-594d2e.txt [1.5] 0.147 MB   2 pages ~/testdata/xero-invoice-template.pdf
+ 340 0.024 0.016 0.015: 00120-9002e8.txt [1.3] 0.038 MB   1 pages ~/testdata/watermark/000001.pdf
+ 341 0.024 0.032 0.045: 00122-fb98c0.txt [1.3] 0.039 MB   1 pages ~/testdata/watermark/000002.pdf
+ 342 0.024 0.055 0.068: 01208-7cdc50.txt [1.7] 0.365 MB  29 pages ~/testdata/digital_signatures/tdif-authentication-credential-requirements.pdf
+ 343 0.024 0.064 0.097: 00349-f608e6.txt [1.5] 0.103 MB   3 pages ~/testdata/pdf_text/IJARCCE7J.pdf
+ 344 0.024 0.031 0.036: 01249-e63fba.txt [1.5] 0.385 MB   7 pages ~/testdata/PauloCarrilloPenaCameraReadyJuly132016.pdf
+ 345 0.024 0.174 0.209: 01074-6077a1.txt [1.7] 0.314 MB  22 pages ~/testdata/2017-solving-house-price-problem-lgnsw.pdf
+ 346 0.024 0.185 0.287: 01266-1210c6.txt [1.3] 0.398 MB   8 pages ~/testdata/journal.pone.0048386.pdf
+ 347 0.024 0.028 0.035: 00208-8c151c.txt [1.3] 0.065 MB   3 pages ~/testdata/spool/000003.gray.pdf
+ 348 0.024 0.032 0.036: 01449-40636c.txt [1.5] 0.478 MB  45 pages ~/testdata/privacy/guide-to-data-analytics-and-the-australian-privacy-principles.pdf
+ 349 0.025 0.039 0.054: 01481-6780b6.txt [1.5] 0.496 MB  39 pages ~/testdata/MSCHandbook2016-17.pdf
+ 350 0.025 0.022 0.027: 01612-0fb2bb.txt [1.5] 0.581 MB  31 pages ~/testdata/privacy/Final2012MAandPartDReadinessChecklist.pdf
+ 351 0.025 0.085 0.112: 01653-e2d405.txt [1.6] 0.610 MB  60 pages ~/testdata/18-012aa authorised.pdf
+ 352 0.025 0.024 0.031: 01701-a14d2b.txt [1.3] 0.658 MB  22 pages ~/testdata/privacy/Data_protection_ethics_library.pdf
+ 353 0.025 0.044 0.062: 00563-3105e6.txt [1.5] 0.156 MB  11 pages ~/testdata/search_sim_key.pdf
+ 354 0.025 0.118 0.220: 00805-4f1a12.txt [1.5] 0.222 MB  30 pages ~/testdata/Knuth.pdf
+ 355 0.025 0.031 0.042: 01495-791ffa.txt [1.5] 0.505 MB  35 pages ~/testdata/PaperCut-Professional-Services-Guide.pdf
+ 356 0.025 0.031 0.039: 00551-194d2e.txt [1.7] 0.153 MB   2 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/fmi-ii--Table-of-Contents_2015_Journal-of-Biomedical-Informatics.pdf
+ 357 0.025 0.094 0.147: 00862-ee48af.txt [1.7] 0.240 MB   2 pages ~/testdata/forms/FBN Abandonment.pdf
+ 358 0.025 0.019 0.020: 00857-b3f766.txt [1.3] 0.238 MB   3 pages ~/testdata/Letter regarding 13 Reasons Why.pdf
+ 359 0.025 0.171 0.268: 01510-e753b8.txt [1.7] 0.512 MB   8 pages ~/testdata/WeeklyBulletin (5).pdf
+ 360 0.025 0.036 0.050: 01359-f61a13.txt [1.5] 0.433 MB   2 pages ~/testdata/Second Hand Book Sale - New Format 2018.pdf
+ 361 0.025 0.025 0.032: 00611-91bde8.txt [1.3] 0.170 MB   3 pages ~/testdata/Zendesk FAQ.pdf
+ 362 0.025 0.061 0.079: 01584-63c305.txt [1.3] 0.560 MB  63 pages ~/testdata/B&E.pdf
+ 363 0.025 0.076 0.108: 01322-c2b0f4.txt [1.5] 0.416 MB  26 pages ~/testdata/media_550566_en.pdf
+ 364 0.026 0.043 0.052: 01068-905f5f.txt [1.3] 0.311 MB  20 pages ~/testdata/quiggin/QuigginChapter9Draft.pdf
+ 365 0.026 0.035 0.045: 00268-101762.txt [1.5] 0.081 MB   1 pages ~/testdata/spool/000003.pdf
+ 366 0.026 0.080 0.119: 00997-5b672f.txt [1.6] 0.283 MB   6 pages ~/testdata/FRCGW - clearance certificate application.pdf
+ 367 0.026 0.131 0.178: 01189-273c44.txt [1.6] 0.360 MB  18 pages ~/testdata/fdf_data_exchange.pdf
+ 368 0.026 0.096 0.120: 00455-78a021.txt [1.3] 0.131 MB  19 pages ~/testdata/innovation.pdf
+ 369 0.026 0.155 0.260: 01996-e4f861.txt [1.6] 0.976 MB   8 pages ~/testdata/qcav_April.pdf
+ 370 0.026 0.183 0.303: 00610-00c028.txt [1.6] 0.169 MB   3 pages ~/testdata/Pharmacy_HI_MyHR_NASH_Registration_Form_dv004_PDF_Fillable.pdf
+ 371 0.027 0.397 0.491: 01587-9ff57a.txt [1.5] 0.561 MB  19 pages ~/testdata/May 2012 MHA Report FINAL.pdf
+ 372 0.027 0.045 0.051: 01945-bf24cf.txt [1.5] 0.906 MB  14 pages ~/testdata/xarc/1610.02357.pdf
+ 373 0.027 0.138 0.144: 00790-9b62a0.txt [1.5] 0.217 MB   5 pages ~/testdata/Exploiting Convolutional Neural Network for Risk Prediction with Medical Feature Embedding.pdf
+ 374 0.027 0.173 0.374: 00362-06b69d.txt [1.7] 0.107 MB   1 pages ~/testdata/Year-9-Exam-Timetable.pdf
+ 375 0.027 0.080 0.105: 01509-eeb8c6.txt [1.7] 0.512 MB  25 pages ~/testdata/digital_signatures/tdif-identity-proofing-requirements.pdf
+ 376 0.027 0.115 0.177: 00171-0906ec.txt [1.5] 0.052 MB   9 pages ~/testdata/A Sunshine - IEP.pdf
+ 377 0.027 0.115 0.177: 00476-c9625d.txt [1.4] 0.137 MB   9 pages ~/testdata/spool/000014.pdf
+ 378 0.027 0.208 0.312: 00047-f2c0ab.txt [1.4] 0.010 MB   3 pages ~/testdata/AnneMakauProfile.pdf
+ 379 0.027 0.047 0.057: 01010-e6f351.txt [1.5] 0.286 MB  35 pages ~/testdata/John_Sterman-stretch_goals_and_the_distribution_of_performance.pdf
+ 380 0.027 0.193 0.329: 00458-39ffe1.txt [1.4] 0.131 MB   6 pages ~/testdata/g-suite/WS08-04-008.pdf
+ 381 0.028 0.108 0.174: 00598-7d5387.txt [1.6] 0.167 MB  18 pages ~/testdata/021303s026lbl.pdf
+ 382 0.028 0.076 0.101: 00483-35aeb9.txt [1.5] 0.139 MB   2 pages ~/testdata/database_03_abs.pdf
+ 383 0.028 0.289 0.473: 00415-32fbda.txt [1.4] 0.119 MB   4 pages ~/testdata/ZMP_4053077_XBO_4500_W_DTP_L_OFR.pdf
+ 384 0.028 0.040 0.068: 01596-020cbf.txt [1.3] 0.571 MB   1 pages ~/testdata/Year 8 2017.pdf
+ 385 0.028 0.029 0.035: 00451-8a6be4.txt [1.4] 0.129 MB   4 pages ~/testdata/pdf_text/DAS2016_Tutorial_Tesseract.pdf
+ 386 0.029 0.032 0.043: 01728-e4857c.txt [1.7] 0.679 MB  53 pages ~/testdata/harvardsummaryjudgment.pdf
+ 387 0.029 0.240 0.403: 01746-911cf4.txt [1.3] 0.698 MB   4 pages ~/testdata/case-study-sitemix.pdf
+ 388 0.029 0.034 0.046: 00875-9ef19f.txt [1.5] 0.244 MB   1 pages ~/testdata/HSBC Everday Global Account Flyer.pdf
+ 389 0.029 0.037 0.043: 00770-8df957.txt [1.5] 0.211 MB   3 pages ~/testdata/2017 Code of Conduct Letter.pdf
+ 390 0.029 0.043 0.051: 00772-3578d7.txt [1.5] 0.212 MB  20 pages ~/testdata/300199419.pdf
+ 391 0.029 0.188 0.291: 01914-77f69d.txt [1.7] 0.864 MB  15 pages ~/testdata/WeeklyBulletin (4).pdf
+ 392 0.029 0.053 0.075: 01094-d6db36.txt [1.5] 0.320 MB   1 pages ~/testdata/Dunning-Kruger.pdf
+ 393 0.029 0.186 0.310: 00231-aa5c88.txt [1.6] 0.071 MB   2 pages ~/testdata/international-day-pass-v1.pdf
+ 394 0.030 0.176 0.281: 01296-c576ab.txt [1.7] 0.405 MB   9 pages ~/testdata/WeeklyBulletin (1).pdf
+ 395 0.030 0.042 0.056: 00582-da62b2.txt [1.4] 0.161 MB  18 pages ~/testdata/prod010488_smpl0.pdf
+ 396 0.030 0.252 0.408: 01785-27dae2.txt [1.6] 0.729 MB  11 pages ~/testdata/pearson_science_8_sb_chapter_5_unit_5.2.pdf
+ 397 0.030 0.144 0.289: 00525-8c68e3.txt [1.7] 0.147 MB   1 pages ~/testdata/new_products/Equitrac_vs_PaperCut_Battle_Card_060518.pdf
+ 398 0.031 0.145 0.153: 01631-9eed8b.txt [1.4] 0.593 MB  38 pages ~/testdata/38-21.pdf
+ 399 0.031 0.034 0.047: 00522-1f8674.txt [1.6] 0.146 MB   1 pages ~/testdata/ahs-scn-bjh-quick-facts.pdf
+ 400 0.031 0.049 0.079: 01908-b5f729.txt [1.4] 0.856 MB  15 pages ~/testdata/uzawa1965.pdf
+ 401 0.031 0.276 0.451: 01318-a352cb.txt [1.6] 0.414 MB  15 pages ~/testdata/digital_signatures/asset-management-system.pdf
+ 402 0.031 0.045 0.057: 01633-adb199.txt [1.5] 0.593 MB  11 pages ~/testdata/xarc/1610.02306v1.pdf
+ 403 0.031 0.209 0.238: 01530-3b4ecf.txt [1.7] 0.527 MB  34 pages ~/testdata/2018-house-prices-rents-home-ownership-affordability.pdf
+ 404 0.031 0.165 0.295: 01433-6d0bee.txt [1.4] 0.470 MB   8 pages ~/testdata/digital_signatures/ElectronicVaultAdvantage.pdf
+ 405 0.031 0.031 0.039: 01857-481b79.txt [1.3] 0.802 MB  25 pages ~/testdata/quiggin/QuigginChapter 12Draft.pdf
+ 406 0.031 0.035 0.044: 00765-a04e02.txt [1.5] 0.210 MB   2 pages ~/testdata/diacritics/pol_e.pdf
+ 407 0.031 0.059 0.083: 01263-a2d09e.txt [1.7] 0.395 MB  24 pages ~/testdata/games/lahiri_10.30-10.55am_v2_late_revision.pdf
+ 408 0.031 0.035 0.048: 01176-e85459.txt [1.5] 0.355 MB   2 pages ~/testdata/Google-for-Education-partner-talk-track.pdf
+ 409 0.032 0.045 0.073: 01335-2f2ded.txt [1.7] 0.424 MB   2 pages ~/testdata/EOI Letter for Parents - 2019 China Tour.pdf
+ 410 0.032 0.655 0.845: 01148-f584ba.txt [1.7] 0.345 MB   4 pages ~/testdata/Cross_Country_2018.pdf
+ 411 0.032 0.033 0.041: 00453-ed1a5a.txt [1.3] 0.130 MB   8 pages ~/testdata/blank_pages/000002.pdf
+ 412 0.032 0.075 0.104: 00444-526644.txt [1.6] 0.127 MB   7 pages ~/testdata/myhealth/NEHTA_1261_2010_EndpointLocationService_CommonCertificateUseValues_v1.0.pdf
+ 413 0.032 0.028 0.036: 01573-ccad89.txt [1.7] 0.552 MB  25 pages ~/testdata/05-Ch 5-clean_tracked changes.pdf
+ 414 0.032 0.213 0.325: 01519-18bd8c.txt [1.7] 0.516 MB  10 pages ~/testdata/WeeklyBulletin-64.pdf
+ 415 0.032 0.227 0.384: 01427-1b4c6c.txt [1.5] 0.466 MB   8 pages ~/testdata/comradeship_december_2012.pdf
+ 416 0.033 0.164 0.272: 01424-1a1b56.txt [1.7] 0.465 MB   2 pages ~/testdata/digital_signatures/Secure-communication-in-general-practice-product-list.pdf
+ 417 0.033 0.050 0.077: 00950-05bf3a.txt [1.4] 0.270 MB  13 pages ~/testdata/sp-ag-2018-09-10.pdf
+ 418 0.033 0.047 0.063: 00928-a9e44f.txt [1.5] 0.263 MB   3 pages ~/testdata/1306.0167v1.pdf
+ 419 0.033 0.056 0.067: 01527-2c8b55.txt [1.5] 0.525 MB  10 pages ~/testdata/xarc/Deep learning for image denoising.pdf
+ 420 0.033 0.029 0.030: 01699-11d1ee.txt [1.6] 0.656 MB  10 pages ~/testdata/36-44-109-1-10-20181111.pdf
+ 421 0.033 0.032 0.039: 00450-6b8ff1.txt [1.4] 0.129 MB  19 pages ~/testdata/NCLB_ELLs_Final.pdf
+ 422 0.034 0.046 0.062: 00071-e4b65a.txt [1.4] 0.021 MB   1 pages ~/testdata/checklist_5c02629f6ebf2.pdf
+ 423 0.034 0.185 0.307: 00318-5a6aec.txt [1.4] 0.097 MB   2 pages ~/testdata/press-kit-iceland-enska-fact-sheet.pdf
+ 424 0.034 0.043 0.053: 00493-c785b5.txt [1.5] 0.142 MB   1 pages ~/testdata/Role of Team Manager Summer 2016.pdf
+ 425 0.034 0.072 0.088: 01292-36a1ea.txt [1.6] 0.404 MB  18 pages ~/testdata/2011-0021_22_research_methodology.pdf
+ 426 0.034 0.190 0.324: 00966-ea53cd.txt [1.6] 0.274 MB   4 pages ~/testdata/facts_figures.pdf
+ 427 0.034 0.242 0.364: 00079-1a0f06.txt [1.5] 0.024 MB   1 pages ~/testdata/Jedi.pdf
+ 428 0.034 0.038 0.047: 00408-1d62ed.txt [1.3] 0.118 MB  10 pages ~/testdata/quiggin/QuigginChapter10Draft.pdf
+ 429 0.034 0.062 0.100: 01032-608f55.txt [1.7] 0.296 MB   1 pages ~/testdata/2019_Borneo_Tour_-_Information_Evening_7.8.18.pdf
+ 430 0.035 0.069 0.084: 00848-9e6b9c.txt [1.6] 0.236 MB  26 pages ~/testdata/myhealth/NEHTA_1156_2010_EndpointLocationService_SolutionDesign_v1.3.pdf
+ 431 0.035 0.071 0.091: 01317-e77977.txt [1.7] 0.414 MB  46 pages ~/testdata/pdf_text/Ocr_ A Statistical Model Of Multi-engine Ocr Systems.pdf
+ 432 0.035 0.236 0.339: 01223-75a37f.txt [1.6] 0.372 MB  21 pages ~/testdata/DavisMay2011.pdf
+ 433 0.035 0.045 0.056: 00738-852919.txt [1.4] 0.205 MB   6 pages ~/testdata/brotli-2015-09-22.pdf
+ 434 0.035 0.141 0.213: 00033-a81a40.txt [1.3] 0.007 MB   4 pages ~/testdata/3_subchapters_simple.pdf
+ 435 0.035 0.154 0.299: 00506-51f03e.txt [1.7] 0.143 MB   1 pages ~/testdata/new_products/Equitrac_vs_YSOFT_Battle_Card.pdf
+ 436 0.035 0.035 0.041: 01526-4ca0d6.txt [1.5] 0.524 MB  46 pages ~/testdata/guide-to-securing-personal-information.pdf
+ 437 0.035 0.166 0.276: 01315-56354d.txt [1.5] 0.413 MB   4 pages ~/testdata/pdf_text/10.1.1.676.9685.pdf
+ 438 0.036 0.032 0.038: 01591-b8c92d.txt [1.3] 0.566 MB   9 pages ~/testdata/1-s2.0-0097316572900635-main.pdf
+ 439 0.036 0.039 0.043: 00252-5a7e9c.txt [1.3] 0.077 MB   2 pages ~/testdata/Veranstaltungen_Dezember_2017.pdf
+ 440 0.036 0.044 0.050: 01469-6d2e97.txt [1.5] 0.488 MB  16 pages ~/testdata/pdf_text/1802.10033.pdf
+ 441 0.036 0.094 0.109: 01835-86fb81.txt [1.6] 0.791 MB  38 pages ~/testdata/spn0801.pdf
+ 442 0.036 0.041 0.051: 01842-666ae1.txt [1.4] 0.795 MB  44 pages ~/testdata/crypto/arne_ansper_msc.pdf
+ 443 0.036 0.173 0.285: 01044-2fd14c.txt [1.4] 0.303 MB   2 pages ~/testdata/SomfyST50RTS-Limit-Setting.pdf
+ 444 0.036 0.181 0.305: 00786-70efa0.txt [1.6] 0.216 MB  12 pages ~/testdata/25th-CGPM-Resolutions.pdf
+ 445 0.037 0.047 0.057: 00616-ed4285.txt [1.3] 0.170 MB  12 pages ~/testdata/g-suite/jblack-final-report.pdf
+ 446 0.037 0.120 0.192: 00310-e29d6e.txt [1.5] 0.095 MB   1 pages ~/testdata/vRad_FinalReportSample_MR_Head_WithoutWithContrast_ImpressionLast_OnePage.pdf
+ 447 0.037 0.062 0.088: 00175-9fb667.txt [1.3] 0.054 MB   5 pages ~/testdata/quiggin/QuigginTwoLessonsDraftTOC.pdf
+ 448 0.037 0.081 0.113: 01759-01fc97.txt [1.5] 0.706 MB  44 pages ~/testdata/digital_signatures/data-holding-agency-services-mou-template-fvs.pdf
+ 449 0.037 0.030 0.033: 01405-69fb59.txt [1.6] 0.457 MB   3 pages ~/testdata/myhealth/DH_2625_2017_ElectronicPrescribing_NationalRequirementsforElectronicPrescriptions_v1.0.pdf
+ 450 0.038 0.212 0.313: 01022-c41da4.txt [1.7] 0.292 MB   1 pages ~/testdata/Place ID 005 - Brooklyn House.pdf
+ 451 0.038 0.040 0.050: 00579-68d67b.txt [1.4] 0.161 MB  15 pages ~/testdata/CODATA_Minutes_14-BIPM-public.pdf
+ 452 0.038 0.066 0.081: 01200-e1758e.txt [1.7] 0.362 MB  22 pages ~/testdata/upload1419017431.pdf
+ 453 0.038 0.303 0.477: 01972-6771fa.txt [1.3] 0.945 MB   4 pages ~/testdata/private/1163872266.pdf
+ 454 0.038 0.059 0.078: 00313-7c77e0.txt [1.4] 0.096 MB   3 pages ~/testdata/SolvingEmail.pdf
+ 455 0.038 0.027 0.031: 01127-65e5e5.txt [1.5] 0.334 MB  45 pages ~/testdata/Summary of OS lectures .pdf
+ 456 0.038 0.193 0.321: 00280-e6518f.txt [1.3] 0.086 MB   7 pages ~/testdata/anaesthesia59_394_400_2004.pdf
+ 457 0.038 0.104 0.158: 00357-33c496.txt [1.5] 0.106 MB   5 pages ~/testdata/ptrelnot.pdf
+ 458 0.038 0.046 0.068: 00112-e42abe.txt [1.5] 0.033 MB   1 pages ~/testdata/digital_signatures/giving-you-the-confidence-to-use-services-online-transcript.pdf
+ 459 0.039 0.192 0.271: 01258-8ed080.txt [1.4] 0.390 MB  14 pages ~/testdata/ASFA_Super-account-balances_Dec2015.pdf
+ 460 0.039 0.043 0.054: 00391-cb604f.txt [1.5] 0.114 MB  11 pages ~/testdata/IP_Copyright_Fair_Use_Education.pdf
+ 461 0.039 0.034 0.038: 01218-3bcf1b.txt [1.5] 0.369 MB   9 pages ~/testdata/403-dunning-kruger-effect-why-once-a-fool-always-a-fool.pdf
+ 462 0.039 0.040 0.045: 01043-0147a3.txt [1.6] 0.303 MB  31 pages ~/testdata/g-suite/10.1.1.87.755.pdf
+ 463 0.039 0.153 0.243: 02006-c0eea4.txt [1.7] 0.994 MB   7 pages ~/testdata/WeeklyBulletin.pdf
+ 464 0.039 0.051 0.068: 01158-da6609.txt [1.3] 0.349 MB   3 pages ~/testdata/blank_pages/000003.pdf
+ 465 0.039 0.181 0.299: 01088-a33134.txt [1.5] 0.319 MB   6 pages ~/testdata/123.pdf
+ 466 0.039 0.157 0.270: 00915-dcc784.txt [1.7] 0.258 MB   1 pages ~/testdata/PaperCut_sales.pdf
+ 467 0.040 0.103 0.131: 00274-acbd6e.txt [1.3] 0.084 MB  16 pages ~/testdata/g-suite/Gore_lattice.pdf
+ 468 0.040 0.038 0.047: 00615-41cc61.txt [1.4] 0.170 MB  16 pages ~/testdata/Interview_with_Christine_Nixon_-_Report.pdf
+ 469 0.040 0.045 0.053: 01167-dd4e43.txt [1.5] 0.352 MB  61 pages ~/testdata/IdleTimeManuscript.pdf
+ 470 0.040 0.186 0.300: 01206-aa9243.txt [1.5] 0.365 MB  20 pages ~/testdata/population/2018-10-9-1.pdf
+ 471 0.040 0.221 0.341: 00323-b67e74.txt [1.3] 0.097 MB   2 pages ~/testdata/Camel_Trek_Summary_Sheet_2018.pdf
+ 472 0.040 0.084 0.130: 01378-da45bf.txt [1.5] 0.443 MB  14 pages ~/testdata/private/2018 Semester 1 Reports - Madeline Williams.pdf
+ 473 0.040 0.124 0.188: 00858-010129.txt [1.3] 0.238 MB   4 pages ~/testdata/COBDEN -DINNER MENU TEMPLATE pdf.pdf
+ 474 0.040 0.056 0.085: 00041-3fed77.txt [1.4] 0.009 MB   1 pages ~/testdata/07263-mute-iota-input.pdf
+ 475 0.040 0.086 0.109: 00189-0750fc.txt [1.3] 0.059 MB   5 pages ~/testdata/killer_modelling.pdf
+ 476 0.040 0.211 0.337: 00369-3f6ea0.txt [1.4] 0.107 MB   1 pages ~/testdata/private/invoice80190147.pdf
+ 477 0.040 0.211 0.337: 00528-006e57.txt [1.4] 0.147 MB   1 pages ~/testdata/private/invoice61781040.pdf
+ 478 0.040 0.211 0.337: 00529-60ecac.txt [1.4] 0.147 MB   1 pages ~/testdata/private/invoice70837735.pdf
+ 479 0.040 0.156 0.202: 01095-ed3144.txt [1.5] 0.320 MB  23 pages ~/testdata/population/immigration-survey-090915.pdf
+ 480 0.041 0.093 0.129: 01461-758792.txt [1.3] 0.485 MB  23 pages ~/testdata/2007 viking.pdf
+ 481 0.041 0.084 0.120: 00885-b35997.txt [1.3] 0.248 MB   4 pages ~/testdata/spool/000023.pdf
+ 482 0.041 0.067 0.094: 01212-3cd1e4.txt [1.5] 0.366 MB   6 pages ~/testdata/6596-Exhibit-AB-20180927-1.pdf
+ 483 0.041 0.142 0.233: 01445-3528c2.txt [1.3] 0.474 MB  12 pages ~/testdata/Jekyll and Hyde Revision Booklet.pdf
+ 484 0.041 0.061 0.072: 00830-246692.txt [1.5] 0.230 MB  16 pages ~/testdata/CIE_XYZ.pdf
+ 485 0.041 0.049 0.062: 00106-79d30f.txt [1.5] 0.032 MB  10 pages ~/testdata/causal_inference/Steenbergen.pdf
+ 486 0.041 0.386 0.378: 01153-6e2483.txt [1.7] 0.346 MB   5 pages ~/testdata/ergodicity/82709839.pdf
+ 487 0.041 0.044 0.057: 00435-86a191.txt [1.5] 0.124 MB   3 pages ~/testdata/RodneyCrowellFirstListenPressRelease.pdf
+ 488 0.041 0.206 0.351: 01241-ac666c.txt [1.5] 0.380 MB   8 pages ~/testdata/kokoda/comradeship_august_2011.pdf
+ 489 0.042 0.545 0.640: 00919-72a889.txt [1.5] 0.259 MB  24 pages ~/testdata/who_is_who.pdf
+ 490 0.042 0.063 0.087: 00697-aa63c7.txt [1.4] 0.193 MB   3 pages ~/testdata/epson_pages3_color_pages1.pdf
+ 491 0.043 0.049 0.064: 01841-bbc661.txt [1.5] 0.795 MB  17 pages ~/testdata/PrinterOn Enterprise & PaperCut Integration.pdf
+ 492 0.043 0.258 0.427: 01973-297ba9.txt [1.3] 0.946 MB   3 pages ~/testdata/private/1195735680.pdf
+ 493 0.043 0.088 0.119: 00533-6192c6.txt [1.5] 0.148 MB   3 pages ~/testdata/Insight-Iceland.pdf
+ 494 0.043 0.058 0.075: 00340-6e56b1.txt [1.4] 0.102 MB  11 pages ~/testdata/fonts/Glyph names.pdf
+ 495 0.043 0.078 0.111: 00229-c80552.txt [1.5] 0.071 MB   5 pages ~/testdata/The_Hirsch_Family.pdf
+ 496 0.043 0.056 0.080: 00082-cf678e.txt [1.4] 0.025 MB  10 pages ~/testdata/TEHRIKE-JADID-Scheme.pdf
+ 497 0.043 0.096 0.116: 01764-fff83a.txt [1.5] 0.710 MB  15 pages ~/testdata/Learning Transferable Architectures for Scalable Image Recognition.pdf
+ 498 0.043 0.203 0.265: 00213-485137.txt [1.4] 0.066 MB   8 pages ~/testdata/unix-vi-editor.pdf
+ 499 0.043 0.045 0.061: 00237-f9d6db.txt [1.4] 0.073 MB   5 pages ~/testdata/causal_inference/syl572.pdf
+ 500 0.044 0.236 0.362: 00181-b0861b.txt [1.3] 0.055 MB   1 pages ~/testdata/SS_Activity_Locations_Round_3.pdf
+ 501 0.044 0.107 0.158: 00439-bf493b.txt [1.4] 0.126 MB   8 pages ~/testdata/pdf_open_parameters.pdf
+ 502 0.044 0.050 0.069: 01157-6aba5d.txt [1.3] 0.349 MB  10 pages ~/testdata/6919-language-modeling-with-recurrent-highway-hypernetworks.pdf
+ 503 0.044 0.045 0.054: 01314-a4afb9.txt [1.5] 0.413 MB   3 pages ~/testdata/LETTER TO THE FAITHFUL OF THE ARCHDIOCESE OF MELBOURNE 21AUG18.pdf
+ 504 0.044 0.064 0.081: 01403-dbf729.txt [1.6] 0.457 MB   2 pages ~/testdata/myhealth/DH_2624_2017_ElectronicPrescribing_ReleaseNote_v1.0.pdf
+ 505 0.044 0.223 0.352: 01333-a67277.txt [1.4] 0.421 MB   6 pages ~/testdata/pdf_text/Learning_Rich_Hidden_Markov_Models_in_Document_Ana.pdf
+ 506 0.044 0.049 0.067: 01605-1c3a5f.txt [1.5] 0.577 MB  13 pages ~/testdata/5-56-onc_blockchainchallenge_mitwhitepaper.pdf
+ 507 0.045 0.041 0.054: 00182-868423.txt [1.6] 0.055 MB   4 pages ~/testdata/roman_kazakh_explanation.pdf
+ 508 0.045 0.277 0.380: 01815-7e8ac0.txt [1.5] 0.759 MB  67 pages ~/testdata/RISORincCV_Ver3.07_20130305.pdf
+ 509 0.045 0.110 0.167: 00835-b26607.txt [1.3] 0.231 MB   1 pages ~/testdata/000018.pdf
+ 510 0.045 0.049 0.062: 00409-951116.txt [1.4] 0.118 MB   9 pages ~/testdata/Cramer.pdf
+ 511 0.045 0.049 0.062: 00410-1a2f9b.txt [1.4] 0.118 MB   9 pages ~/testdata/harald_cramer.pdf
+ 512 0.045 0.056 0.072: 00036-fc80d5.txt [1.3] 0.008 MB   1 pages ~/testdata/pdf-sample.pdf
+ 513 0.045 0.087 0.101: 01616-368a6e.txt [1.5] 0.584 MB   8 pages ~/testdata/Feature Extraction for Document Classification.pdf
+ 514 0.045 0.151 0.220: 00900-63a8b8.txt [1.4] 0.253 MB  11 pages ~/testdata/jekyll_and_hyde_resource__0.pdf
+ 515 0.046 0.053 0.068: 01627-9dec05.txt [1.5] 0.590 MB  22 pages ~/testdata/Jane-McNab-Jacqueline-Tuck-Final-b-HETSA-Paper-2013.pdf
+ 516 0.046 0.058 0.070: 01190-0746d0.txt [1.5] 0.360 MB   1 pages ~/testdata/Yr 7 and 8 Awards Ceremony Parent Invitation.pdf
+ 517 0.046 0.100 0.109: 00845-a4bd00.txt [1.6] 0.235 MB  54 pages ~/testdata/tema_379_00.pdf
+ 518 0.046 0.050 0.062: 01515-6bc5c4.txt [1.6] 0.515 MB  42 pages ~/testdata/121207-Robert_Mort-with-cover.pdf
+ 519 0.046 0.190 0.301: 00608-04fb8b.txt [1.5] 0.169 MB   7 pages ~/testdata/IJCTT-V3I1P108.pdf
+ 520 0.046 0.165 0.283: 00367-4efacd.txt [1.7] 0.107 MB   2 pages ~/testdata/adobe/safenet-keysecure-pb-en-v14-sep282017.pdf
+ 521 0.046 0.063 0.083: 01078-0e0e64.txt [1.5] 0.316 MB   9 pages ~/testdata/Equitrac_57_Couchbase_FAQ_v1.2.pdf
+ 522 0.046 0.200 0.298: 01816-327a5f.txt [1.7] 0.760 MB  11 pages ~/testdata/WeeklyBulletin (2).pdf
+ 523 0.047 0.066 0.081: 00062-6cdfba.txt [1.5] 0.016 MB   2 pages ~/testdata/digital_signatures/The Bucharest Memorandum on Trusted Smart Statistics FINAL(0).pdf
+ 524 0.047 0.043 0.048: 00466-f792f9.txt [1.5] 0.133 MB  12 pages ~/testdata/forecasting-competitions.pdf
+ 525 0.047 0.122 0.170: 00573-3ebfc1.txt [1.4] 0.160 MB  24 pages ~/testdata/xarc/9878-196235-1-RV.pdf
+ 526 0.047 0.050 0.063: 00604-307dc5.txt [1.4] 0.168 MB  15 pages ~/testdata/salsafamily-20071225.pdf
+ 527 0.048 0.170 0.253: 01951-2d95fa.txt [1.6] 0.912 MB  12 pages ~/testdata/8 Measurement Problems 2017-1.pdf
+ 528 0.048 0.071 0.170: 01792-9d17d0.txt [1.5] 0.739 MB  24 pages ~/testdata/pdf_text/PSNC_Tesseract-FineReader-report.pdf
+ 529 0.048 0.532 0.754: 01712-75ab5d.txt [1.6] 0.670 MB  10 pages ~/testdata/Technical-information-ASSET-DOC-LOC-4899132.pdf
+ 530 0.048 0.053 0.065: 01092-71f443.txt [1.4] 0.320 MB  14 pages ~/testdata/TMI-1992-Su.pdf
+ 531 0.048 0.302 0.414: 00588-fa0d77.txt [1.4] 0.163 MB   3 pages ~/testdata/lesson_thearts.pdf
+ 532 0.048 0.055 0.071: 01419-e15da3.txt [1.4] 0.462 MB   2 pages ~/testdata/digital_signatures/using-email-in-general-practice-–-guiding-principles.pdf
+ 533 0.048 0.263 0.406: 00740-e2ed80.txt [1.3] 0.206 MB   5 pages ~/testdata/amia06-deident.pdf
+ 534 0.048 0.050 0.059: 00319-dc2cf8.txt [1.3] 0.097 MB   6 pages ~/testdata/c5-1.pdf
+ 535 0.049 0.213 0.227: 01438-5f8e9b.txt [1.6] 0.472 MB  37 pages ~/testdata/47701118.pdf
+ 536 0.049 0.132 0.189: 01964-f15ba3.txt [1.4] 0.938 MB  41 pages ~/testdata/digital_signatures/NeAF-BPG-vol2.pdf
+ 537 0.049 0.058 0.071: 01705-3720d8.txt [1.5] 0.662 MB  21 pages ~/testdata/Final-March-8-Australias-skilled-migration-program.pdf
+ 538 0.049 0.143 0.165: 00413-fb6bf0.txt [1.4] 0.119 MB   9 pages ~/testdata/SA_implementations.pdf
+ 539 0.049 0.076 0.106: 00800-1b3135.txt [1.5] 0.221 MB   3 pages ~/testdata/xarc/TheSmokingGunOfEugenics.pdf
+ 540 0.050 0.073 0.090: 00123-411225.txt [1.3] 0.039 MB   2 pages ~/testdata/VHD - ROSS HOUSE.pdf
+ 541 0.050 0.275 0.423: 01415-01d549.txt [1.4] 0.460 MB   1 pages ~/testdata/digital_signatures/using-email-in-general-practice-privacy-and-security-matrix.pdf
+ 542 0.050 0.572 0.740: 00465-b25256.txt [1.3] 0.133 MB  11 pages ~/testdata/blank_pages/000007.pdf
+ 543 0.050 0.045 0.056: 00489-aa4e5f.txt [1.4] 0.141 MB   6 pages ~/testdata/icassp-draft.pdf
+ 544 0.050 0.061 0.076: 00562-56edec.txt [1.5] 0.156 MB   2 pages ~/testdata/20th birthday competitionT&Cs.pdf
+ 545 0.050 0.073 0.098: 00952-3502db.txt [1.5] 0.270 MB  10 pages ~/testdata/Joanna-Baillie-1.pdf
+ 546 0.050 0.135 0.214: 00675-d88c31.txt [1.3] 0.185 MB   8 pages ~/testdata/explosion-database-choice.pdf
+ 547 0.050 0.162 0.245: 01753-0107d2.txt [1.4] 0.701 MB   6 pages ~/testdata/twitter.pdf
+ 548 0.050 0.076 0.099: 01112-726a8a.txt [1.6] 0.327 MB  44 pages ~/testdata/w13229.pdf
+ 549 0.050 0.116 0.135: 01757-1802d7.txt [1.5] 0.705 MB  21 pages ~/testdata/NRCPlanckMeasurementPreprint.pdf
+ 550 0.050 0.119 0.152: 00668-f1b1ab.txt [1.5] 0.183 MB  10 pages ~/testdata/2744372.pdf
+ 551 0.050 0.082 0.111: 00241-a57289.txt [1.4] 0.074 MB  12 pages ~/testdata/battle.pdf
+ 552 0.050 0.300 0.464: 01102-45f4e1.txt [1.4] 0.323 MB   4 pages ~/testdata/1VAP428661-DB_SCN_SCN-D.pdf
+ 553 0.050 0.200 0.307: 00656-c9652c.txt [1.4] 0.181 MB   7 pages ~/testdata/000210.pdf
+ 554 0.051 0.063 0.089: 01156-dec00e.txt [1.5] 0.348 MB   5 pages ~/testdata/PDF Processing Modules.pdf
+ 555 0.051 0.064 0.091: 00713-5f30b7.txt [1.4] 0.198 MB  14 pages ~/testdata/frege.pdf
+ 556 0.051 0.043 0.048: 01744-6e7961.txt [1.4] 0.694 MB  36 pages ~/testdata/2016095pap.pdf
+ 557 0.051 0.229 0.359: 01234-f43687.txt [1.4] 0.377 MB   5 pages ~/testdata/pdf_text/3725a843.pdf
+ 558 0.051 0.174 0.202: 01122-ced1b9.txt [1.7] 0.330 MB   9 pages ~/testdata/CAT2sample.pdf
+ 559 0.052 0.098 0.125: 01547-612693.txt [1.4] 0.534 MB   7 pages ~/testdata/ergodicity/chaos_in_statistical_mechanics.pdf
+ 560 0.052 0.254 0.397: 00979-88a895.txt [1.4] 0.278 MB  16 pages ~/testdata/Victorian-Government-Long-Service-Leave-Bill-2017-Making-Long-Service-Leave-fairer-for-everyone.pdf
+ 561 0.052 0.059 0.078: 01523-9f6ae3.txt [1.5] 0.522 MB  18 pages ~/testdata/Dynamic Mortality Risk Predictions in Pediatric Critical Care Using Recurrent Neural Networks.pdf
+ 562 0.052 0.369 0.481: 01903-ddda6d.txt [1.5] 0.849 MB   3 pages ~/testdata/hiragana_english.pdf
+ 563 0.052 0.058 0.072: 00371-6cf257.txt [1.5] 0.108 MB  15 pages ~/testdata/EL2_2007FinalReport.pdf
+ 564 0.052 0.154 0.236: 00423-5626b6.txt [1.6] 0.121 MB   5 pages ~/testdata/state-land-form-la00.pdf
+ 565 0.053 0.098 0.126: 01667-967cc9.txt [1.5] 0.631 MB  10 pages ~/testdata/xarc/Deep Learning-Guided Image Reconstruction from Incomplete Data.pdf
+ 566 0.053 0.069 0.094: 00607-fba13d.txt [1.5] 0.168 MB   5 pages ~/testdata/Mastering G Suite and Chromebook printing, the Dallastown way.pdf
+ 567 0.053 0.349 0.536: 00333-af82bf.txt [1.5] 0.100 MB   2 pages ~/testdata/keithley_rl.pdf
+ 568 0.053 0.053 0.063: 01496-78da64.txt [1.5] 0.506 MB  30 pages ~/testdata/ProgrammingAsIfDomainMattered.1.0.pdf
+ 569 0.054 0.149 0.155: 01756-1370d5.txt [1.5] 0.705 MB  32 pages ~/testdata/25-6.pdf
+ 570 0.054 0.249 0.384: 00624-c0eadb.txt [1.6] 0.173 MB   3 pages ~/testdata/digital_signatures/sample12.pdf
+ 571 0.054 0.249 0.384: 00625-22eab3.txt [1.6] 0.173 MB   3 pages ~/testdata/digital_signatures/sample13.pdf
+ 572 0.054 0.249 0.384: 00626-835da8.txt [1.6] 0.173 MB   3 pages ~/testdata/digital_signatures/sample14.pdf
+ 573 0.054 0.249 0.384: 00645-04a4c7.txt [1.6] 0.178 MB   3 pages ~/testdata/digital_signatures/sample08.pdf
+ 574 0.054 0.197 0.332: 01228-91be66.txt [1.3] 0.374 MB  11 pages ~/testdata/pdfx-com.pdf
+ 575 0.054 0.339 0.455: 01483-b321a6.txt [1.4] 0.498 MB  62 pages ~/testdata/adobe/5176.cff.pdf
+ 576 0.055 0.077 0.109: 00644-1b5795.txt [1.4] 0.177 MB   7 pages ~/testdata/ICU-Round-Response.pdf
+ 577 0.055 0.191 0.291: 00262-cff6ae.txt [1.3] 0.080 MB   2 pages ~/testdata/Rock_Climbing_Summary_Sheet_2018.pdf
+ 578 0.055 0.193 0.293: 00400-4d8eb2.txt [1.3] 0.116 MB   7 pages ~/testdata/000203.pdf
+ 579 0.055 0.115 0.151: 00356-37f5e5.txt [1.5] 0.106 MB   5 pages ~/testdata/stubbs-cv-2015-06.pdf
+ 580 0.055 0.049 0.059: 00794-ab48b7.txt [1.4] 0.219 MB  12 pages ~/testdata/9781447147299-c2.pdf
+ 581 0.055 0.063 0.088: 00618-960170.txt [1.4] 0.172 MB   8 pages ~/testdata/xarc/703eca3ce8c33c7651811d07e037d38d7a2e.pdf
+ 582 0.055 0.075 0.087: 01539-3a8a94.txt [1.5] 0.530 MB   8 pages ~/testdata/oguz.pdf
+ 583 0.055 0.066 0.074: 00980-27e8bf.txt [1.6] 0.279 MB  86 pages ~/testdata/2011TVFWinners.pdf
+ 584 0.055 0.061 0.075: 01970-2152c6.txt [1.3] 0.942 MB  12 pages ~/testdata/blank_pages/000010.pdf
+ 585 0.055 0.139 0.174: 00853-fec8c6.txt [1.6] 0.237 MB  13 pages ~/testdata/AcrobatDC_acrobat_digital_signature_appearances.pdf
+ 586 0.055 0.051 0.059: 01529-9a1fa4.txt [1.4] 0.527 MB  29 pages ~/testdata/g-suite/Topic_Segmentation.pdf
+ 587 0.056 0.151 0.225: 00666-245fbe.txt [1.3] 0.183 MB  31 pages ~/testdata/adslcpe.pdf
+ 588 0.056 0.135 0.223: 01417-64238e.txt [1.3] 0.461 MB   5 pages ~/testdata/privacy/1_Data_ownership_legal_ethical_guide.pdf
+ 589 0.056 0.119 0.146: 01919-cb527c.txt [1.4] 0.869 MB  11 pages ~/testdata/5116ijnlc05.pdf
+ 590 0.056 0.096 0.121: 01264-fa6c3b.txt [1.5] 0.396 MB  12 pages ~/testdata/xarc/1702.06959.pdf
+ 591 0.056 0.067 0.083: 00114-3c36ea.txt [1.4] 0.035 MB  10 pages ~/testdata/GuideToBetterDailyStandups.01.pdf
+ 592 0.056 0.101 0.137: 00308-1b073c.txt [1.6] 0.094 MB   7 pages ~/testdata/Doc-416-3-Kahlenberg-Errata.pdf
+ 593 0.056 0.133 0.194: 01711-70abf7.txt [1.5] 0.669 MB  15 pages ~/testdata/history_s4.pdf
+ 594 0.057 0.078 0.107: 01550-ab10cc.txt [1.5] 0.536 MB   7 pages ~/testdata/causal_inference/r484.pdf
+ 595 0.057 0.097 0.117: 00502-80b34c.txt [1.3] 0.143 MB  28 pages ~/testdata/xarc/caratheodory_-_thermodynamics.pdf
+ 596 0.057 0.205 0.331: 01395-22304a.txt [1.5] 0.453 MB   8 pages ~/testdata/g-suite/IJITCS-V7-N9-3.pdf
+ 597 0.057 0.056 0.073: 01545-4f1898.txt [1.5] 0.532 MB   6 pages ~/testdata/Updated Bring Your Own Technology 2017 Letter.pdf
+ 598 0.057 0.109 0.152: 00985-7618b4.txt [1.5] 0.279 MB   4 pages ~/testdata/NWPTPayoffLang.pdf
+ 599 0.057 0.258 0.427: 01960-a2de02.txt [1.5] 0.935 MB   1 pages ~/testdata/31-April-23-2014.pdf
+ 600 0.058 0.052 0.070: 01995-c3f444.txt [1.5] 0.976 MB  22 pages ~/testdata/Quocirca-Print-Security-Jan-2017-Report-YSoft.pdf
+ 601 0.058 0.068 0.085: 01310-f1789b.txt [1.4] 0.411 MB  59 pages ~/testdata/Whose Truth_ Objective and Subjective Perspectives on Truthfulnes.pdf
+ 602 0.058 0.174 0.274: 00556-b40263.txt [1.5] 0.155 MB   3 pages ~/testdata/xarc/Deep Neural Networks Do Not Recognize Negative Images.pdf
+ 603 0.058 0.087 0.130: 00284-7496d7.txt [1.5] 0.088 MB   4 pages ~/testdata/adobe/5902.AdobePSNameGeneration.pdf
+ 604 0.058 0.046 0.051: 00842-7283d6.txt [1.5] 0.234 MB  18 pages ~/testdata/WindHealthReviews_3.pdf
+ 605 0.058 0.059 0.073: 01031-313b61.txt [1.6] 0.296 MB   2 pages ~/testdata/blank_pages/Romanization_RomanScripts.pdf
+ 606 0.058 0.057 0.068: 00454-ba3b64.txt [1.5] 0.130 MB  11 pages ~/testdata/cv14.pdf
+ 607 0.058 0.108 0.156: 00585-7ede42.txt [1.3] 0.162 MB   2 pages ~/testdata/spool/000004.pdf
+ 608 0.058 0.159 0.240: 01683-465268.txt [1.5] 0.644 MB  10 pages ~/testdata/ebook_rethinking_data_security_en.pdf
+ 609 0.058 0.068 0.081: 00758-51f4a4.txt [1.5] 0.209 MB   6 pages ~/testdata/Whitepaper_Saginaw_PDFfiller.pdf
+ 610 0.058 0.388 0.556: 01826-56f880.txt [1.4] 0.781 MB  21 pages ~/testdata/pdf_text/7Building a Multi-Lingual OCR Engine.pdf
+ 611 0.058 0.091 0.112: 01203-5ef6cd.txt [1.3] 0.363 MB  25 pages ~/testdata/privacysummary.pdf
+ 612 0.059 0.102 0.141: 02003-7ee223.txt [1.5] 0.992 MB  42 pages ~/testdata/pdf_text/pdfcpro_qrg-eng.pdf
+ 613 0.059 0.113 0.175: 00300-4d533d.txt [1.5] 0.092 MB   2 pages ~/testdata/forms/fbn statement.pdf
+ 614 0.059 0.075 0.104: 01186-08ee7d.txt [1.6] 0.359 MB  52 pages ~/testdata/sr514.pdf
+ 615 0.059 0.115 0.157: 01439-0d8593.txt [1.7] 0.472 MB   6 pages ~/testdata/ScottMadden_While_You_Were_Sleeping_The_Unnoticed_Loss_of_Carbon-Free_Generation_in_the_US_2018_0406-1.pdf
+ 616 0.059 0.126 0.177: 00328-ae72fd.txt [1.3] 0.098 MB   3 pages ~/testdata/pair-over-C.pdf
+ 617 0.059 0.130 0.178: 01381-389ba2.txt [1.4] 0.443 MB  34 pages ~/testdata/2568.pdf
+ 618 0.059 0.110 0.131: 01754-614dec.txt [1.3] 0.701 MB   7 pages ~/testdata/yjbm00124-0141.pdf
+ 619 0.059 0.075 0.093: 01289-844cd5.txt [1.3] 0.402 MB   3 pages ~/testdata/adobe/MD2819088.pdf
+ 620 0.059 0.339 0.550: 01720-cef835.txt [1.4] 0.674 MB   4 pages ~/testdata/Navigator_Northstar_White_Paper.pdf
+ 621 0.060 0.558 0.786: 00054-3640b2.txt [1.4] 0.013 MB   1 pages ~/testdata/NLP_Obesity_Annotation_Sheet.pdf
+ 622 0.060 0.065 0.081: 01830-d0cf95.txt [1.7] 0.787 MB   9 pages ~/testdata/multi-label-classification.pdf
+ 623 0.060 0.051 0.054: 01100-c55f8c.txt [1.3] 0.322 MB   2 pages ~/testdata/Seagal_thailand.pdf
+ 624 0.060 0.068 0.086: 00788-0670a9.txt [1.3] 0.217 MB  14 pages ~/testdata/blank_pages/000006.pdf
+ 625 0.061 0.182 0.223: 01152-875a88.txt [1.4] 0.346 MB  32 pages ~/testdata/29042634.pdf
+ 626 0.061 0.091 0.189: 00187-ede546.txt [1.5] 0.058 MB   3 pages ~/testdata/pdf2kix.pdf
+ 627 0.061 0.178 0.288: 00913-682605.txt [1.7] 0.257 MB   2 pages ~/testdata/InfoInput_Solution_sales_sheet.pdf
+ 628 0.061 0.183 0.293: 01363-a32930.txt [1.7] 0.434 MB   5 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Creation-of-a-new-longitudinal-corpus-of-clini_2015_Journal-of-Biomedical-In.pdf
+ 629 0.061 0.287 0.488: 00332-71597f.txt [1.4] 0.099 MB   1 pages ~/testdata/watermark/edge.pdf
+ 630 0.061 0.249 0.379: 00177-7885ee.txt [1.3] 0.054 MB   1 pages ~/testdata/Round_3_Activities_2018.pdf
+ 631 0.061 0.060 0.073: 00778-d77719.txt [1.4] 0.214 MB  14 pages ~/testdata/correctness/1806.00388.pdf
+ 632 0.061 0.080 0.119: 00977-f7506d.txt [1.5] 0.278 MB  11 pages ~/testdata/xarc/1807.06610.pdf
+ 633 0.062 0.070 0.095: 00841-797cbe.txt [1.4] 0.234 MB   3 pages ~/testdata/PaperCutv15.3internalupdate.pdf
+ 634 0.062 0.070 0.075: 01994-67296e.txt [1.5] 0.975 MB  12 pages ~/testdata/periodictabledatastructures.pdf
+ 635 0.062 0.086 0.112: 00105-54d2e1.txt [1.5] 0.031 MB   4 pages ~/testdata/SeniorDevCodeAssignmentInvitationText-1.0.0.pdf
+ 636 0.062 0.088 0.116: 01418-d7e2ac.txt [1.3] 0.462 MB  26 pages ~/testdata/Saunders-2018-finalV3.pdf
+ 637 0.062 0.117 0.185: 00807-fa4015.txt [1.7] 0.222 MB   2 pages ~/testdata/forms/BirthApplication English NEW FEE 2012.pdf
+ 638 0.062 0.193 0.312: 01107-1569f9.txt [1.4] 0.324 MB   5 pages ~/testdata/pdf_text/37481.pdf
+ 639 0.063 0.117 0.183: 01916-9963dc.txt [1.6] 0.867 MB  30 pages ~/testdata/Year_8_Pythagoras_Booklet.pdf
+ 640 0.063 0.066 0.085: 00508-35faf9.txt [1.4] 0.144 MB  12 pages ~/testdata/0401347.pdf
+ 641 0.063 0.093 0.120: 00955-823979.txt [1.5] 0.271 MB  10 pages ~/testdata/Recurrent Additive Networks.pdf
+ 642 0.063 0.088 0.110: 01468-3ba42d.txt [1.5] 0.487 MB  53 pages ~/testdata/WP172-WiSKoS_Belgium_Report EconomicEspionage.pdf
+ 643 0.063 0.105 0.140: 00854-2cc1aa.txt [1.5] 0.237 MB  14 pages ~/testdata/si_brochure_draft_ch2.pdf
+ 644 0.063 0.095 0.124: 00893-45a2d5.txt [1.6] 0.251 MB  29 pages ~/testdata/myhealth/NEHTA_1000_2009_SecureMessageDelivery_TechnicalOverview_v1.0.pdf
+ 645 0.063 0.087 0.116: 01194-c0388b.txt [1.5] 0.361 MB   9 pages ~/testdata/54-196-3-PB.pdf
+ 646 0.063 0.117 0.174: 01336-75411d.txt [1.7] 0.424 MB   7 pages ~/testdata/nuance/gd-most-have-features-in-ocr-solution-en-us.pdf
+ 647 0.063 0.061 0.081: 00578-705ab1.txt [1.5] 0.161 MB   8 pages ~/testdata/resume.pdf
+ 648 0.063 0.243 0.311: 00630-b587cb.txt [1.4] 0.175 MB  18 pages ~/testdata/p.pdf
+ 649 0.063 0.098 0.140: 00155-d2ed78.txt [1.4] 0.048 MB   2 pages ~/testdata/WEtravaccfrmamended.pdf
+ 650 0.063 0.314 0.414: 01976-e25fc5.txt [1.6] 0.947 MB  40 pages ~/testdata/post-charges-guide-ms11.pdf
+ 651 0.063 0.346 0.473: 01072-6a0b3a.txt [1.7] 0.312 MB  13 pages ~/testdata/CSRLimited.pdf
+ 652 0.063 0.143 0.212: 01801-ec408c.txt [1.5] 0.747 MB   6 pages ~/testdata/Ball_Drop_activity.pdf
+ 653 0.063 0.633 0.793: 00043-44a19d.txt [1.4] 0.009 MB   2 pages ~/testdata/SergueiOsokineProfile.pdf
+ 654 0.064 0.058 0.060: 00420-15e539.txt [1.4] 0.121 MB   2 pages ~/testdata/Stats_at_a_Glance.pdf
+ 655 0.064 0.314 0.492: 01178-b4de23.txt [1.6] 0.356 MB   2 pages ~/testdata/DepartmentOfStatisticsCaseStudy06132016.pdf
+ 656 0.064 0.059 0.071: 01868-165fcd.txt [1.5] 0.809 MB  23 pages ~/testdata/immigration-reset-7-August-2017-final.pdf
+ 657 0.064 0.256 0.361: 01475-c7440e.txt [1.3] 0.493 MB  10 pages ~/testdata/US6899475.pdf
+ 658 0.065 0.211 0.330: 01159-fc614e.txt [1.7] 0.350 MB   2 pages ~/testdata/Google-one-page-Letter.pdf
+ 659 0.065 0.085 0.112: 01947-1e7632.txt [1.5] 0.908 MB  22 pages ~/testdata/kokoda/Proceedings-Bowen.pdf
+ 660 0.065 0.204 0.319: 00797-edb72b.txt [1.4] 0.220 MB   7 pages ~/testdata/Shepherd-et-al-Three-Questions.pdf
+ 661 0.065 0.281 0.446: 01859-032b2a.txt [1.5] 0.803 MB  12 pages ~/testdata/Stonnington Parent Education 2017.pdf
+ 662 0.065 0.125 0.160: 01197-0396ac.txt [1.6] 0.362 MB  17 pages ~/testdata/myhealth/NEHTA_1893_2011_SecureMessageDelivery_ConformanceAssessmentScheme_v3.2.pdf
+ 663 0.065 0.103 0.117: 01851-da9745.txt [1.5] 0.800 MB  18 pages ~/testdata/Iimmigration-overflow-Apr-2017-edit.pdf
+ 664 0.065 0.151 0.243: 01546-b7a0ba.txt [1.5] 0.534 MB  25 pages ~/testdata/xarc/1410.4615v3.pdf
+ 665 0.065 0.081 0.111: 01021-977ca5.txt [1.4] 0.291 MB   2 pages ~/testdata/LightOn_Annonce_Levee_Seed_FR.pdf
+ 666 0.065 0.086 0.123: 01846-95637d.txt [1.5] 0.798 MB   5 pages ~/testdata/xarc/154.pdf
+ 667 0.066 0.500 0.753: 00338-418230.txt [1.5] 0.102 MB   1 pages ~/testdata/2017-Dr-Jekyll-and-Mr-Hyde-CAST-OF-CHARACTERS.pdf
+ 668 0.066 0.087 0.113: 01440-2231df.txt [1.5] 0.472 MB  40 pages ~/testdata/Pfeffer_Nonprofit-Management-Institute-2016.pdf
+ 669 0.066 0.078 0.091: 01460-fbca34.txt [1.5] 0.485 MB  68 pages ~/testdata/digital_signatures/Financial Intelligence Act 13 of 2012.pdf
+ 670 0.066 0.260 0.370: 00960-61d7dd.txt [1.4] 0.272 MB  12 pages ~/testdata/ESCP-R reference_151008.pdf
+ 671 0.066 0.196 0.323: 01899-6864fe.txt [1.5] 0.846 MB   4 pages ~/testdata/07-April-2012.pdf
+ 672 0.067 0.172 0.229: 01988-6937f5.txt [1.3] 0.968 MB  33 pages ~/testdata/lzwandflatef.pdf
+ 673 0.067 0.091 0.126: 00179-7f0f5b.txt [1.3] 0.055 MB   1 pages ~/testdata/xarc/000109.pdf
+ 674 0.067 0.091 0.126: 00188-cf0497.txt [1.4] 0.059 MB   1 pages ~/testdata/hgff.pdf
+ 675 0.067 0.091 0.126: 00190-e66600.txt [1.4] 0.059 MB   1 pages ~/testdata/android.pdf
+ 676 0.067 0.275 0.413: 00315-d25d82.txt [1.4] 0.096 MB   1 pages ~/testdata/PIIS0140673607611271.pdf
+ 677 0.067 0.194 0.325: 01849-0cd31f.txt [1.4] 0.799 MB   2 pages ~/testdata/HP_AC_Overview.pdf
+ 678 0.067 0.127 0.174: 01743-810536.txt [1.7] 0.694 MB  19 pages ~/testdata/warnock-warnock.pdf
+ 679 0.067 0.151 0.180: 00801-8bcebe.txt [1.6] 0.221 MB   6 pages ~/testdata/myhealth/NEHTA_1881_2014_SecureMessaging_ReleaseNote_v1.0.3.pdf
+ 680 0.067 0.064 0.080: 01216-3c2046.txt [1.4] 0.369 MB  48 pages ~/testdata/Parkinson-s-Law.pdf
+ 681 0.068 0.101 0.143: 00552-a7c72f.txt [1.6] 0.154 MB   2 pages ~/testdata/PH960713.pdf
+ 682 0.068 0.137 0.180: 01503-8b5f94.txt [1.3] 0.509 MB   7 pages ~/testdata/all_vs_all.pdf
+ 683 0.068 0.104 0.128: 00355-b455cd.txt [1.5] 0.105 MB   5 pages ~/testdata/24_CGPM_Convocation_Draft_Resolution_A.pdf
+ 684 0.068 0.172 0.179: 01065-5b6fa2.txt [1.5] 0.310 MB   9 pages ~/testdata/xarc/1509.01626v1.pdf
+ 685 0.068 0.406 0.531: 01632-23ce2c.txt [1.3] 0.593 MB  34 pages ~/testdata/005.pdf
+ 686 0.068 0.080 0.099: 01818-70edd6.txt [1.5] 0.761 MB   8 pages ~/testdata/120426_TechnologyJournalPaper_PS.pdf
+ 687 0.068 0.085 0.105: 00665-38de4d.txt [1.4] 0.182 MB  28 pages ~/testdata/Rede-lecture-2-cultures.pdf
+ 688 0.068 0.179 0.267: 01943-bb7f73.txt [1.5] 0.902 MB   4 pages ~/testdata/a0w20000000dikuAAA.pdf
+ 689 0.069 0.093 0.116: 00341-f5fcf2.txt [1.4] 0.102 MB   9 pages ~/testdata/Distilling the Knowledge in a Neural Network.pdf
+ 690 0.069 0.228 0.353: 01380-b933bd.txt [1.6] 0.443 MB   2 pages ~/testdata/digital_signatures/Seal-Datasheet-TotalSearch.pdf
+ 691 0.069 0.097 0.120: 00811-44df61.txt [1.5] 0.223 MB   2 pages ~/testdata/digital_signatures/18-May-2018-Estate-agent-facing-82000-legal-battle-after-REIV-commissions-bungle.pdf
+ 692 0.070 0.107 0.140: 01372-aaa7da.txt [1.5] 0.440 MB  15 pages ~/testdata/Go 1.5 concurrent garbage collector pacing.pdf
+ 693 0.070 0.094 0.120: 02007-274aca.txt [1.5] 0.997 MB  30 pages ~/testdata/TAPRI-survey-19-Oct-2017-final-3.pdf
+ 694 0.070 0.106 0.133: 00478-103ae0.txt [1.4] 0.138 MB   9 pages ~/testdata/nitro-pro-10.pdf
+ 695 0.070 0.113 0.140: 00861-72fd64.txt [1.4] 0.239 MB  40 pages ~/testdata/ergodicity/HES_erg_4.pdf
+ 696 0.070 0.092 0.124: 00094-db6820.txt [1.5] 0.029 MB   4 pages ~/testdata/vitae.pdf
+ 697 0.070 0.407 0.560: 00542-dde2ea.txt [1.5] 0.150 MB   1 pages ~/testdata/2018-calendar-for-northern-territory-schools.pdf
+ 698 0.070 0.307 0.474: 01489-c75e10.txt [1.3] 0.500 MB  16 pages ~/testdata/Ristretto delivery process.ppt.pdf
+ 699 0.071 0.498 0.666: 00195-bf2333.txt [1.3] 0.062 MB   4 pages ~/testdata/digital_signatures/Docusign-Envelope History.pdf
+ 700 0.071 0.075 0.087: 01769-822622.txt [1.7] 0.713 MB  50 pages ~/testdata/Dunning_Kruger_Effect.pdf
+ 701 0.071 0.100 0.137: 01883-8653f6.txt [1.5] 0.831 MB  20 pages ~/testdata/Quocirca MPS 2016 Summary Excerpt Report Final July 2016.pdf
+ 702 0.071 0.198 0.320: 00392-0374a7.txt [1.7] 0.114 MB   4 pages ~/testdata/Whitepaper Building.pdf
+ 703 0.071 0.069 0.084: 01881-a1b9f6.txt [1.3] 0.831 MB  12 pages ~/testdata/universalclasses.pdf
+ 704 0.071 0.123 0.179: 00309-9e288d.txt [1.6] 0.095 MB   9 pages ~/testdata/1011569es.pdf
+ 705 0.071 0.072 0.094: 00535-5c185e.txt [1.4] 0.149 MB  12 pages ~/testdata/g-suite/purver-et-al06mlmi.pdf
+ 706 0.071 0.178 0.208: 00557-430842.txt [1.4] 0.155 MB  11 pages ~/testdata/ergodicity/PMch6.pdf
+ 707 0.071 0.086 0.103: 00519-ab1ded.txt [1.3] 0.146 MB  14 pages ~/testdata/pascalII.pdf
+ 708 0.071 0.533 0.679: 00090-94198f.txt [1.4] 0.027 MB   2 pages ~/testdata/hansard_frag.pdf
+ 709 0.072 0.103 0.126: 00447-eb379b.txt [1.5] 0.128 MB   6 pages ~/testdata/24_CGPM_Resolution_1.pdf
+ 710 0.072 0.216 0.335: 01345-8edd07.txt [1.4] 0.426 MB   3 pages ~/testdata/digital_signatures/Seal-Datasheet-Intelligent-Insights..pdf
+ 711 0.072 0.148 0.246: 00920-2a1e84.txt [1.5] 0.260 MB   4 pages ~/testdata/Bergam Plays Hal Leonard Australia.pdf
+ 712 0.072 0.255 0.393: 01165-42eacc.txt [1.7] 0.351 MB   8 pages ~/testdata/BBL_rewards_tc.pdf
+ 713 0.072 0.223 0.364: 00253-0e4332.txt [1.3] 0.077 MB   1 pages ~/testdata/xarc/climateletter.pdf
+ 714 0.072 0.364 0.558: 01910-de30e7.txt [1.4] 0.857 MB  14 pages ~/testdata/Pitch Deck.pdf
+ 715 0.072 0.289 0.393: 00164-203a3f.txt [1.7] 0.050 MB   1 pages ~/testdata/digital_signatures/signix_product_comparison_sheet03.pdf
+ 716 0.072 0.145 0.205: 01434-945561.txt [1.6] 0.470 MB  45 pages ~/testdata/2017-Annual-Report.pdf
+ 717 0.072 0.077 0.086: 01799-29c914.txt [1.4] 0.744 MB  23 pages ~/testdata/g-suite/nihms408809.pdf
+ 718 0.072 0.118 0.134: 01517-cd1880.txt [1.5] 0.516 MB  12 pages ~/testdata/language_understanding_paper.pdf
+ 719 0.073 0.270 0.306: 01810-b9bea5.txt [1.4] 0.753 MB   1 pages ~/testdata/a_im_diag_exact.pdf
+ 720 0.073 0.130 0.149: 00930-394f8a.txt [1.3] 0.264 MB  33 pages ~/testdata/perks.pdf
+ 721 0.073 0.178 0.264: 01736-877bc2.txt [1.5] 0.690 MB   6 pages ~/testdata/id-422.pdf
+ 722 0.073 0.084 0.111: 00651-d098b7.txt [1.4] 0.180 MB  13 pages ~/testdata/s57_08glaser.pdf
+ 723 0.074 0.174 0.233: 01412-0181e1.txt [1.3] 0.459 MB   4 pages ~/testdata/spool/000022.pdf
+ 724 0.074 0.101 0.148: 01993-d531ea.txt [1.6] 0.972 MB  40 pages ~/testdata/ATS.pdf
+ 725 0.074 0.305 0.393: 01694-a64e4a.txt [1.7] 0.654 MB   9 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Automatic-detection-of-protected-health-informati_2015_Journal-of-Biomedical.pdf
+ 726 0.074 0.201 0.308: 00659-dbb137.txt [1.4] 0.181 MB   2 pages ~/testdata/output-manager-right-type.pdf
+ 727 0.074 0.238 0.380: 01115-bf54c0.txt [1.7] 0.328 MB   2 pages ~/testdata/PIIS0140673617322419.pdf
+ 728 0.074 0.289 0.374: 01614-011534.txt [1.7] 0.582 MB   9 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/The-role-of-fine-grained-annotations-in-supervised-rec_2015_Journal-of-Biome.pdf
+ 729 0.075 0.126 0.175: 01869-d0fa9e.txt [1.3] 0.809 MB  47 pages ~/testdata/post-treatment-bias.pdf
+ 730 0.075 0.302 0.387: 01609-7998a6.txt [1.7] 0.579 MB  10 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Annotating-longitudinal-clinical-narratives-for-de-id_2015_Journal-of-Biomed.pdf
+ 731 0.075 0.318 0.396: 01453-e66963.txt [1.7] 0.480 MB   8 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/CRFs-based-de-identification-of-medical-re_2015_Journal-of-Biomedical-Inform.pdf
+ 732 0.075 0.112 0.138: 00480-bd19c6.txt [1.6] 0.138 MB  11 pages ~/testdata/myhealth/NEHTA_0637_2010_SecureMessageDelivery_QualifiedCertificateReference_v1.2.pdf
+ 733 0.075 0.136 0.182: 01803-63a802.txt [1.4] 0.750 MB  28 pages ~/testdata/digital_signatures/NeAF-glossary-of-terms.pdf
+ 734 0.075 0.070 0.090: 00432-3a7b55.txt [1.4] 0.123 MB  13 pages ~/testdata/qualmethods.pdf
+ 735 0.076 0.229 0.355: 01257-5da984.txt [1.7] 0.390 MB  15 pages ~/testdata/uniFLOW vs. PaperCut.pdf
+ 736 0.076 0.090 0.125: 01579-384646.txt [1.4] 0.555 MB  18 pages ~/testdata/g-suite/Virtru Complete Guide to Email Encryption.pdf
+ 737 0.076 0.090 0.125: 01595-f95048.txt [1.7] 0.571 MB  18 pages ~/testdata/G-Suite-Guide_012017.pdf
+ 738 0.076 0.226 0.332: 01599-fe3c31.txt [1.4] 0.572 MB   6 pages ~/testdata/J. Biol. Chem.-1974-Taylor-454-8.pdf
+ 739 0.076 0.097 0.126: 00513-e0707c.txt [1.4] 0.145 MB  17 pages ~/testdata/0165551514551903.pdf
+ 740 0.076 0.118 0.148: 01261-d98f2a.txt [1.5] 0.394 MB  11 pages ~/testdata/howto.pdf
+ 741 0.077 0.111 0.141: 01725-a2582f.txt [1.3] 0.677 MB  48 pages ~/testdata/sample_chapter_verilab_aop_cookbook.pdf
+ 742 0.077 0.343 0.536: 00197-befd71.txt [1.3] 0.063 MB   6 pages ~/testdata/country comparison.pdf
+ 743 0.077 0.108 0.137: 00692-6fdd45.txt [1.5] 0.190 MB   9 pages ~/testdata/privacy/Information_Management.pdf
+ 744 0.077 0.073 0.087: 01640-5fcb05.txt [1.5] 0.599 MB  40 pages ~/testdata/bibliographyresearch.pdf
+ 745 0.077 0.197 0.298: 01602-e3ca16.txt [1.5] 0.573 MB   1 pages ~/testdata/10_Questions_to_Ask_About_Cloud_Printing_Solutions.pdf
+ 746 0.077 0.130 0.210: 01467-6f45c3.txt [1.4] 0.486 MB   2 pages ~/testdata/HSBC Everyday Global $100 promo offer.pdf
+ 747 0.077 0.127 0.186: 00326-16778a.txt [1.5] 0.098 MB   1 pages ~/testdata/permutations.pdf
+ 748 0.077 0.090 0.111: 00583-b3fa9a.txt [1.3] 0.162 MB  10 pages ~/testdata/sub71_The Green Institute.pdf
+ 749 0.078 0.126 0.159: 01252-bf31c2.txt [1.5] 0.386 MB   3 pages ~/testdata/7355-AFL-Grand-Final-Crows-Tigers-Supporters-2017.pdf
+ 750 0.078 0.092 0.118: 01985-0432f8.txt [1.4] 0.963 MB  19 pages ~/testdata/pdf_text/book.pdf
+ 751 0.078 0.523 0.676: 01202-51eca9.txt [1.5] 0.363 MB   1 pages ~/testdata/Campbelltown_Campus_NorthEast_L.pdf
+ 752 0.078 0.166 0.273: 00297-9bd494.txt [1.7] 0.090 MB   6 pages ~/testdata/PDFlib-9-datasheet.pdf
+ 753 0.078 0.266 0.405: 01180-663bab.txt [1.6] 0.357 MB   2 pages ~/testdata/2009_capital_resources.pdf
+ 754 0.078 0.230 0.331: 00368-87ce00.txt [1.3] 0.107 MB   5 pages ~/testdata/Eulerriemann.pdf
+ 755 0.078 0.113 0.151: 01334-765881.txt [1.6] 0.422 MB  98 pages ~/testdata/v00001.pdf
+ 756 0.079 0.086 0.106: 00717-cff8be.txt [1.5] 0.199 MB   9 pages ~/testdata/Information & Entropy.pdf
+ 757 0.079 0.290 0.459: 00993-dc0f97.txt [1.6] 0.281 MB   9 pages ~/testdata/v01n2-11.pdf
+ 758 0.079 0.228 0.336: 01101-6123da.txt [1.7] 0.322 MB  13 pages ~/testdata/forrester_tlp_rethink_technology_in_the_age_of_the_cloud_worker.pdf
+ 759 0.079 0.122 0.183: 00753-02a51f.txt [1.4] 0.208 MB   9 pages ~/testdata/candidate_sampling.pdf
+ 760 0.079 0.126 0.165: 01863-b16bf3.txt [1.5] 0.805 MB  21 pages ~/testdata/Managing-the-Carbon-Footprint-of-Australian-Aviation.pdf
+ 761 0.079 0.074 0.083: 00693-45c6a8.txt [1.4] 0.191 MB  14 pages ~/testdata/xarc/1409.1556v6.pdf
+ 762 0.080 0.059 0.072: 00200-90c53d.txt [1.4] 0.063 MB  10 pages ~/testdata/36869_muijs.pdf
+ 763 0.080 0.064 0.074: 00912-dc4287.txt [1.5] 0.257 MB  24 pages ~/testdata/g-suite/1807.02383.pdf
+ 764 0.080 0.134 0.185: 00505-c2ca2d.txt [1.4] 0.143 MB  11 pages ~/testdata/1810.10222.pdf
+ 765 0.081 0.160 0.240: 00914-4f1e01.txt [1.4] 0.258 MB   8 pages ~/testdata/wp-optimizing-clinical-productivity-en-us.pdf
+ 766 0.081 0.220 0.329: 01823-1ce9f7.txt [1.7] 0.776 MB   8 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Coronary-artery-disease-risk-assessment-from-unstruct_2015_Journal-of-Biomed.pdf
+ 767 0.081 0.081 0.095: 00987-05e373.txt [1.5] 0.280 MB   9 pages ~/testdata/A Survey of Techniques for Sentiment Analysis in Movie Reviews and Deep Stochastic Recurrent Net.pdf
+ 768 0.081 0.095 0.129: 00639-c6f0e3.txt [1.4] 0.176 MB   1 pages ~/testdata/Alfa-College-EN.pdf
+ 769 0.081 0.156 0.209: 00270-90b7ec.txt [1.3] 0.082 MB   2 pages ~/testdata/jonathan_mayer.pdf
+ 770 0.081 0.072 0.086: 01070-a829f1.txt [1.4] 0.311 MB  33 pages ~/testdata/Ind_Corp_Change-2014-Nightingale-113-43.pdf
+ 771 0.081 0.238 0.343: 01020-9803c2.txt [1.7] 0.290 MB   8 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Ease-of-adoption-of-clinical-natural-language-process_2015_Journal-of-Biomed.pdf
+ 772 0.081 0.256 0.355: 01391-4c7ec4.txt [1.7] 0.450 MB   8 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/A-context-aware-approach-for-progression-tracking-of-_2015_Journal-of-Biomed.pdf
+ 773 0.081 0.264 0.357: 00929-e0246f.txt [1.7] 0.264 MB   6 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Using-local-lexicalized-rules-to-identify-heart-dis_2015_Journal-of-Biomedic.pdf
+ 774 0.082 0.226 0.231: 01507-528d33.txt [1.5] 0.511 MB  11 pages ~/testdata/Grounded Recurrent Neural Networks.pdf
+ 775 0.082 0.119 0.138: 01054-0119da.txt [1.5] 0.307 MB   8 pages ~/testdata/g-suite/12. 72-79.pdf
+ 776 0.082 0.140 0.195: 01123-9d1d8b.txt [1.5] 0.330 MB   6 pages ~/testdata/Tokyo_GrandNikkoTokyoDaiba.pdf
+ 777 0.083 0.202 0.308: 00245-02768b.txt [1.4] 0.074 MB   1 pages ~/testdata/pdf_text/ds-nuance-copitrak-system-software-en-us.pdf
+ 778 0.083 0.098 0.112: 01588-b9e3f6.txt [1.5] 0.564 MB  19 pages ~/testdata/ergodicity/P292.pdf
+ 779 0.083 0.295 0.370: 01751-137123.txt [1.7] 0.700 MB   8 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Textual-inference-for-eligibility-criteria-resol_2015_Journal-of-Biomedical-.pdf
+ 780 0.083 0.118 0.171: 00263-dbef36.txt [1.5] 0.080 MB   2 pages ~/testdata/Praxisinformation_Datenschutz_Patienteninformation.pdf
+ 781 0.083 0.482 0.669: 00973-60b23c.txt [1.5] 0.277 MB   4 pages ~/testdata/VerpflichtendesBetriebspraktikum2018Tabelle_1508142846.pdf
+ 782 0.083 0.082 0.097: 00376-e484e5.txt [1.5] 0.109 MB   9 pages ~/testdata/google_privacy_policy_en.pdf
+ 783 0.083 0.223 0.296: 00382-3e0ae1.txt [1.5] 0.110 MB   6 pages ~/testdata/SyntaxNet Models for the CoNLL 2017 Shared Task.pdf
+ 784 0.084 0.132 0.164: 00039-b5caff.txt [1.4] 0.008 MB   2 pages ~/testdata/PrintDriverStrategy.pdf
+ 785 0.084 0.128 0.153: 00638-8de2fd.txt [1.4] 0.176 MB   9 pages ~/testdata/bitcoin.pdf
+ 786 0.084 0.083 0.100: 00485-97f6e6.txt [1.5] 0.140 MB  10 pages ~/testdata/8.pdf
+ 787 0.084 0.214 0.341: 00916-c49d12.txt [1.5] 0.258 MB  18 pages ~/testdata/Research Perspectives and Challenges for Bitcoin and Cryptocurrencies.pdf
+ 788 0.084 0.783 0.941: 00282-6d09d8.txt [1.3] 0.087 MB   1 pages ~/testdata/friday.pdf
+ 789 0.084 0.376 0.437: 00298-9792dd.txt [1.3] 0.091 MB   1 pages ~/testdata/Topic_7_-_Quad_Fns_Quest_List.pdf
+ 790 0.084 0.154 0.228: 00063-a96597.txt [1.4] 0.017 MB   1 pages ~/testdata/CON-PaperCutprintqueuecapabilitiesdiscoverytool-141118-2103.pdf
+ 791 0.084 0.179 0.263: 00652-4644e1.txt [1.7] 0.180 MB   3 pages ~/testdata/incidents_form.pdf
+ 792 0.084 0.102 0.125: 01585-60706c.txt [1.5] 0.561 MB  15 pages ~/testdata/capsules2.pdf
+ 793 0.084 0.233 0.371: 01356-174257.txt [1.4] 0.431 MB   8 pages ~/testdata/xarc/20170239.full.pdf
+ 794 0.084 0.143 0.191: 01930-f86b8b.txt [1.5] 0.887 MB  35 pages ~/testdata/ostrom-lecture-slides.pdf
+ 795 0.084 0.201 0.232: 00760-5597d1.txt [1.3] 0.209 MB   9 pages ~/testdata/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation.pdf
+ 796 0.085 0.090 0.117: 01104-22c227.txt [1.4] 0.323 MB   8 pages ~/testdata/g-suite/161014_White_Paper_OM_Plus.pdf
+ 797 0.085 0.095 0.123: 00865-bfa66e.txt [1.6] 0.241 MB  13 pages ~/testdata/Cirrato Whitepaper.pdf
+ 798 0.085 0.243 0.369: 01576-825150.txt [1.4] 0.554 MB   8 pages ~/testdata/i1552-5783-59-7-2861.pdf
+ 799 0.085 0.089 0.118: 00734-7a7d41.txt [1.5] 0.204 MB  13 pages ~/testdata/Holdaas_MasterSeptember.pdf
+ 800 0.085 0.125 0.166: 00445-29c66e.txt [1.5] 0.127 MB  24 pages ~/testdata/Distributed Representations.pdf
+ 801 0.085 0.114 0.148: 01767-0240c6.txt [1.3] 0.712 MB   2 pages ~/testdata/Wild_comes_the_molten_ore.pdf
+ 802 0.085 0.173 0.254: 01957-d666a1.txt [1.5] 0.928 MB  11 pages ~/testdata/A recipe for irreproducible results.pdf
+ 803 0.085 0.106 0.137: 01710-411e24.txt [1.5] 0.667 MB  51 pages ~/testdata/SSRN-id2952510.pdf
+ 804 0.085 0.130 0.143: 00336-1f43e8.txt [1.5] 0.100 MB  17 pages ~/testdata/WP07.01.pdf
+ 805 0.085 0.170 0.241: 01615-0c2ef2.txt [1.3] 0.583 MB  40 pages ~/testdata/1011569.pdf
+ 806 0.086 0.078 0.096: 00547-997cf5.txt [1.4] 0.151 MB  15 pages ~/testdata/mehrotra_trick_final2.pdf
+ 807 0.086 0.206 0.312: 01275-892390.txt [1.3] 0.399 MB   7 pages ~/testdata/Gowda_et_al_2016.pdf
+ 808 0.086 0.157 0.238: 00154-1ac993.txt [1.5] 0.047 MB   3 pages ~/testdata/adobe/aatl_technical_requirements_v13.pdf
+ 809 0.086 0.295 0.382: 01557-504427.txt [1.7] 0.540 MB   6 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Automatic-de-identification-of-electronic-medical-recor_2015_Journal-of-Biom.pdf
+ 810 0.087 0.144 0.173: 01646-5030fb.txt [1.5] 0.604 MB  22 pages ~/testdata/P434 Gini out of the bottle  - Inequality in Australia is getting worse 2018.pdf
+ 811 0.087 0.088 0.104: 01682-df63de.txt [1.5] 0.643 MB  14 pages ~/testdata/GP-oversupply-ignoring-the-evidence-12-Dec-2016.pdf
+ 812 0.087 0.294 0.379: 01935-1b649e.txt [1.7] 0.895 MB  11 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Identifying-risk-factors-for-heart-disease-over-time--_2015_Journal-of-Biome.pdf
+ 813 0.087 0.113 0.145: 00301-03bbcd.txt [1.3] 0.093 MB   5 pages ~/testdata/ergodicity/BrownianMacKinnon.pdf
+ 814 0.087 0.449 0.646: 00390-466c79.txt [1.4] 0.113 MB   4 pages ~/testdata/pdf_text/feature_comp_omnipage_17.pdf
+ 815 0.087 0.184 0.276: 00158-999399.txt [1.4] 0.048 MB   9 pages ~/testdata/ACFrOgCf6f4kzU-mNiolvkiOlADV6cnWfoWv_FZPB6kB4aBtGh68m8KVTc5q0t50Bian-2myr3AQvH0HLbHDFnyo3fY_BDudV1i3zI9i_g6S36lOesSvotIATPqvLF0= (1).pdf
+ 816 0.087 0.096 0.110: 01739-42498c.txt [1.6] 0.691 MB  38 pages ~/testdata/1128.pdf
+ 817 0.088 0.057 0.062: 00503-eab0b1.txt [1.4] 0.143 MB  20 pages ~/testdata/causal_inference/spirtes10a.pdf
+ 818 0.088 0.079 0.094: 00344-0d71a6.txt [1.3] 0.103 MB  26 pages ~/testdata/hayekchile.pdf
+ 819 0.088 0.115 0.149: 00818-aac6b9.txt [1.3] 0.225 MB   2 pages ~/testdata/Dr-Jekyll-Mrhyde-Worksheet.pdf
+ 820 0.088 0.203 0.213: 01661-bfca0b.txt [1.5] 0.628 MB  10 pages ~/testdata/Sluice networks.pdf
+ 821 0.088 0.233 0.353: 01324-7a7e21.txt [1.5] 0.417 MB   8 pages ~/testdata/sac-18.pdf
+ 822 0.089 0.125 0.162: 00560-e024fd.txt [1.4] 0.156 MB   2 pages ~/testdata/250906_Special_AFL_Grand_Final_2006_Parking_at_Perth_Airport.pdf
+ 823 0.089 0.093 0.119: 01565-b68c49.txt [1.4] 0.543 MB   3 pages ~/testdata/07198-mute-iota.pdf
+ 824 0.089 0.258 0.397: 00380-79c38a.txt [1.4] 0.109 MB   2 pages ~/testdata/private/invoice88786339.pdf
+ 825 0.090 0.513 0.661: 00827-90defa.txt [1.3] 0.229 MB  50 pages ~/testdata/ja50_esgrid.pdf
+ 826 0.090 0.077 0.087: 01319-128400.txt [1.3] 0.414 MB  20 pages ~/testdata/Blackburn%2B2016TOPLAS.pdf
+ 827 0.090 0.153 0.196: 00214-c09072.txt [1.5] 0.066 MB   3 pages ~/testdata/Draft-Resolution-A-EN.pdf
+ 828 0.090 0.266 0.427: 01459-1b852a.txt [1.3] 0.485 MB   2 pages ~/testdata/Leadership-team-Health-Monitor.pdf
+ 829 0.090 0.260 0.379: 00499-06a1d8.txt [1.3] 0.142 MB   4 pages ~/testdata/crypto/B02.pdf
+ 830 0.090 0.228 0.331: 01278-12c99e.txt [1.7] 0.400 MB   5 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Adapting-existing-natural-language-processing-resources_2015_Journal-of-Biom.pdf
+ 831 0.090 0.098 0.124: 01664-643891.txt [1.6] 0.630 MB  22 pages ~/testdata/Has Creative Destruction Become More Destructive.pdf
+ 832 0.090 0.113 0.136: 01861-3dbad3.txt [1.6] 0.803 MB   3 pages ~/testdata/iitaly.org_-_sofia_coppola_wins_best_director_at_cannes_film_festival_-_2017-05-31.pdf
+ 833 0.090 0.175 0.227: 01285-b5c504.txt [1.5] 0.402 MB  10 pages ~/testdata/Proximity Variational Inference.pdf
+ 834 0.090 0.140 0.180: 01150-d6896f.txt [1.5] 0.346 MB   8 pages ~/testdata/TheoSea.pdf
+ 835 0.090 0.249 0.336: 01980-683652.txt [1.6] 0.954 MB  63 pages ~/testdata/Baby_Boomers_Generation_X_SCv1a.pdf
+ 836 0.091 0.347 0.461: 01499-f4a835.txt [1.3] 0.507 MB   7 pages ~/testdata/US8239496.pdf
+ 837 0.091 0.278 0.408: 00750-67fef5.txt [1.6] 0.208 MB   3 pages ~/testdata/digital_signatures/sample02.pdf
+ 838 0.091 0.094 0.111: 01056-f663a8.txt [1.5] 0.308 MB  15 pages ~/testdata/Parallel and Dynamic Searchable Symmetric Encryption.pdf
+ 839 0.091 0.193 0.299: 00904-814100.txt [1.7] 0.254 MB   5 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Practical-applications-for-natural-language-processing-_2015_Journal-of-Biom.pdf
+ 840 0.091 0.277 0.363: 01879-b07114.txt [1.7] 0.829 MB  14 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Annotating-risk-factors-for-heart-disease-in-clinic_2015_Journal-of-Biomedic.pdf
+ 841 0.091 0.073 0.103: 00261-685dd3.txt [1.5] 0.080 MB   4 pages ~/testdata/xxx.hard/blockchain_academic_verification_use_case.pdf
+ 842 0.091 0.086 0.107: 00238-42723b.txt [1.4] 0.073 MB  16 pages ~/testdata/reader.pdf
+ 843 0.092 0.240 0.334: 00251-8ff3e7.txt [1.3] 0.077 MB   3 pages ~/testdata/10.1.1.592.2043.pdf
+ 844 0.092 0.124 0.145: 01255-8c1ec4.txt [1.4] 0.389 MB  55 pages ~/testdata/compression.pdf
+ 845 0.092 0.154 0.205: 00673-f13391.txt [1.4] 0.184 MB  13 pages ~/testdata/suffix-icalp03.pdf
+ 846 0.092 0.128 0.152: 01055-558280.txt [1.4] 0.307 MB  36 pages ~/testdata/04.caseforfairuse.pdf
+ 847 0.092 0.288 0.373: 01437-cbb31b.txt [1.7] 0.472 MB   7 pages ~/testdata/1-s2.0-S1532046417301582-main.pdf
+ 848 0.092 0.061 0.068: 00795-fc98cb.txt [1.5] 0.219 MB  53 pages ~/testdata/go.pdf
+ 849 0.093 0.160 0.211: 00933-1ecbb6.txt [1.3] 0.266 MB  10 pages ~/testdata/pdf_text/hmmtutorialpart1.pdf
+ 850 0.093 0.583 0.709: 00707-61ac44.txt [1.5] 0.196 MB   3 pages ~/testdata/July-28th-Aug-3rd.pdf
+ 851 0.093 0.205 0.280: 00972-dd1ca6.txt [1.4] 0.277 MB  10 pages ~/testdata/Lec6.pdf
+ 852 0.093 0.102 0.123: 00901-2e1c36.txt [1.6] 0.253 MB  24 pages ~/testdata/c2-graphics.pdf
+ 853 0.093 0.149 0.189: 01133-56e649.txt [1.5] 0.337 MB   9 pages ~/testdata/Generating News Headlines with Recurrent Neural Networks.pdf
+ 854 0.093 0.092 0.103: 01553-0e2124.txt [1.5] 0.537 MB  24 pages ~/testdata/LinkingAdvancesInArtificialIntellige_preview.pdf
+ 855 0.093 0.127 0.157: 01582-162db0.txt [1.5] 0.559 MB  10 pages ~/testdata/Enhancing and Combining Sequential and Tree LSTM for Natural Language Inference.pdf
+ 856 0.093 0.173 0.259: 00234-8f142f.txt [1.4] 0.072 MB   3 pages ~/testdata/adobe/aatl_technical_requirements_v14.pdf
+ 857 0.093 0.231 0.326: 00714-dcc371.txt [1.4] 0.199 MB   5 pages ~/testdata/spool/000016.pdf
+ 858 0.093 0.119 0.155: 00546-61139d.txt [1.5] 0.151 MB   1 pages ~/testdata/pdf_text/300bw.pdf
+ 859 0.094 0.099 0.126: 00291-2eba34.txt [1.3] 0.089 MB  18 pages ~/testdata/pcfgs.pdf
+ 860 0.094 0.126 0.164: 01270-b40b56.txt [1.5] 0.398 MB  22 pages ~/testdata/xarc/438.pdf
+ 861 0.094 0.300 0.458: 01175-fe5e25.txt [1.4] 0.354 MB   9 pages ~/testdata/Ondernemingsraad/POPA.pdf
+ 862 0.094 0.081 0.099: 01002-ae9b8a.txt [1.4] 0.284 MB  18 pages ~/testdata/coolnacl-20120725.pdf
+ 863 0.094 0.113 0.146: 00543-999f5e.txt [1.3] 0.150 MB  18 pages ~/testdata/WHY LAWYERS ARE UNHAPPY.pdf
+ 864 0.094 0.151 0.177: 00387-4bb626.txt [1.4] 0.112 MB   8 pages ~/testdata/Recurrent Neural Network Regularization.pdf
+ 865 0.094 0.114 0.140: 01872-1f7eec.txt [1.5] 0.816 MB  15 pages ~/testdata/41746_2018_29_MOESM1_ESM.pdf
+ 866 0.095 0.129 0.190: 01938-478f84.txt [1.4] 0.897 MB  15 pages ~/testdata/digital_signatures/DocuSign System of Agreement White Paper_APAC.pdf
+ 867 0.095 0.158 0.217: 01091-d722f4.txt [1.5] 0.320 MB   6 pages ~/testdata/Tokyo.pdf
+ 868 0.095 0.169 0.186: 01942-e76f34.txt [1.5] 0.902 MB  31 pages ~/testdata/immigration-and-housing-affordability-crisis-july-2018.pdf
+ 869 0.095 0.310 0.496: 01534-2e0b1c.txt [1.4] 0.529 MB   2 pages ~/testdata/pdf_text/ds-nuance-output-manager-en-us.pdf
+ 870 0.095 0.132 0.183: 01549-94a2b7.txt [1.6] 0.535 MB  27 pages ~/testdata/g-suite/Google_Cloud_Security_Compliance_Whitepaper.pdf
+ 871 0.095 0.132 0.183: 01559-beb24a.txt [1.6] 0.541 MB  27 pages ~/testdata/g-suite/google-apps-security-and-compliance-whitepaper.pdf
+ 872 0.095 0.219 0.286: 00911-9038dd.txt [1.3] 0.256 MB  20 pages ~/testdata/geoff_hinton_dark14.pdf
+ 873 0.095 0.257 0.346: 01695-94509a.txt [1.7] 0.654 MB   8 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Comparison-of-UMLS-terminologies-to-identify-risk-o_2015_Journal-of-Biomedic.pdf
+ 874 0.095 0.229 0.318: 01735-c77118.txt [1.7] 0.690 MB   7 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Combining-knowledge--and-data-driven-methods-for-de-_2015_Journal-of-Biomedi.pdf
+ 875 0.095 0.124 0.164: 00744-164476.txt [1.5] 0.207 MB  10 pages ~/testdata/CV_Varoufakis_2014_eng.pdf
+ 876 0.095 0.212 0.306: 01666-d916a7.txt [1.7] 0.631 MB   6 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Predicting-changes-in-systolic-blood-pressure-usin_2015_Journal-of-Biomedica.pdf
+ 877 0.095 0.104 0.136: 00709-6cc896.txt [1.3] 0.197 MB  30 pages ~/testdata/blank_pages/000013.pdf
+ 878 0.095 0.305 0.437: 01811-529818.txt [1.4] 0.754 MB  14 pages ~/testdata/bmj.k4583.full.pdf
+ 879 0.096 0.656 0.895: 01089-6874fd.txt [1.6] 0.319 MB   2 pages ~/testdata/djr-department-organisational-chart-august-2017.pdf
+ 880 0.096 0.359 0.508: 00780-5b46d1.txt [1.7] 0.215 MB   2 pages ~/testdata/digital_signatures/161202-EntrustDS-SSL-Document-Signing-WEB (1).pdf
+ 881 0.096 0.117 0.147: 00407-176e1a.txt [1.4] 0.118 MB  17 pages ~/testdata/xarc/chap10_sec2.pdf
+ 882 0.096 0.145 0.195: 00156-366bc1.txt [1.4] 0.048 MB   4 pages ~/testdata/Notes on Noise Contrastive Estimation and Negative Sampling.pdf
+ 883 0.096 0.258 0.410: 01128-072c53.txt [1.6] 0.335 MB   9 pages ~/testdata/4AA0-7271ENW.pdf
+ 884 0.097 0.099 0.127: 01681-b3d755.txt [1.4] 0.641 MB   1 pages ~/testdata/07068-greek-mute-iota.pdf
+ 885 0.097 0.276 0.404: 00752-c7b2e4.txt [1.6] 0.208 MB   3 pages ~/testdata/digital_signatures/sample03.pdf
+ 886 0.097 0.277 0.404: 00749-a993c6.txt [1.6] 0.208 MB   3 pages ~/testdata/digital_signatures/sample05.pdf
+ 887 0.097 0.278 0.407: 00729-fef386.txt [1.6] 0.203 MB   3 pages ~/testdata/digital_signatures/sample09.pdf
+ 888 0.097 0.278 0.407: 00730-baa8e5.txt [1.6] 0.203 MB   3 pages ~/testdata/digital_signatures/sample10.pdf
+ 889 0.097 0.278 0.407: 00731-aa22fe.txt [1.6] 0.203 MB   3 pages ~/testdata/digital_signatures/sample11.pdf
+ 890 0.097 0.278 0.407: 00751-737ced.txt [1.6] 0.208 MB   3 pages ~/testdata/digital_signatures/sample01.pdf
+ 891 0.097 0.279 0.408: 00873-19ee05.txt [1.6] 0.243 MB   3 pages ~/testdata/digital_signatures/sample07.pdf
+ 892 0.097 0.099 0.121: 01409-6e0a3b.txt [1.5] 0.459 MB  34 pages ~/testdata/pedagogical-document-dp_0.pdf
+ 893 0.097 0.259 0.370: 01276-0903c9.txt [1.5] 0.399 MB   7 pages ~/testdata/xarc/1203.5960.pdf
+ 894 0.097 0.107 0.130: 00292-03c5c8.txt [1.3] 0.090 MB   8 pages ~/testdata/quiggin/QuigginTwoLessonsIntroductionRevised.pdf
+ 895 0.097 0.507 0.691: 01138-f49489.txt [1.4] 0.339 MB   4 pages ~/testdata/uow029186.pdf
+ 896 0.097 0.093 0.114: 01669-3bf659.txt [1.3] 0.632 MB  28 pages ~/testdata/causal_inference/r391-reprint.pdf
+ 897 0.098 0.235 0.372: 01343-af1fc6.txt [1.4] 0.425 MB   9 pages ~/testdata/20122845.full.pdf
+ 898 0.098 0.304 0.402: 01279-8b0c95.txt [1.7] 0.400 MB  11 pages ~/testdata/The_MITRE_Identification_Scrubber_Toolki.pdf
+ 899 0.098 0.130 0.165: 01416-147bfb.txt [1.5] 0.461 MB  13 pages ~/testdata/xarc/1409.6070v1.pdf
+ 900 0.098 0.213 0.319: 01713-37fa91.txt [1.3] 0.670 MB   6 pages ~/testdata/xarc/1802407115.full.pdf
+ 901 0.098 0.098 0.127: 00741-df12c7.txt [1.4] 0.206 MB  11 pages ~/testdata/causal_inference/lecture-31.pdf
+ 902 0.098 0.230 0.350: 00670-70dfd2.txt [1.4] 0.184 MB   5 pages ~/testdata/digital_signatures/Quote_Document_Q-00591-20180530-0517.pdf
+ 903 0.098 0.092 0.110: 00285-17fdc8.txt [1.4] 0.088 MB  10 pages ~/testdata/cv.pdf
+ 904 0.098 0.257 0.343: 00994-116dfb.txt [1.7] 0.281 MB   7 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Risk-factor-detection-for-heart-disease-by-applying-t_2015_Journal-of-Biomed.pdf
+ 905 0.098 0.138 0.180: 01166-c3498c.txt [1.3] 0.352 MB   5 pages ~/testdata/ergodicity/656.full.pdf
+ 906 0.098 0.109 0.139: 00938-30cf0f.txt [1.4] 0.267 MB   7 pages ~/testdata/xarc/1803.11284.pdf
+ 907 0.098 0.196 0.271: 00674-be81e7.txt [1.4] 0.184 MB   1 pages ~/testdata/pdf_text/ds-nuance-copitrak-print-en-us.pdf
+ 908 0.099 0.173 0.269: 01603-adc342.txt [1.4] 0.575 MB   6 pages ~/testdata/ThinPrint_Engine_11_EN.pdf
+ 909 0.099 0.195 0.295: 01085-373389.txt [1.7] 0.318 MB   7 pages ~/testdata/SUPER17983Superannuation_standard_choice_form.pdf
+ 910 0.099 0.097 0.118: 00943-e15bb1.txt [1.4] 0.268 MB  14 pages ~/testdata/supply_chain/170619_WP___Eliminating_Print_Servers.pdf
+ 911 0.099 0.066 0.067: 00346-18f519.txt [1.3] 0.103 MB  16 pages ~/testdata/on-bullshit.pdf
+ 912 0.099 0.384 0.459: 00923-f6af2f.txt [1.7] 0.261 MB   7 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Mining-heart-disease-risk-factors-in-clinical-text-with_2015_Journal-of-Biom.pdf
+ 913 0.099 0.141 0.199: 01505-b3f831.txt [1.4] 0.511 MB   2 pages ~/testdata/HSBC Serious Saver Flyer.pdf
+ 914 0.099 0.181 0.265: 01137-afb623.txt [1.5] 0.339 MB  17 pages ~/testdata/myths.pdf
+ 915 0.099 0.150 0.205: 01680-200a6a.txt [1.4] 0.641 MB  10 pages ~/testdata/CAT-Junior-2016.pdf
+ 916 0.099 0.168 0.235: 01301-f0f347.txt [1.5] 0.406 MB  19 pages ~/testdata/entropy-16-04892.pdf
+ 917 0.099 0.293 0.386: 01294-75dd6f.txt [1.7] 0.404 MB   9 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Automated-systems-for-the-de-identification-of-longitudi_2015_Journal-of-Bio.pdf
+ 918 0.100 0.139 0.184: 01698-f1b490.txt [1.5] 0.656 MB  14 pages ~/testdata/xrp_cost_model_paper.pdf
+ 919 0.100 0.149 0.183: 01174-9204e9.txt [1.5] 0.354 MB  17 pages ~/testdata/2013_0028-0044.pdf
+ 920 0.100 0.415 0.620: 00144-c07a9d.txt [1.3] 0.044 MB   2 pages ~/testdata/MOB-810/000107.pdf
+ 921 0.100 0.415 0.620: 00145-fbc1fb.txt [1.3] 0.044 MB   2 pages ~/testdata/MOB-810/000106.pdf
+ 922 0.100 0.415 0.620: 00150-5babb4.txt [1.3] 0.045 MB   2 pages ~/testdata/MOB-810/000109.pdf
+ 923 0.100 0.415 0.620: 00151-5d17cc.txt [1.3] 0.045 MB   2 pages ~/testdata/MOB-810/000108.pdf
+ 924 0.100 0.108 0.146: 00230-ba398f.txt [1.7] 0.071 MB   4 pages ~/testdata/Whitepaper-XMP-metadata-in-PDFlib-products.pdf
+ 925 0.100 0.109 0.140: 00464-0f0ac7.txt [1.3] 0.133 MB   6 pages ~/testdata/digital_signatures/JPatel-Project.pdf
+ 926 0.101 0.152 0.203: 01528-840ca6.txt [1.4] 0.525 MB  24 pages ~/testdata/money-in-the-australian-economy.pdf
+ 927 0.101 0.248 0.380: 01708-90e863.txt [1.6] 0.666 MB   2 pages ~/testdata/nuance/ds-nuance-equitrac-pagecontrol-touch-en-us.pdf
+ 928 0.101 0.282 0.412: 00982-802fd5.txt [1.6] 0.279 MB   3 pages ~/testdata/digital_signatures/sample06.pdf
+ 929 0.101 0.209 0.327: 00728-12e427.txt [1.5] 0.203 MB   1 pages ~/testdata/Consent Form Flu Vacc FS.pdf
+ 930 0.101 0.096 0.108: 01295-a3bacf.txt [1.3] 0.405 MB  44 pages ~/testdata/causal_inference/AOS_42_6.pdf
+ 931 0.101 0.086 0.100: 00507-870502.txt [1.3] 0.144 MB  22 pages ~/testdata/123 (1).pdf
+ 932 0.101 0.245 0.387: 00095-5e0eb5.txt [1.4] 0.029 MB   5 pages ~/testdata/Ondernemingsraad/b585cadb17ab81e147e2db2be84622270188.pdf
+ 933 0.101 0.144 0.207: 01188-4d1d01.txt [1.5] 0.360 MB  15 pages ~/testdata/digital_signatures/DocuSign-Rise-of-Modern-Systems-of-Agreement-White-Paper.pdf
+ 934 0.101 0.092 0.099: 02002-98b165.txt [1.5] 0.989 MB  27 pages ~/testdata/SSRN-id2686227.pdf
+ 935 0.101 0.170 0.212: 00430-332470.txt [1.4] 0.123 MB   7 pages ~/testdata/NitroReader_3_Release_Notes_en.pdf
+ 936 0.101 0.727 0.884: 01090-770456.txt [1.5] 0.320 MB   2 pages ~/testdata/Maroondah Tournament fixture.pdf
+ 937 0.102 0.197 0.268: 00498-e7cd5a.txt [1.5] 0.142 MB   6 pages ~/testdata/PrefixFreeCodes.pdf
+ 938 0.102 0.191 0.229: 00360-c829b6.txt [1.3] 0.107 MB   9 pages ~/testdata/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
+ 939 0.102 0.273 0.423: 00964-2f0d12.txt [1.4] 0.274 MB  14 pages ~/testdata/adobe/managed-pki-securing-business-applications-whitepaper-en-us-2018.pdf
+ 940 0.102 0.128 0.158: 00774-1fddf5.txt [1.4] 0.213 MB  18 pages ~/testdata/cst.pdf
+ 941 0.103 0.277 0.403: 00748-ce73d7.txt [1.6] 0.208 MB   3 pages ~/testdata/digital_signatures/sample04.pdf
+ 942 0.103 0.107 0.134: 01248-cd0bd2.txt [1.6] 0.385 MB  25 pages ~/testdata/sonstige_an_aviation_carbon_offset_scheme_acos_komplett.pdf
+ 943 0.103 0.080 0.089: 01332-9f18b5.txt [1.4] 0.420 MB  47 pages ~/testdata/Agony and Ecstasy in the Gig Economy-.pdf
+ 944 0.103 0.259 0.404: 00296-b7e89d.txt [1.4] 0.090 MB   6 pages ~/testdata/Ondernemingsraad/fulltext.pdf
+ 945 0.103 0.266 0.358: 01410-529c79.txt [1.7] 0.459 MB  10 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Combining-glass-box-and-black-box-evaluations-in-the-ident_2015_Journal-of-B.pdf
+ 946 0.103 0.256 0.400: 01965-6182db.txt [1.5] 0.939 MB   4 pages ~/testdata/HansRosling.pdf
+ 947 0.103 0.115 0.130: 00324-022121.txt [1.4] 0.098 MB  16 pages ~/testdata/xarc/1611.09471.pdf
+ 948 0.103 0.241 0.351: 01277-ee770e.txt [1.4] 0.400 MB   1 pages ~/testdata/signit-flyer.pdf
+ 949 0.104 0.327 0.505: 00662-d3ec6c.txt [1.5] 0.181 MB   2 pages ~/testdata/nuance/ds-nuance-equitrac-queue-en-us.pdf
+ 950 0.104 0.202 0.295: 00471-94a7ad.txt [1.7] 0.136 MB  10 pages ~/testdata/WhatsApp-Security-Whitepaper.pdf
+ 951 0.104 0.133 0.144: 01649-a55c05.txt [1.6] 0.608 MB  81 pages ~/testdata/romestatuteng1.pdf
+ 952 0.104 0.178 0.239: 01136-1f2afb.txt [1.4] 0.339 MB  12 pages ~/testdata/ergodicity/1-s2.0-S0304414910001316-main.pdf
+ 953 0.104 0.140 0.186: 00820-842cbf.txt [1.5] 0.226 MB  14 pages ~/testdata/spelling_correction_noisy_channel.pdf
+ 954 0.104 0.141 0.173: 01306-2d876e.txt [1.5] 0.408 MB  11 pages ~/testdata/xarc/1611.01576v1.pdf
+ 955 0.104 0.159 0.195: 01161-0a46d3.txt [1.4] 0.351 MB  10 pages ~/testdata/digital_signatures/tn0006_digital_signatures_in_pdfa-1_2008-03-141.pdf
+ 956 0.104 0.248 0.353: 00992-e062e5.txt [1.4] 0.281 MB   6 pages ~/testdata/3586a079.pdf
+ 957 0.104 0.119 0.161: 01727-4d9622.txt [1.4] 0.678 MB   8 pages ~/testdata/supply_chain/170523_Printing_in_Epic_and_Meditech_EMR_Environments.pdf
+ 958 0.105 0.457 0.542: 01773-8789f0.txt [1.5] 0.715 MB   5 pages ~/testdata/Status_of_convention.pdf
+ 959 0.105 0.122 0.134: 01387-dd3285.txt [1.4] 0.448 MB  40 pages ~/testdata/mayaps-d.pdf
+ 960 0.105 0.186 0.242: 01003-104100.txt [1.5] 0.285 MB   1 pages ~/testdata/pdf_text/600bw.pdf
+ 961 0.105 0.304 0.458: 00837-020af5.txt [1.3] 0.232 MB   2 pages ~/testdata/blank_pages/000004.pdf
+ 962 0.105 0.237 0.359: 01281-d84084.txt [1.4] 0.400 MB  18 pages ~/testdata/6949a232.pdf
+ 963 0.105 0.236 0.328: 00359-1c0a9d.txt [1.5] 0.107 MB   8 pages ~/testdata/est_rqts.pdf
+ 964 0.106 0.130 0.169: 01231-1010bf.txt [1.5] 0.375 MB  10 pages ~/testdata/signature.pdf
+ 965 0.106 0.283 0.426: 00412-7af30c.txt [1.7] 0.118 MB   2 pages ~/testdata/HH factsheet.pdf
+ 966 0.107 0.278 0.413: 00723-578c72.txt [1.4] 0.201 MB   7 pages ~/testdata/xarc/Wilczek_2012_Phys._Scr._2012_014001.pdf
+ 967 0.107 0.278 0.413: 00724-eb7371.txt [1.4] 0.201 MB   7 pages ~/testdata/xarc/Wilczek_2012_Phys._Scr._2012_014001 (1).pdf
+ 968 0.107 0.206 0.298: 01730-6b0112.txt [1.3] 0.679 MB  21 pages ~/testdata/ergodicity/paddam.pdf
+ 969 0.107 0.209 0.238: 00821-e961e9.txt [1.3] 0.226 MB  18 pages ~/testdata/ergodicity/NOVOTNY2007AnnalsofRegionalScience.pdf
+ 970 0.107 0.129 0.133: 01025-4e3cf1.txt [1.5] 0.295 MB   1 pages ~/testdata/AM_AFLGF_2016_FLC.pdf
+ 971 0.107 0.270 0.381: 01814-b605a5.txt [1.4] 0.759 MB   8 pages ~/testdata/OIML_Davis_2011.pdf
+ 972 0.107 0.158 0.207: 01001-728e11.txt [1.5] 0.284 MB  13 pages ~/testdata/xarc/CuckooCycle.pdf
+ 973 0.107 0.122 0.157: 00996-534302.txt [1.4] 0.283 MB  19 pages ~/testdata/SSRN-id3303365.pdf
+ 974 0.107 0.239 0.361: 01934-42af09.txt [1.5] 0.894 MB  25 pages ~/testdata/crypto/cacr2015-02.pdf
+ 975 0.108 0.147 0.172: 01308-20a2af.txt [1.5] 0.409 MB   5 pages ~/testdata/privacy/Responsible Data Analytics Draft.pdf
+ 976 0.108 0.245 0.349: 01642-62b44d.txt [1.7] 0.601 MB  16 pages ~/testdata/1-s2.0-S1532046414001403-main.pdf
+ 977 0.108 0.129 0.160: 01162-8a156d.txt [1.5] 0.351 MB   8 pages ~/testdata/xarc/Deep learning for sentiment analysis of movie reviews.pdf
+ 978 0.109 0.114 0.138: 00434-9dbab6.txt [1.4] 0.124 MB  15 pages ~/testdata/ergodicity/Renn.pdf
+ 979 0.109 0.155 0.201: 00548-edd255.txt [1.4] 0.152 MB   8 pages ~/testdata/kuksa08nips.pdf
+ 980 0.109 0.417 0.602: 00100-e84b86.txt [1.5] 0.030 MB   1 pages ~/testdata/digital_signatures/Acrobat_SignatureCreationQuickKeyAll.pdf
+ 981 0.109 0.266 0.376: 00449-4b58bc.txt [1.5] 0.129 MB   5 pages ~/testdata/Carnot.pdf
+ 982 0.109 0.288 0.405: 00108-1f4eee.txt [1.4] 0.032 MB  11 pages ~/testdata/pdf00050.pdf
+ 983 0.109 0.248 0.371: 01692-60d90d.txt [1.4] 0.653 MB  11 pages ~/testdata/Impact_of_Deep_Learning_Assistance_on_the.97756.pdf
+ 984 0.109 0.277 0.418: 01999-dd68bd.txt [1.7] 0.979 MB  23 pages ~/testdata/correctness/2017-global-data-management-benchmark-report.pdf
+ 985 0.110 0.276 0.385: 01941-92b2c8.txt [1.5] 0.898 MB   1 pages ~/testdata/papercut-self-association-poster-a4.pdf
+ 986 0.110 0.146 0.187: 00898-e821af.txt [1.6] 0.252 MB   5 pages ~/testdata/m-15-13.pdf
+ 987 0.110 0.168 0.186: 01871-e39a58.txt [1.6] 0.814 MB  46 pages ~/testdata/31-11.pdf
+ 988 0.110 0.303 0.471: 00321-d32032.txt [1.3] 0.097 MB  10 pages ~/testdata/75.pdf
+ 989 0.110 0.136 0.159: 01878-353728.txt [1.3] 0.828 MB  34 pages ~/testdata/Phong_TR-Lyon.pdf
+ 990 0.111 0.158 0.223: 01760-4bd5bb.txt [1.6] 0.708 MB  32 pages ~/testdata/Reluctant-Leaders-EMPSON.pdf
+ 991 0.111 0.196 0.259: 00592-fe8fad.txt [1.5] 0.164 MB   6 pages ~/testdata/ergodicity/ergodic-theorem.pdf
+ 992 0.111 0.266 0.393: 01029-762557.txt [1.5] 0.295 MB  10 pages ~/testdata/Kodak-Alaris-WP-Future-of-intelligent-capture.pdf
+ 993 0.111 0.268 0.385: 00680-43f29c.txt [1.5] 0.187 MB   1 pages ~/testdata/New-York-Times-Gale-MLA.pdf
+ 994 0.111 0.300 0.455: 00087-a910a1.txt [1.3] 0.026 MB   3 pages ~/testdata/1_shapes_on_block.pdf
+ 995 0.111 0.300 0.455: 00089-deb590.txt [1.3] 0.026 MB   4 pages ~/testdata/1_rotate.pdf
+ 996 0.111 0.300 0.455: 00104-284195.txt [1.3] 0.031 MB   7 pages ~/testdata/1_wrap.pdf
+ 997 0.111 0.154 0.182: 01466-9a508d.txt [1.5] 0.486 MB  14 pages ~/testdata/xarc/042.pdf
+ 998 0.112 0.129 0.156: 00600-594627.txt [1.5] 0.167 MB  12 pages ~/testdata/nimbus-sans-thai.pdf
+ 999 0.112 0.146 0.173: 01413-50d53c.txt [1.5] 0.459 MB  10 pages ~/testdata/SocherChenManningNg_NIPS2013.pdf
+1000 0.113 0.213 0.242: 01062-64b3b6.txt [1.5] 0.309 MB  16 pages ~/testdata/A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SENTENCE EMBEDDINGS.pdf
+1001 0.113 0.146 0.185: 00621-d288fe.txt [1.4] 0.172 MB  17 pages ~/testdata/xarc/51540279.pdf
+1002 0.113 0.116 0.139: 00927-2da02e.txt [1.4] 0.263 MB  21 pages ~/testdata/xarc/1508.06574v1.pdf
+1003 0.114 0.258 0.375: 01451-5e2aa7.txt [1.4] 0.479 MB   9 pages ~/testdata/fernbach13.pdf
+1004 0.114 0.103 0.125: 00299-4cfdac.txt [1.4] 0.091 MB  22 pages ~/testdata/lexpcfgs.pdf
+1005 0.114 0.122 0.152: 00881-5a0f0c.txt [1.5] 0.246 MB   9 pages ~/testdata/PDF Inference (Public).pdf
+1006 0.114 0.111 0.127: 01655-c06713.txt [1.5] 0.613 MB   6 pages ~/testdata/digital_signatures/Create Digital Signatures.pdf
+1007 0.114 0.245 0.341: 01348-de9139.txt [1.4] 0.427 MB   5 pages ~/testdata/Turing.pdf
+1008 0.115 0.159 0.199: 00785-6674cb.txt [1.4] 0.216 MB  26 pages ~/testdata/ergodicity/chap1.pdf
+1009 0.115 0.202 0.270: 00840-202489.txt [1.3] 0.234 MB  14 pages ~/testdata/training_semantic_parsers.pdf
+1010 0.115 0.419 0.549: 00372-001cb0.txt [1.3] 0.108 MB  10 pages ~/testdata/Spatial_context_and_the_complexity_of_da.pdf
+1011 0.116 0.240 0.326: 01394-d792d7.txt [1.5] 0.453 MB   9 pages ~/testdata/climate_science_words.pdf
+1012 0.116 0.161 0.206: 01516-4dd1f9.txt [1.3] 0.516 MB  18 pages ~/testdata/Multicast Cryptosystems.pdf
+1013 0.116 0.211 0.323: 01693-a6f350.txt [1.5] 0.653 MB  17 pages ~/testdata/Insights Council March 2017 Report What Data Can Really Do for Health Care.pdf
+1014 0.116 0.142 0.169: 01288-6cc461.txt [1.5] 0.402 MB  19 pages ~/testdata/faas.pdf
+1015 0.116 0.159 0.206: 01896-53c7e6.txt [1.5] 0.843 MB  12 pages ~/testdata/BlackScholes.pdf
+1016 0.117 0.243 0.333: 00702-d8c19b.txt [1.6] 0.194 MB   6 pages ~/testdata/navierstokes.pdf
+1017 0.117 0.251 0.270: 01135-60c576.txt [1.3] 0.338 MB  30 pages ~/testdata/ergodicity/papergiammatteo.pdf
+1018 0.117 0.122 0.148: 01819-a0f29f.txt [1.4] 0.764 MB  30 pages ~/testdata/Privet201.pdf
+1019 0.117 0.254 0.354: 01880-25fc02.txt [1.3] 0.831 MB  12 pages ~/testdata/10.1093@jamia@ocw156.pdf
+1020 0.117 0.177 0.220: 00782-0bbd86.txt [1.5] 0.216 MB   6 pages ~/testdata/piantadosi2018one.pdf
+1021 0.117 0.279 0.375: 01171-26bb43.txt [1.7] 0.353 MB   6 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/An-automatic-system-to-identify-heart-disease-risk-_2015_Journal-of-Biomedic.pdf
+1022 0.118 0.136 0.184: 01204-4b4268.txt [1.4] 0.363 MB  11 pages ~/testdata/humansideofenterprise.pdf
+1023 0.118 0.277 0.389: 00681-d6aec7.txt [1.4] 0.187 MB  11 pages ~/testdata/xarc/2009+IQ+health+fitness+factor.pdf
+1024 0.118 0.126 0.150: 01350-61a66e.txt [1.7] 0.428 MB   8 pages ~/testdata/papercut-mf-17-3-asc-pre-release-guide-2017-08-29.pdf
+1025 0.118 0.238 0.353: 00623-ee49c3.txt [1.6] 0.173 MB   3 pages ~/testdata/jvs.12482.pdf
+1026 0.119 0.125 0.141: 00614-f53c4b.txt [1.6] 0.170 MB  27 pages ~/testdata/batsbzx201630-20.pdf
+1027 0.119 0.225 0.329: 01149-9115fb.txt [1.5] 0.345 MB   9 pages ~/testdata/whitepaper.pdf
+1028 0.119 0.168 0.223: 00596-e86a6d.txt [1.6] 0.166 MB   2 pages ~/testdata/Fidante-WITHDRAWL-REQUEST-FORM.pdf
+1029 0.119 0.307 0.469: 00126-01ca51.txt [1.3] 0.039 MB   2 pages ~/testdata/spool/000002.gray.pdf
+1030 0.119 0.307 0.469: 00130-aa9e6b.txt [1.3] 0.040 MB   2 pages ~/testdata/spool/000002.pdf
+1031 0.119 0.324 0.524: 00116-195163.txt [1.3] 0.037 MB   1 pages ~/testdata/spool/000001.gray.pdf
+1032 0.119 0.324 0.524: 00118-44186a.txt [1.3] 0.038 MB   1 pages ~/testdata/spool/000001.pdf
+1033 0.119 0.127 0.150: 01298-bd765b.txt [1.5] 0.406 MB  16 pages ~/testdata/SEMI-SUPERVISED KNOWLEDGE TRANSFER FOR DEEP LEARNING FROM PRIVATE TRAINING DATA.pdf
+1034 0.119 0.215 0.325: 00482-4c9909.txt [1.5] 0.138 MB   4 pages ~/testdata/097af05e8de39370dd287c74653b715c8f6a.pdf
+1035 0.119 0.137 0.167: 00422-6ee1d2.txt [1.4] 0.121 MB  12 pages ~/testdata/lm.pdf
+1036 0.120 0.178 0.199: 01132-51fcba.txt [1.5] 0.335 MB  48 pages ~/testdata/wp2014-23.pdf
+1037 0.120 0.099 0.101: 01832-64a418.txt [1.5] 0.789 MB  27 pages ~/testdata/xarc/1712.01208.pdf
+1038 0.120 0.254 0.360: 01860-d2f1cc.txt [1.3] 0.803 MB  76 pages ~/testdata/pk408a-2.pdf
+1039 0.120 0.250 0.345: 01300-7266a2.txt [1.6] 0.406 MB   5 pages ~/testdata/DeBruijnPrimer.pdf
+1040 0.120 0.356 0.521: 00417-c591ed.txt [1.3] 0.119 MB   5 pages ~/testdata/lec03-sp01.pdf
+1041 0.120 0.170 0.245: 00173-0b7347.txt [1.3] 0.053 MB   5 pages ~/testdata/jarvisspec02.pdf
+1042 0.120 0.242 0.364: 00905-eab903.txt [1.3] 0.254 MB   6 pages ~/testdata/xarc/x999719997.pdf
+1043 0.121 0.238 0.351: 01340-5afbe8.txt [1.4] 0.424 MB  14 pages ~/testdata/slides_12.pdf
+1044 0.121 0.220 0.251: 01144-88a455.txt [1.3] 0.343 MB  17 pages ~/testdata/Presto_UserGuide.pdf
+1045 0.121 0.146 0.179: 01990-86859a.txt [1.3] 0.971 MB  34 pages ~/testdata/Immigration-public-opinion-2018.pdf
+1046 0.121 0.147 0.187: 01103-287d90.txt [1.5] 0.323 MB  35 pages ~/testdata/g-suite/EJ1107960.pdf
+1047 0.121 0.220 0.320: 01142-22a5ee.txt [1.4] 0.342 MB  16 pages ~/testdata/raluca-cryptdb.pdf
+1048 0.121 0.132 0.172: 01125-75094a.txt [1.4] 0.331 MB  42 pages ~/testdata/ArtificialIntelligenceAutomationAnd_preview.pdf
+1049 0.122 0.123 0.154: 00640-6f0f90.txt [1.3] 0.176 MB  28 pages ~/testdata/digital_signatures/guide.pdf
+1050 0.122 0.201 0.274: 00474-e4ca15.txt [1.4] 0.136 MB   7 pages ~/testdata/planck1901.pdf
+1051 0.122 0.313 0.428: 00443-697cec.txt [1.4] 0.127 MB   2 pages ~/testdata/ergodicity/brownianMotion.pdf
+1052 0.123 0.221 0.321: 01905-470318.txt [1.4] 0.851 MB  16 pages ~/testdata/cryptdb.pdf
+1053 0.123 0.253 0.320: 01659-99622b.txt [1.6] 0.619 MB   6 pages ~/testdata/DH_2685_2018_ClinicalPackageValidator_ReleaseNote_v2.7.pdf
+1054 0.123 0.157 0.202: 01845-bfce57.txt [1.3] 0.797 MB  95 pages ~/testdata/digital_signatures/TWISCKeyDist.pdf
+1055 0.123 0.190 0.249: 01808-a9d580.txt [1.4] 0.752 MB  28 pages ~/testdata/25YearsWashingtonAccord-A5booklet-FINAL.pdf
+1056 0.123 0.238 0.355: 00085-4c4d3c.txt [1.3] 0.025 MB   3 pages ~/testdata/How to Accuse the Other Guy of Lying with Statistics.pdf
+1057 0.123 0.144 0.183: 01120-63dbdb.txt [1.5] 0.329 MB   2 pages ~/testdata/csefapplicationform.pdf
+1058 0.124 0.153 0.189: 01636-2555fa.txt [1.6] 0.594 MB  31 pages ~/testdata/ThemacroeconomicsofTrygveHaavelmo.pdf
+1059 0.124 0.227 0.295: 00736-6a0bd5.txt [1.4] 0.205 MB  13 pages ~/testdata/TYING WORD VECTORS AND WORD CLASSIFIERS.pdf
+1060 0.124 0.161 0.208: 01009-112ff8.txt [1.5] 0.285 MB  18 pages ~/testdata/PLA-6.4-baksik.pdf
+1061 0.124 0.367 0.570: 00587-e4c804.txt [1.5] 0.162 MB   4 pages ~/testdata/pdf_text/outputmanager.pdf
+1062 0.124 0.267 0.408: 00396-825091.txt [1.4] 0.115 MB   4 pages ~/testdata/fonts/tb87hagen-gyre.pdf
+1063 0.124 0.231 0.355: 00509-be2b18.txt [1.6] 0.144 MB   4 pages ~/testdata/white.pdf
+1064 0.124 0.240 0.345: 01005-5c647f.txt [1.4] 0.285 MB   7 pages ~/testdata/EvaluationofthemicrostructuralchangesinCr-Vledeburitictoolsteelsdependingonaustenitizationtemperature.pdf
+1065 0.124 0.240 0.345: 01006-a4ea12.txt [1.4] 0.285 MB   7 pages ~/testdata/EvaluationofthemicrostructuralchangesinCr-Vledeburitictoolsteelsdependingonaustenitizationtemperature (1).pdf
+1066 0.125 0.146 0.182: 01017-6a5f64.txt [1.3] 0.289 MB   3 pages ~/testdata/ergodicity/628.full.pdf
+1067 0.125 0.251 0.377: 00394-d5f96d.txt [1.5] 0.115 MB   8 pages ~/testdata/feudalism-hotnets17.pdf
+1068 0.125 0.158 0.179: 01441-ff4c85.txt [1.4] 0.472 MB  52 pages ~/testdata/10.1.1.123.3435.pdf
+1069 0.126 0.297 0.420: 01370-e2e86e.txt [1.5] 0.438 MB   5 pages ~/testdata/ergodicity/1209.4517.pdf
+1070 0.126 0.149 0.189: 01191-e048d5.txt [1.4] 0.360 MB  24 pages ~/testdata/xarc/543.pdf
+1071 0.126 0.097 0.111: 00667-f68c3a.txt [1.3] 0.183 MB  36 pages ~/testdata/definettiwasright.pdf
+1072 0.126 0.179 0.242: 00850-d29f85.txt [1.4] 0.236 MB  14 pages ~/testdata/pa4_ner.pdf
+1073 0.126 0.227 0.268: 00866-4fde37.txt [1.4] 0.241 MB  16 pages ~/testdata/xarc/37305ce08acc093ba20117fc77412dba037b.pdf
+1074 0.127 0.169 0.219: 00217-86ad18.txt [1.3] 0.067 MB   3 pages ~/testdata/maneker.pdf
+1075 0.127 0.153 0.189: 01518-eacfbd.txt [1.6] 0.516 MB  30 pages ~/testdata/causal_inference/NOPEC_2012_a02.pdf
+1076 0.127 0.435 0.624: 00924-551809.txt [1.3] 0.261 MB   6 pages ~/testdata/non_english/unicodeexample.pdf
+1077 0.127 0.146 0.168: 01551-63569d.txt [1.5] 0.536 MB  41 pages ~/testdata/xarc/272.pdf
+1078 0.128 0.109 0.125: 01421-6a2aca.txt [1.5] 0.463 MB   8 pages ~/testdata/SK Hynix Case Study November 16 2015 - Final.pdf
+1079 0.128 0.259 0.376: 01778-2d7b5b.txt [1.5] 0.724 MB  17 pages ~/testdata/xarc/cscw17-distilling-the-outcomes-of-personal-experiences-a-propensity-scored-analysis.pdf
+1080 0.128 0.235 0.359: 00726-dea0d0.txt [1.4] 0.202 MB   5 pages ~/testdata/pdf_text/tesseracticdar2007.pdf
+1081 0.128 0.264 0.377: 01685-683953.txt [1.5] 0.647 MB  12 pages ~/testdata/Accurate, Large Minibatch SGD- Training ImageNet in 1 Hour.pdf
+1082 0.128 0.224 0.300: 01488-60995f.txt [1.4] 0.499 MB   1 pages ~/testdata/NIH Certificate.pdf
+1083 0.128 0.260 0.383: 00677-c4b09a.txt [1.3] 0.185 MB   2 pages ~/testdata/shamirturing.pdf
+1084 0.128 0.181 0.251: 01888-9665c9.txt [1.4] 0.836 MB  12 pages ~/testdata/wt-part-6-chapt-25-final.pdf
+1085 0.129 0.293 0.410: 01800-f656ba.txt [1.6] 0.746 MB  13 pages ~/testdata/code_data/1481-1493.pdf
+1086 0.129 0.138 0.165: 01455-effd35.txt [1.4] 0.481 MB  45 pages ~/testdata/xarc/169.pdf
+1087 0.130 0.131 0.161: 00971-a56778.txt [1.6] 0.276 MB  21 pages ~/testdata/The Norm against Economic Espionage for the Benefit of Private Fi.pdf
+1088 0.130 0.128 0.145: 01229-ecc39f.txt [1.3] 0.374 MB  26 pages ~/testdata/Artificiell Intelligens och machine learing för sjukvård och life science.pdf
+1089 0.130 0.196 0.289: 00516-c04e97.txt [1.4] 0.145 MB  13 pages ~/testdata/asan.pdf
+1090 0.130 0.138 0.164: 01480-747073.txt [1.5] 0.495 MB  31 pages ~/testdata/Kolhatkar_etal_SOCC.pdf
+1091 0.130 0.201 0.242: 01989-d03b65.txt [1.3] 0.968 MB   9 pages ~/testdata/6101-relevant-sparse-codes-with-variational-information-bottleneck.pdf
+1092 0.131 0.113 0.130: 01096-f9eda7.txt [1.3] 0.321 MB  33 pages ~/testdata/Frege-WittCorrespondence.pdf
+1093 0.131 0.278 0.392: 01349-7417d5.txt [1.4] 0.427 MB   5 pages ~/testdata/isb10375_fm.pdf
+1094 0.131 0.130 0.155: 00766-3a2147.txt [1.4] 0.211 MB  33 pages ~/testdata/0001839217747269.pdf
+1095 0.131 0.208 0.293: 01286-ac5a52.txt [1.5] 0.402 MB  52 pages ~/testdata/sec_multi_party_comp.pdf
+1096 0.131 0.322 0.450: 01575-b45a97.txt [1.4] 0.553 MB  10 pages ~/testdata/fonts/tb94vieth.pdf
+1097 0.131 0.140 0.167: 00131-bf18e7.txt [1.4] 0.040 MB  27 pages ~/testdata/rfc6962.txt.pdf
+1098 0.132 0.165 0.193: 01564-9d543b.txt [1.5] 0.542 MB  30 pages ~/testdata/xarc/1013.pdf
+1099 0.132 0.109 0.118: 01080-7fca92.txt [1.4] 0.317 MB  99 pages ~/testdata/Stevenson_LEtrangeCasDuDrJekyllEtDeMrHyde.pdf
+1100 0.132 0.266 0.375: 00637-fca7a0.txt [1.5] 0.176 MB   6 pages ~/testdata/SSRN-id2284964.pdf
+1101 0.132 0.119 0.140: 01763-9b3844.txt [1.4] 0.709 MB  63 pages ~/testdata/pdf_text/Output Manager Install Guide.pdf
+1102 0.133 0.397 0.521: 01124-5640dc.txt [1.7] 0.331 MB   1 pages ~/testdata/TaxInvoice.pdf
+1103 0.134 0.457 0.541: 00999-94b021.txt [1.3] 0.284 MB  42 pages ~/testdata/spool/a000002.pdf
+1104 0.134 0.168 0.191: 00257-b901b9.txt [1.4] 0.079 MB  16 pages ~/testdata/Report_to_CIPM_2.pdf
+1105 0.134 0.285 0.423: 00832-5b780a.txt [1.4] 0.231 MB   3 pages ~/testdata/nuance/AutoStore Catalonian Government Department of Justice.pdf
+1106 0.134 0.252 0.329: 00397-0a97ec.txt [1.4] 0.115 MB  13 pages ~/testdata/xarc/1002.0097.pdf
+1107 0.134 0.158 0.201: 01865-99eb49.txt [1.4] 0.807 MB   1 pages ~/testdata/keynes-hayek-1932-cambridgelse.pdf
+1108 0.134 0.330 0.490: 00970-c871e1.txt [1.7] 0.276 MB   2 pages ~/testdata/Dallastown-Chromebook-PaperCut-Case-Study.pdf
+1109 0.135 0.157 0.190: 01396-56e66c.txt [1.7] 0.454 MB  25 pages ~/testdata/08_Elmahjub.pdf
+1110 0.135 0.271 0.409: 01313-97dff4.txt [1.4] 0.413 MB   5 pages ~/testdata/pdf_text/PageLayoutAnalysisICDAR2.pdf
+1111 0.135 0.267 0.385: 01253-127316.txt [1.5] 0.387 MB   8 pages ~/testdata/xarc/CNN Features off-the-shelf- an Astounding Baseline for Recognition.pdf
+1112 0.135 0.164 0.205: 01506-03c511.txt [1.4] 0.511 MB   2 pages ~/testdata/1110.3369.pdf
+1113 0.135 0.154 0.194: 01134-7efa3d.txt [1.3] 0.337 MB  37 pages ~/testdata/WrightandClibborn-CLLPJ-Emerginglow-skilledmigrationinAustralia-finalversion.pdf
+1114 0.135 0.114 0.133: 01892-adbaba.txt [1.6] 0.838 MB  36 pages ~/testdata/g-suite/Pages_71-106.pdf
+1115 0.136 0.131 0.167: 00769-2a0565.txt [1.4] 0.211 MB  33 pages ~/testdata/1112.3175.pdf
+1116 0.136 0.228 0.270: 00855-16e3f9.txt [1.5] 0.237 MB  21 pages ~/testdata/pdf_text/HMM.pdf
+1117 0.136 0.202 0.249: 01645-6153ae.txt [1.5] 0.603 MB  17 pages ~/testdata/xarc/1611.00712v1.pdf
+1118 0.137 0.158 0.187: 01998-cbb4a1.txt [1.6] 0.978 MB   4 pages ~/testdata/PH930647.pdf
+1119 0.138 0.189 0.240: 00136-9c2ca5.txt [1.4] 0.041 MB   3 pages ~/testdata/causal_inference/burdzy.pdf
+1120 0.138 0.350 0.471: 00759-139753.txt [1.4] 0.209 MB   4 pages ~/testdata/Movie Reviews and Revenues- An Experiment in Text Regression∗.pdf
+1121 0.138 0.148 0.182: 00488-7c7aa0.txt [1.3] 0.140 MB  13 pages ~/testdata/hlthaff.25.1.57.pdf
+1122 0.138 0.259 0.382: 00718-799f75.txt [1.5] 0.200 MB   4 pages ~/testdata/254-1-344-1-10-20130112.pdf
+1123 0.139 0.253 0.381: 00162-0b20b6.txt [1.4] 0.049 MB   5 pages ~/testdata/independence.pdf
+1124 0.139 0.297 0.434: 01675-db98b5.txt [1.4] 0.638 MB   2 pages ~/testdata/ds-sp-25yr-combined-warranty.pdf
+1125 0.140 0.306 0.421: 00393-a27eed.txt [1.3] 0.115 MB   6 pages ~/testdata/lcs.pdf
+1126 0.140 0.153 0.175: 01706-571e19.txt [1.4] 0.664 MB  24 pages ~/testdata/xarc/Webb2017 [Schizotypy].pdf
+1127 0.140 0.268 0.375: 01802-bc819f.txt [1.4] 0.748 MB   7 pages ~/testdata/Artificial intelligence for analyzing orthopedic trauma radiographs.pdf
+1128 0.140 0.146 0.170: 00636-1f3cf1.txt [1.4] 0.175 MB  17 pages ~/testdata/SemanticStates201.pdf
+1129 0.140 0.128 0.151: 01613-61764e.txt [1.5] 0.581 MB  65 pages ~/testdata/digital_signatures/F8-BP-2018-Stefan-Tomas-thesis.pdf
+1130 0.140 0.248 0.367: 00199-024256.txt [1.4] 0.063 MB   7 pages ~/testdata/holmes-deconstruction-ebhc-06.pdf
+1131 0.140 0.581 0.793: 00240-eada4e.txt [1.3] 0.073 MB   3 pages ~/testdata/blank_pages/000001.pdf
+1132 0.140 0.246 0.357: 00421-456a52.txt [1.4] 0.121 MB   8 pages ~/testdata/0146167217729162.pdf
+1133 0.140 0.225 0.297: 01239-556aba.txt [1.5] 0.380 MB  27 pages ~/testdata/586.pdf
+1134 0.140 0.180 0.213: 01196-d7c3aa.txt [1.4] 0.361 MB  28 pages ~/testdata/digital_signatures/becker_1.pdf
+1135 0.140 0.346 0.512: 00809-1c4cda.txt [1.3] 0.222 MB  34 pages ~/testdata/0471690988.pdf
+1136 0.141 0.297 0.320: 00594-b674be.txt [1.4] 0.165 MB  19 pages ~/testdata/Health Aff-2003-Anderson-89-105.pdf
+1137 0.141 0.219 0.280: 01624-9edcef.txt [1.5] 0.589 MB  34 pages ~/testdata/pdf_text/dell_iir_ch13.pdf
+1138 0.141 0.217 0.288: 01049-f2f54a.txt [1.4] 0.305 MB  19 pages ~/testdata/ergodicity/darp67.pdf
+1139 0.141 0.138 0.143: 00661-db246c.txt [1.7] 0.181 MB   3 pages ~/testdata/04 09 18_National Property Listings Rise in August_Media Release_FINAL.pdf
+1140 0.141 0.242 0.300: 00836-430f27.txt [1.4] 0.232 MB  20 pages ~/testdata/Radon_Transform.pdf
+1141 0.142 0.232 0.305: 01168-260813.txt [1.3] 0.352 MB   9 pages ~/testdata/ergodicity/4927-sinkhorn-distances-lightspeed-computation-of-optimal-transport.pdf
+1142 0.142 0.151 0.187: 01709-ea9a3c.txt [1.3] 0.667 MB  15 pages ~/testdata/backflow1.pdf
+1143 0.142 0.161 0.193: 01538-6417eb.txt [1.5] 0.530 MB  33 pages ~/testdata/xarc/210.pdf
+1144 0.143 0.350 0.504: 01933-8ba55d.txt [1.4] 0.890 MB   2 pages ~/testdata/pdf_text/QDirectSCANXerox.pdf
+1145 0.143 0.155 0.196: 00813-c484ac.txt [1.3] 0.223 MB  48 pages ~/testdata/Chapter10.pdf
+1146 0.143 0.166 0.208: 01578-dab19d.txt [1.5] 0.555 MB  27 pages ~/testdata/xarc/1507.04655.pdf
+1147 0.143 0.327 0.491: 01036-e23322.txt [1.4] 0.297 MB   4 pages ~/testdata/ds-cloud-based-clinical-speech-and-language-understanding-sdks-for-mobile-web-and-desktop-en-us.pdf
+1148 0.143 0.173 0.224: 00826-6e7073.txt [1.5] 0.228 MB  28 pages ~/testdata/4.pdf
+1149 0.143 0.193 0.214: 01347-0eddfe.txt [1.4] 0.427 MB   2 pages ~/testdata/NDLERF+USE+AND+HEALTH.pdf
+1150 0.143 0.255 0.368: 01911-bcdb4d.txt [1.5] 0.857 MB   8 pages ~/testdata/xarc/Deep Neural Networks for YouTube Recommendations.pdf
+1151 0.144 0.347 0.485: 01796-3ec15a.txt [1.5] 0.744 MB   2 pages ~/testdata/ImaginesIIIflyer.pdf
+1152 0.144 0.144 0.174: 01508-d648cf.txt [1.6] 0.511 MB  18 pages ~/testdata/det_eff_encrytion.pdf
+1153 0.144 0.268 0.402: 00176-1b3380.txt [1.4] 0.054 MB   5 pages ~/testdata/pedersen-i2b2-2008.pdf
+1154 0.144 0.311 0.461: 00863-1dd4cd.txt [1.7] 0.240 MB   9 pages ~/testdata/future-of-customer-service-with-ai-whitepaper.pdf
+1155 0.144 0.172 0.228: 01920-33b125.txt [1.5] 0.871 MB  29 pages ~/testdata/502005.full.pdf
+1156 0.145 0.130 0.155: 00350-9bff3d.txt [1.4] 0.103 MB  22 pages ~/testdata/pdf_text/10.1.1.469.6539.pdf
+1157 0.145 0.192 0.232: 01793-fb70ad.txt [1.5] 0.741 MB  46 pages ~/testdata/bethunea-rocheteaub-rupert.pdf
+1158 0.145 0.244 0.346: 01671-a77a6f.txt [1.4] 0.637 MB  16 pages ~/testdata/YSoft-SafeQ-Platform-brochure-EN.pdf
+1159 0.146 0.295 0.428: 00561-d9a6d7.txt [1.4] 0.156 MB   9 pages ~/testdata/NAACL09.pdf
+1160 0.146 0.314 0.436: 01598-e86b76.txt [1.4] 0.572 MB   7 pages ~/testdata/7Vol30No1.pdf
+1161 0.146 0.147 0.191: 01639-320ef5.txt [1.4] 0.597 MB  16 pages ~/testdata/hard/1560401.pdf
+1162 0.146 0.211 0.275: 00147-8fa19a.txt [1.3] 0.045 MB   2 pages ~/testdata/Noah_Smith_Rebuttal.pdf
+1163 0.146 0.446 0.658: 01155-a6252d.txt [1.4] 0.348 MB   1 pages ~/testdata/ANUFG_2017_Sem2_Programme.pdf
+1164 0.147 0.237 0.320: 00383-2edef9.txt [1.4] 0.110 MB   5 pages ~/testdata/lecture9.pdf
+1165 0.147 0.322 0.399: 01597-f60c94.txt [1.5] 0.572 MB  60 pages ~/testdata/17-ir.pdf
+1166 0.147 0.201 0.247: 01352-7c1d44.txt [1.4] 0.429 MB  33 pages ~/testdata/power_law_bins.pdf
+1167 0.148 0.272 0.360: 01912-8d92b1.txt [1.4] 0.858 MB   6 pages ~/testdata/PNAS-2016-Battiston-10031-6.pdf
+1168 0.148 0.179 0.226: 01900-cddf8a.txt [1.5] 0.846 MB  19 pages ~/testdata/xarc/1507.02672v1.pdf
+1169 0.148 0.243 0.343: 01237-af5728.txt [1.4] 0.378 MB   9 pages ~/testdata/xarc/384.full.pdf
+1170 0.148 0.244 0.343: 00968-3c90f1.txt [1.3] 0.275 MB   6 pages ~/testdata/2012060560369753.pdf
+1171 0.148 0.274 0.384: 01686-e32553.txt [1.5] 0.648 MB  18 pages ~/testdata/corrigan-gibbs-riposte.pdf
+1172 0.149 0.230 0.273: 01747-18c39b.txt [1.6] 0.699 MB  10 pages ~/testdata/Deep Patient.pdf
+1173 0.149 0.163 0.199: 00685-036e3d.txt [1.4] 0.188 MB   1 pages ~/testdata/a_solid.pdf
+1174 0.149 0.342 0.425: 01326-38cc8a.txt [1.7] 0.417 MB   7 pages ~/testdata/ScienceDirect_articles_03Oct2017_23-02-41.264/Hidden-Markov-model-using-Dirichlet-process-for_2015_Journal-of-Biomedical-I.pdf
+1175 0.149 0.268 0.381: 00352-a65d45.txt [1.3] 0.104 MB  11 pages ~/testdata/xarc/10.1.1.372.1347.pdf
+1176 0.150 0.300 0.410: 00567-dc9577.txt [1.5] 0.158 MB   8 pages ~/testdata/summarization/1809.02719.pdf
+1177 0.150 0.251 0.316: 00781-048ac7.txt [1.4] 0.215 MB   8 pages ~/testdata/ergodicity/10.1.1.456.4683.pdf
+1178 0.150 0.203 0.261: 01280-136818.txt [1.5] 0.400 MB  22 pages ~/testdata/xarc/376.pdf
+1179 0.150 0.182 0.212: 00521-0d9e55.txt [1.4] 0.146 MB   2 pages ~/testdata/karencv.pdf
+1180 0.150 0.207 0.233: 01824-3b59b3.txt [1.7] 0.777 MB   9 pages ~/testdata/pdf_text/82298779.pdf
+1181 0.151 0.290 0.394: 01482-28b215.txt [1.5] 0.497 MB  11 pages ~/testdata/DarwinCollege.pdf
+1182 0.151 0.347 0.482: 01779-d0e68e.txt [1.7] 0.724 MB   1 pages ~/testdata/Jamestown NY Evening Journal 1917 - 0256.pdf
+1183 0.151 0.390 0.559: 01974-02ffaa.txt [1.4] 0.946 MB   2 pages ~/testdata/pdf_text/ds-nuance-output-manager-power-of-one-en-us.pdf
+1184 0.152 0.217 0.282: 00988-7ca971.txt [1.5] 0.280 MB  25 pages ~/testdata/causal_inference/7143fe7bfb306e7c2cfba68877ef1dd97edf.pdf
+1185 0.152 0.285 0.419: 01385-684eec.txt [1.6] 0.447 MB   6 pages ~/testdata/YSOFT-SAFEQ-print-management-suites-en.pdf
+1186 0.152 0.530 0.726: 01678-d79a6c.txt [1.3] 0.640 MB   6 pages ~/testdata/blank_pages/000014.pdf
+1187 0.153 0.293 0.401: 01987-ab3b86.txt [1.4] 0.966 MB  14 pages ~/testdata/autocrypt_ccs13.pdf
+1188 0.153 0.264 0.383: 01864-815b89.txt [1.5] 0.807 MB   4 pages ~/testdata/xarc/Deep Features to Classify Skin Lesions.pdf
+1189 0.153 0.253 0.356: 01703-858209.txt [1.5] 0.661 MB  13 pages ~/testdata/gpads.pdf
+1190 0.153 0.183 0.217: 00612-9b5bc4.txt [1.3] 0.170 MB  19 pages ~/testdata/xarc/547.pdf
+1191 0.153 0.363 0.519: 01351-ad43ae.txt [1.4] 0.429 MB   2 pages ~/testdata/HowToVote2018Victoria_Final05.pdf
+1192 0.154 0.160 0.187: 01923-bf8b95.txt [1.4] 0.872 MB  34 pages ~/testdata/mueller.pdf
+1193 0.154 0.148 0.167: 00958-e93868.txt [1.4] 0.271 MB  19 pages ~/testdata/shmat_fincrypto09.pdf
+1194 0.154 0.293 0.391: 01958-fde3d6.txt [1.5] 0.934 MB   9 pages ~/testdata/xarc/Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks.pdf
+1195 0.155 0.333 0.451: 00461-9d060b.txt [1.4] 0.132 MB  11 pages ~/testdata/Learning Distributed Representations of Sentences from Unlabelled Data.pdf
+1196 0.155 0.143 0.170: 00184-afb6e2.txt [1.4] 0.056 MB   4 pages ~/testdata/supply_chain/160517___White_Paper_Mobile_Printing.pdf
+1197 0.155 0.224 0.279: 00965-9ab521.txt [1.3] 0.274 MB  12 pages ~/testdata/pdf_text/hmmtutorialpart2.pdf
+1198 0.155 0.221 0.279: 00655-6379a0.txt [1.5] 0.181 MB   5 pages ~/testdata/ergodicity/notes.pdf
+1199 0.155 0.262 0.377: 00389-0e0427.txt [1.4] 0.113 MB   5 pages ~/testdata/yao1982-ocr.pdf
+1200 0.156 0.282 0.385: 01700-87c100.txt [1.4] 0.656 MB  12 pages ~/testdata/004635142b2089f675000000.pdf
+1201 0.156 0.246 0.337: 01918-448fda.txt [1.7] 0.868 MB  19 pages ~/testdata/1-s2.0-S1057521914001070-main.pdf
+1202 0.156 0.322 0.423: 00643-58c6f8.txt [1.4] 0.177 MB  10 pages ~/testdata/Regularizing and Optimizing LSTM Language Models.pdf
+1203 0.156 0.166 0.204: 01053-6115c4.txt [1.6] 0.307 MB  22 pages ~/testdata/causal_inference/paper-778.pdf
+1204 0.156 0.415 0.561: 01791-541974.txt [1.7] 0.738 MB   1 pages ~/testdata/Jamestown NY Evening Journal 1918 - 1044.pdf
+1205 0.157 0.160 0.185: 00366-8cca7d.txt [1.3] 0.107 MB   6 pages ~/testdata/xarc/divcon1.pdf
+1206 0.157 0.287 0.397: 01745-47c4c3.txt [1.3] 0.697 MB   6 pages ~/testdata/sugihara-causality-science-2012.pdf
+1207 0.157 0.254 0.353: 00931-f4bd82.txt [1.4] 0.264 MB  10 pages ~/testdata/g-suite/10.1.1.461.5861.pdf
+1208 0.157 0.269 0.395: 00330-a55021.txt [1.5] 0.099 MB   5 pages ~/testdata/AllenNLP_white_paper.pdf
+1209 0.157 0.138 0.150: 01357-532d9a.txt [1.5] 0.432 MB  30 pages ~/testdata/public.pdf
+1210 0.158 0.412 0.443: 01776-6ec49c.txt [1.3] 0.720 MB  14 pages ~/testdata/xxx.hard/J93-1003.pdf
+1211 0.158 0.178 0.220: 01225-0bbc7b.txt [1.4] 0.373 MB  18 pages ~/testdata/Compactness.pdf
+1212 0.158 0.500 0.629: 00617-f5581f.txt [1.4] 0.170 MB   2 pages ~/testdata/VM-Movie-Calendar-1-Jun.pdf
+1213 0.158 0.277 0.401: 01662-dbfe40.txt [1.5] 0.629 MB   5 pages ~/testdata/xarc/1306.0239v1.pdf
+1214 0.159 0.252 0.357: 01928-5ca426.txt [1.5] 0.884 MB   6 pages ~/testdata/r481.pdf
+1215 0.159 0.318 0.430: 01511-fbd310.txt [1.3] 0.512 MB  11 pages ~/testdata/The_complete_mitochondrial_genome_of_the_mantid_sh.pdf
+1216 0.159 0.297 0.414: 01447-9e1bd9.txt [1.6] 0.475 MB  10 pages ~/testdata/PetitjeanEtAl14a.pdf
+1217 0.159 0.262 0.346: 00404-3c2e13.txt [1.4] 0.117 MB  24 pages ~/testdata/lec04.pdf
+1218 0.160 0.268 0.375: 01299-506315.txt [1.5] 0.406 MB  13 pages ~/testdata/De-identification of Patient Notes with Recurrent Neural Networks.pdf
+1219 0.160 0.203 0.264: 01741-e6d5ad.txt [1.3] 0.692 MB  60 pages ~/testdata/supply_chain/cs-ippeve10-20130128-5100.14.pdf
+1220 0.160 0.318 0.415: 01626-403db9.txt [1.4] 0.590 MB  14 pages ~/testdata/Evaluating the State-of-the-Art in Automatic De-identification.pdf
+1221 0.160 0.230 0.290: 01256-129a51.txt [1.6] 0.389 MB  29 pages ~/testdata/Memo-07-2010.pdf
+1222 0.161 0.205 0.277: 01854-0bfe36.txt [1.5] 0.802 MB  15 pages ~/testdata/Convolutional Radio Modulation Recognition Networks.pdf
+1223 0.161 0.273 0.355: 01232-a84af1.txt [1.4] 0.376 MB  29 pages ~/testdata/digital_signatures/DigSigv13_Client_Sig_manual.pdf
+1224 0.161 0.273 0.402: 01069-a3a8f1.txt [1.5] 0.311 MB   9 pages ~/testdata/emnlp16_sonnet.pdf
+1225 0.162 0.245 0.334: 01733-e99f19.txt [1.3] 0.688 MB   8 pages ~/testdata/sciencetopics.pdf
+1226 0.162 0.251 0.346: 00647-f84a30.txt [1.5] 0.178 MB   5 pages ~/testdata/Highway-LSTM.pdf
+1227 0.163 0.191 0.217: 01199-1986ff.txt [1.4] 0.362 MB  31 pages ~/testdata/JonesEstese-print.pdf
+1228 0.163 0.201 0.234: 01338-071b16.txt [1.5] 0.424 MB  15 pages ~/testdata/NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE.pdf
+1229 0.163 0.306 0.413: 00633-0837e5.txt [1.5] 0.175 MB  10 pages ~/testdata/icnp12-qinghua.pdf
+1230 0.163 0.227 0.265: 00460-796bb6.txt [1.4] 0.131 MB  31 pages ~/testdata/ergodicity/wp00-20.pdf
+1231 0.163 0.312 0.430: 01339-b2e7f1.txt [1.5] 0.424 MB  11 pages ~/testdata/Neural Architectures for Named Entity Recognition.pdf
+1232 0.164 0.269 0.362: 01876-747bdd.txt [1.5] 0.825 MB  14 pages ~/testdata/netspectre.pdf
+1233 0.164 0.383 0.444: 00642-ed29fa.txt [1.4] 0.177 MB   1 pages ~/testdata/2018-Toyota-AFL-Premiership-Season-Fixture-PDF.pdf
+1234 0.164 0.438 0.522: 01305-596e21.txt [1.5] 0.407 MB   9 pages ~/testdata/16336-aletter.pdf
+1235 0.165 0.271 0.373: 01679-32c1ff.txt [1.5] 0.640 MB  14 pages ~/testdata/pretzel-sigcomm17.pdf
+1236 0.165 0.341 0.468: 01902-2ee675.txt [1.7] 0.848 MB   1 pages ~/testdata/Jamestown NY Evening Journal 1916 - 1504.pdf
+1237 0.166 0.186 0.240: 00613-ea67e5.txt [1.4] 0.170 MB  19 pages ~/testdata/Ingmar_URN_NBN_SI_DOC-YQP8KUHN.pdf
+1238 0.166 0.126 0.124: 01648-f8c974.txt [1.5] 0.605 MB  10 pages ~/testdata/Using Anchors to Estimate Clinical State without Labeled Data.pdf
+1239 0.166 0.307 0.383: 00264-eba3ec.txt [1.4] 0.080 MB   5 pages ~/testdata/4e.pdf
+1240 0.167 0.182 0.220: 01691-8cee73.txt [1.5] 0.652 MB   7 pages ~/testdata/BSA Fiery Direct Print Issue.pdf
+1241 0.167 0.169 0.205: 01341-a3c238.txt [1.6] 0.425 MB  21 pages ~/testdata/Kuroda_1981.pdf
+1242 0.167 0.166 0.197: 01704-675100.txt [1.4] 0.661 MB  80 pages ~/testdata/credit-card-terms.pdf
+1243 0.168 0.199 0.257: 01742-cd1f5a.txt [1.7] 0.693 MB  10 pages ~/testdata/digital_signatures/whitepaper-pdfa.pdf
+1244 0.168 0.378 0.492: 00705-bb85cf.txt [1.4] 0.195 MB  34 pages ~/testdata/nlp-programming-en-13-search.pdf
+1245 0.168 0.314 0.442: 01470-01c99d.txt [1.4] 0.489 MB   2 pages ~/testdata/pdf_text/42121.pdf
+1246 0.170 0.351 0.478: 01048-6fd0e7.txt [1.6] 0.305 MB   9 pages ~/testdata/ergodicity/MIT15_070JF13_Lec17.pdf
+1247 0.170 0.345 0.468: 00303-192b2d.txt [1.3] 0.093 MB   2 pages ~/testdata/g-suite/action-item-detection-poster.pdf
+1248 0.170 0.322 0.432: 00142-81ad77.txt [1.6] 0.043 MB   4 pages ~/testdata/CIRCOUTCOMES.118.004889.pdf
+1249 0.170 0.302 0.412: 01014-ab1066.txt [1.3] 0.288 MB   4 pages ~/testdata/PaperCut MF HP Embedded.pdf
+1250 0.170 0.305 0.435: 00532-0d300b.txt [1.5] 0.148 MB  10 pages ~/testdata/hard/15Marco-Klindt.pdf
+1251 0.170 0.342 0.479: 00906-07a947.txt [1.5] 0.254 MB   5 pages ~/testdata/A Decomposable Attention Model for Natural Language Inference.pdf
+1252 0.170 0.187 0.231: 00789-09f3bb.txt [1.5] 0.217 MB  14 pages ~/testdata/digital_signatures/PLAW-106publ229.pdf
+1253 0.171 0.173 0.220: 00603-401d15.txt [1.5] 0.167 MB  21 pages ~/testdata/online_supplement.pdf
+1254 0.171 0.156 0.160: 01834-fb0836.txt [1.6] 0.790 MB   1 pages ~/testdata/chart_aria.pdf
+1255 0.171 0.325 0.433: 01224-9017d5.txt [1.4] 0.373 MB  14 pages ~/testdata/ergodicity/1406.5101.pdf
+1256 0.171 0.343 0.458: 00595-c1baed.txt [1.4] 0.166 MB  11 pages ~/testdata/xarc/1502.03167.pdf
+1257 0.171 0.304 0.436: 01581-0c9e2d.txt [1.5] 0.557 MB  24 pages ~/testdata/CRG Leaders or Leaderfulness Digital 6_16_16.pdf
+1258 0.172 0.293 0.412: 01321-aa28a0.txt [1.5] 0.416 MB  30 pages ~/testdata/RS14.pdf
+1259 0.172 0.272 0.367: 01580-c3e39a.txt [1.5] 0.556 MB   9 pages ~/testdata/digital_signatures/merkle.pdf
+1260 0.172 0.213 0.279: 01665-a24f88.txt [1.3] 0.630 MB  31 pages ~/testdata/inconsistency.pdf
+1261 0.172 0.136 0.131: 01073-66ece8.txt [1.5] 0.313 MB  15 pages ~/testdata/xarc/IJEIonline_Vol.1_No.1_pp.313-327_code35.pdf
+1262 0.173 0.212 0.282: 01059-c97838.txt [1.4] 0.308 MB  10 pages ~/testdata/Secure_Printing_with_User-Based_Printer_Authentication.pdf
+1263 0.173 0.281 0.372: 00273-09c054.txt [1.4] 0.083 MB   4 pages ~/testdata/lec10.pdf
+1264 0.173 0.174 0.196: 01354-4ace86.txt [1.4] 0.430 MB   7 pages ~/testdata/VerifiableDataStructures.pdf
+1265 0.173 0.292 0.385: 01670-856ffd.txt [1.3] 0.632 MB  13 pages ~/testdata/Emotionally_unskilled.pdf
+1266 0.173 0.285 0.342: 00696-a9612d.txt [1.5] 0.192 MB   6 pages ~/testdata/QuadForms4PiInSky.pdf
+1267 0.173 0.573 0.794: 00244-bf9365.txt [1.3] 0.074 MB   1 pages ~/testdata/docs.pdf
+1268 0.174 0.280 0.400: 00524-3687ac.txt [1.3] 0.147 MB  12 pages ~/testdata/tb68fine.pdf
+1269 0.174 0.295 0.392: 01008-948e71.txt [1.4] 0.285 MB  15 pages ~/testdata/JCR_Xu and Wyer 2010_Puffery in Ads.pdf
+1270 0.174 0.310 0.438: 00448-4ab3f8.txt [1.4] 0.128 MB   8 pages ~/testdata/g-suite/f8f474c9d609e90a7b1104c829faddb491c8.pdf
+1271 0.174 0.184 0.237: 01160-c93c64.txt [1.4] 0.350 MB  22 pages ~/testdata/ibm12.pdf
+1272 0.174 0.320 0.436: 01376-903492.txt [1.4] 0.441 MB  11 pages ~/testdata/Sentence Embeddings.pdf
+1273 0.175 0.173 0.187: 00143-b798c3.txt [1.4] 0.044 MB   1 pages ~/testdata/digital_signatures/pdf_digital_signature_timestamp.pdf
+1274 0.175 0.253 0.341: 01147-30ac90.txt [1.5] 0.344 MB  20 pages ~/testdata/Summarization with Pointer-Generator Networks.pdf
+1275 0.175 0.317 0.440: 02004-e0af77.txt [1.6] 0.992 MB  10 pages ~/testdata/Conservative and Liberal Views of Science Does Trust Depend on T.pdf
+1276 0.176 0.282 0.390: 00984-9abbd4.txt [1.4] 0.279 MB   9 pages ~/testdata/paragraph_vector.pdf
+1277 0.176 0.277 0.381: 01608-069e43.txt [1.5] 0.579 MB  10 pages ~/testdata/g-suite/45908.pdf
+1278 0.176 0.304 0.415: 01344-4cb336.txt [1.5] 0.426 MB  14 pages ~/testdata/spanner-osdi2012.pdf
+1279 0.176 0.297 0.380: 00534-b526c3.txt [1.4] 0.148 MB  16 pages ~/testdata/ergodicity/1507.00294.pdf
+1280 0.177 0.224 0.277: 00822-2aefd6.txt [1.3] 0.226 MB  19 pages ~/testdata/xarc/Collusion Resistant Broadcast Encryption With Short Ciphertexts and Private Keys.pdf
+1281 0.177 0.328 0.446: 01360-7c9f8c.txt [1.5] 0.433 MB   8 pages ~/testdata/xarc/348_icmlpaper.pdf
+1282 0.177 0.342 0.455: 01066-2356a2.txt [1.3] 0.310 MB  11 pages ~/testdata/ergodicity/Einstein_1905.pdf
+1283 0.177 0.267 0.390: 00511-b69217.txt [1.4] 0.145 MB   2 pages ~/testdata/sigs.50595_R.pdf
+1284 0.177 0.364 0.518: 01852-024f26.txt [1.5] 0.800 MB   2 pages ~/testdata/CVT-Profile-9-26-16.pdf
+1285 0.177 0.191 0.235: 01927-56114c.txt [1.5] 0.881 MB  47 pages ~/testdata/g-suite/241_0.pdf
+1286 0.178 0.232 0.273: 01404-f4d308.txt [1.3] 0.457 MB  40 pages ~/testdata/CS255LectureNotes.pdf
+1287 0.178 0.302 0.435: 01110-6bc3ef.txt [1.5] 0.325 MB  12 pages ~/testdata/An Ensemble Method to Produce High-Quality Word Embeddings.pdf
+1288 0.178 0.252 0.364: 01774-aefdab.txt [1.4] 0.718 MB   8 pages ~/testdata/g-suite/SS07-04-006.pdf
+1289 0.179 0.296 0.411: 00385-7cc382.txt [1.4] 0.112 MB   9 pages ~/testdata/rare_word.pdf
+1290 0.179 0.330 0.411: 00706-432c86.txt [1.3] 0.196 MB  11 pages ~/testdata/ergodicity/yield.pdf
+1291 0.179 0.559 0.748: 01283-4a82e6.txt [1.6] 0.401 MB   1 pages ~/testdata/FranzMap2016_WEB.pdf
+1292 0.180 0.364 0.489: 00745-966477.txt [1.3] 0.207 MB  10 pages ~/testdata/CaiHof-CIKM2004.pdf
+1293 0.180 0.202 0.247: 00872-c2404e.txt [1.4] 0.243 MB  18 pages ~/testdata/TCC09-dijk.pdf
+1294 0.181 0.309 0.415: 01076-00f0d0.txt [1.5] 0.315 MB  18 pages ~/testdata/Ondernemingsraad/ANINTRODUCTIONTOGAMETHEORYANDBUSINESSSTRATEGY.pdf
+1295 0.181 0.293 0.399: 01940-a15439.txt [1.5] 0.898 MB   9 pages ~/testdata/xarc/1704.04861.pdf
+1296 0.181 0.298 0.409: 00577-210318.txt [1.5] 0.161 MB   7 pages ~/testdata/twitter_sentimenti.pdf
+1297 0.181 0.210 0.252: 00851-92f475.txt [1.4] 0.236 MB  18 pages ~/testdata/ibethresh.pdf
+1298 0.182 0.263 0.342: 01130-09e79b.txt [1.5] 0.335 MB   8 pages ~/testdata/pca_text.pdf
+1299 0.182 0.286 0.391: 01831-d31657.txt [1.5] 0.787 MB  25 pages ~/testdata/nsdi17-corrigan-gibbs.pdf
+1300 0.182 0.322 0.433: 01660-e797f8.txt [1.4] 0.624 MB   5 pages ~/testdata/pdf_text/ICPR12-TextRecognitionConvNeuralNets.pdf
+1301 0.182 0.409 0.548: 01531-f10457.txt [1.5] 0.527 MB   2 pages ~/testdata/PaperCut MF - MFD Integration Matrix.pdf
+1302 0.182 0.317 0.457: 01922-2397ce.txt [1.5] 0.872 MB   7 pages ~/testdata/On the State of the Art of Evaluation in Neural Language Models.pdf
+1303 0.183 0.321 0.434: 01656-f1b119.txt [1.3] 0.616 MB   7 pages ~/testdata/adobe/8207.pdf
+1304 0.183 0.338 0.456: 01267-3e2752.txt [1.5] 0.398 MB  10 pages ~/testdata/Natural Language Processing with Small Feed-Forward Networks.pdf
+1305 0.183 0.275 0.380: 01761-3b3ed5.txt [1.5] 0.708 MB  16 pages ~/testdata/enriching-guides-actionable1.pdf
+1306 0.183 0.354 0.470: 00810-dc4fa9.txt [1.3] 0.223 MB   8 pages ~/testdata/g-suite/action-item-detection-ws.pdf
+1307 0.183 0.280 0.400: 01019-8aa8b9.txt [1.5] 0.290 MB   6 pages ~/testdata/Sequential Short-Text Classification with Recurrent and Convolutional Neural Networks.pdf
+1308 0.184 0.320 0.442: 01097-7808ba.txt [1.5] 0.321 MB  12 pages ~/testdata/li2018transfer.pdf
+1309 0.184 0.182 0.225: 01023-c12182.txt [1.5] 0.294 MB  15 pages ~/testdata/PDF Inference (Public) 2018-06-30.pdf
+1310 0.184 0.184 0.183: 00019-70f27a.txt [1.3] 0.003 MB   1 pages ~/testdata/2_standard14fonts.pdf
+1311 0.184 0.290 0.394: 01981-efbd38.txt [1.5] 0.955 MB  13 pages ~/testdata/Pointer Sentinel Mixture Models.pdf
+1312 0.184 0.225 0.272: 01307-8688a0.txt [1.4] 0.409 MB  33 pages ~/testdata/obfCloud.pdf
+1313 0.184 0.363 0.468: 01230-ade9b2.txt [1.5] 0.374 MB  10 pages ~/testdata/15HLT-retrofitting-word-vectors.pdf
+1314 0.185 0.346 0.451: 01302-1be8ca.txt [1.7] 0.407 MB  11 pages ~/testdata/p385-de_vries.pdf
+1315 0.185 0.318 0.433: 01696-3624ea.txt [1.4] 0.655 MB  16 pages ~/testdata/zerocash-oakland2014.pdf
+1316 0.185 0.329 0.442: 01504-0a521a.txt [1.5] 0.511 MB  14 pages ~/testdata/new_products/Hammer_Contenders_2017.pdf
+1317 0.185 0.249 0.318: 01723-ea676c.txt [1.6] 0.677 MB  37 pages ~/testdata/wp242012.pdf
+1318 0.185 0.248 0.334: 01847-d0eecb.txt [1.4] 0.799 MB  13 pages ~/testdata/crypto/slitheen-ccs16.pdf
+1319 0.186 0.323 0.442: 01067-e05449.txt [1.5] 0.311 MB  10 pages ~/testdata/Hierarchical Attention Networks for Document Classification.pdf
+1320 0.188 0.360 0.471: 00418-c02ea3.txt [1.5] 0.120 MB   2 pages ~/testdata/math-questions.pdf
+1321 0.188 0.316 0.421: 01963-5a5ab0.txt [1.5] 0.938 MB  10 pages ~/testdata/code_data/1807.09160.pdf
+1322 0.188 0.317 0.437: 00902-932b16.txt [1.5] 0.253 MB  12 pages ~/testdata/age_text.pdf
+1323 0.188 0.276 0.351: 00844-4088da.txt [1.5] 0.235 MB  11 pages ~/testdata/ergodicity/entropy_11.pdf
+1324 0.188 0.312 0.434: 01116-598d71.txt [1.5] 0.329 MB   5 pages ~/testdata/g-suite/demo_camera-ready.pdf
+1325 0.189 0.287 0.383: 01093-9d04bf.txt [1.4] 0.320 MB  17 pages ~/testdata/xarc/1472-6947-8-32.pdf
+1326 0.189 0.148 0.158: 01732-19d78d.txt [1.5] 0.685 MB  76 pages ~/testdata/nnlp.pdf
+1327 0.189 0.323 0.433: 01821-5e2cab.txt [1.5] 0.774 MB  10 pages ~/testdata/xarc/1702.06270.pdf
+1328 0.189 0.271 0.338: 00678-c9d211.txt [1.4] 0.186 MB  12 pages ~/testdata/Random projections for the nonnegative least-squares problem.pdf
+1329 0.189 0.324 0.416: 01789-5df2ed.txt [1.5] 0.737 MB   5 pages ~/testdata/g-suite/LREC16_AIMU.pdf
+1330 0.190 0.308 0.406: 01323-a52756.txt [1.5] 0.416 MB   6 pages ~/testdata/diacritics/1804.00832.pdf
+1331 0.190 0.233 0.282: 01766-f19285.txt [1.5] 0.711 MB  58 pages ~/testdata/Meissen_MQP2.pdf
+1332 0.191 0.199 0.232: 01702-9b1a77.txt [1.4] 0.659 MB  90 pages ~/testdata/conditonal_random_fields.pdf
+1333 0.191 0.373 0.497: 00949-c600b8.txt [1.5] 0.270 MB  10 pages ~/testdata/Gini_paper_andrea_version_2(NNT).pdf
+1334 0.192 0.329 0.436: 01650-cd283c.txt [1.5] 0.608 MB  20 pages ~/testdata/3c1ecc7f164cae31f4419a9968cdfd0b0937.pdf
+1335 0.192 0.226 0.275: 01874-2327ad.txt [1.5] 0.819 MB  56 pages ~/testdata/zerocash-extended-20140518.pdf
+1336 0.192 0.314 0.438: 00544-0e4e94.txt [1.4] 0.150 MB   9 pages ~/testdata/g-suite/naaclhlt2010-final.pdf
+1337 0.192 0.403 0.523: 01034-7d91aa.txt [1.5] 0.297 MB   1 pages ~/testdata/extreme-days-and-nights-daylight-variation-in-the-arctic-reykjavik-murmansk-and-alert_e634.pdf
+1338 0.193 0.341 0.452: 01772-69a28c.txt [1.3] 0.715 MB   7 pages ~/testdata/p253-porter.pdf
+1339 0.193 0.335 0.455: 01956-9cecbd.txt [1.3] 0.924 MB  21 pages ~/testdata/spool/000032.pdf
+1340 0.193 0.238 0.296: 01890-596d8a.txt [1.3] 0.838 MB  29 pages ~/testdata/The Edited Truth.pdf
+1341 0.194 0.313 0.392: 01325-692f6f.txt [1.3] 0.417 MB  10 pages ~/testdata/blank_pages/000012.pdf
+1342 0.194 0.289 0.392: 01687-b9065b.txt [1.3] 0.649 MB   5 pages ~/testdata/pdf_text/00619830.pdf
+1343 0.195 0.227 0.305: 01955-00cf8d.txt [1.4] 0.922 MB   2 pages ~/testdata/esigning-faq-flyer.pdf
+1344 0.195 0.295 0.404: 00329-9464d1.txt [1.3] 0.098 MB   8 pages ~/testdata/xarc/10.1.1.57.3196.pdf
+1345 0.195 0.146 0.155: 00871-7e5e86.txt [1.6] 0.243 MB  83 pages ~/testdata/digital_signatures/ml-elecsig-e.pdf
+1346 0.196 0.326 0.455: 00515-4dae8c.txt [1.4] 0.145 MB  10 pages ~/testdata/kaojurafsky12.pdf
+1347 0.196 0.278 0.363: 01884-a222d2.txt [1.6] 0.831 MB   8 pages ~/testdata/srep40678.pdf
+1348 0.196 0.290 0.384: 00438-2af0c1.txt [1.4] 0.125 MB   7 pages ~/testdata/ergodicity/Casarotto.pdf
+1349 0.196 0.308 0.416: 01512-aa7bfd.txt [1.3] 0.513 MB   9 pages ~/testdata/sutskever13.pdf
+1350 0.197 0.330 0.454: 01260-312b12.txt [1.3] 0.392 MB   7 pages ~/testdata/W18-5511.pdf
+1351 0.197 0.308 0.412: 01240-d44903.txt [1.5] 0.380 MB  22 pages ~/testdata/xarc/art_3216.pdf
+1352 0.197 0.282 0.365: 01493-a0cf5c.txt [1.4] 0.503 MB  20 pages ~/testdata/HyperLogLog.pdf
+1353 0.197 0.192 0.228: 01715-7c7067.txt [1.5] 0.671 MB  90 pages ~/testdata/lattice-survey.pdf
+1354 0.197 0.376 0.491: 01525-a02655.txt [1.3] 0.522 MB  42 pages ~/testdata/constrained_decoding.pdf
+1355 0.197 0.324 0.449: 01465-77368a.txt [1.5] 0.486 MB   7 pages ~/testdata/Kent_Blake.pdf
+1356 0.198 0.300 0.403: 00922-338fbc.txt [1.5] 0.260 MB  16 pages ~/testdata/lazar-alpenhorn-2016-10-05.pdf
+1357 0.198 0.235 0.309: 01765-a67a51.txt [1.4] 0.710 MB  12 pages ~/testdata/GDPR_compliant_network_printing.pdf
+1358 0.199 0.341 0.398: 01594-09f25c.txt [1.3] 0.571 MB  19 pages ~/testdata/shell_model.pdf
+1359 0.199 0.248 0.309: 01195-8752e3.txt [1.4] 0.361 MB  35 pages ~/testdata/096.pdf
+1360 0.199 0.298 0.409: 01392-7b0bb4.txt [1.5] 0.450 MB  32 pages ~/testdata/gavin-wood-yellow-paper.pdf
+1361 0.200 0.387 0.522: 01211-1110b2.txt [1.5] 0.365 MB  18 pages ~/testdata/CoNLL.pdf
+1362 0.200 0.333 0.450: 00793-6aa371.txt [1.5] 0.218 MB  14 pages ~/testdata/glue.pdf
+1363 0.200 0.295 0.389: 01677-1a27ea.txt [1.6] 0.639 MB  22 pages ~/testdata/g-suite/HPL-2013-4.pdf
+1364 0.200 0.299 0.406: 01897-ac35eb.txt [1.5] 0.844 MB  19 pages ~/testdata/whitepaper2015.pdf
+1365 0.200 0.302 0.416: 01522-1af149.txt [1.5] 0.522 MB  14 pages ~/testdata/k-pg.pdf
+1366 0.202 0.434 0.616: 01840-75a0a3.txt [1.4] 0.794 MB   4 pages ~/testdata/ds-nuance-output-manager-and-mckesson-en-us.pdf
+1367 0.202 0.369 0.507: 01917-048d1d.txt [1.7] 0.868 MB   1 pages ~/testdata/Jamestown NY Evening Journal 1916 - 3006.pdf
+1368 0.202 0.315 0.430: 00574-6d2326.txt [1.5] 0.160 MB   6 pages ~/testdata/69_ICPRAM2018_FuzzyGT.pdf
+1369 0.202 0.418 0.596: 01812-3e01e2.txt [1.6] 0.754 MB  17 pages ~/testdata/Special_CharacterShortcuts_v.1.2.pdf
+1370 0.203 0.324 0.457: 01213-e4f724.txt [1.5] 0.368 MB   7 pages ~/testdata/Learning Language Representations for Typology Prediction.pdf
+1371 0.203 0.170 0.207: 01368-76a098.txt [1.4] 0.436 MB  31 pages ~/testdata/clab2015E.pdf
+1372 0.203 0.329 0.420: 01953-b88b7b.txt [1.4] 0.915 MB  31 pages ~/testdata/xarc/1101.1444.pdf
+1373 0.203 0.434 0.618: 01838-4fa465.txt [1.4] 0.794 MB   4 pages ~/testdata/ds-nuance-output-manager-and-cerner-en-us.pdf
+1374 0.203 0.325 0.424: 01604-704a91.txt [1.5] 0.576 MB  14 pages ~/testdata/42852.pdf
+1375 0.203 0.308 0.409: 00878-d96fe4.txt [1.4] 0.245 MB  40 pages ~/testdata/Little_niss_oct1014.pdf
+1376 0.203 0.281 0.315: 00242-326f1e.txt [1.4] 0.074 MB  26 pages ~/testdata/rsa02v28n186l.pdf
+1377 0.204 0.302 0.403: 01448-fd92a8.txt [1.5] 0.477 MB  17 pages ~/testdata/osdi16-lazar.pdf
+1378 0.204 0.240 0.287: 01293-e0bbca.txt [1.4] 0.404 MB  14 pages ~/testdata/009.pdf
+1379 0.204 0.315 0.416: 01271-9e7537.txt [1.3] 0.398 MB  21 pages ~/testdata/23-parallel-scan.pdf
+1380 0.204 0.340 0.440: 01780-3fc1e2.txt [1.5] 0.726 MB   7 pages ~/testdata/Context encoders as a simple but powerful extension of word2vec.pdf
+1381 0.204 0.352 0.477: 00990-251ae2.txt [1.5] 0.281 MB  18 pages ~/testdata/udst2017intro.pdf
+1382 0.205 0.331 0.443: 00735-dc27c4.txt [1.5] 0.204 MB   2 pages ~/testdata/import_sf_carry.pdf
+1383 0.205 0.193 0.213: 01726-3f299f.txt [1.6] 0.678 MB  41 pages ~/testdata/ergodicity/Gibbons Ramaswamy paper.pdf
+1384 0.205 0.321 0.421: 01898-22239a.txt [1.5] 0.845 MB  10 pages ~/testdata/code_data/1452696.pdf
+1385 0.206 0.341 0.457: 01131-41aadf.txt [1.5] 0.335 MB   9 pages ~/testdata/Long-Short Range Context Neural Networks for Language Modeling.pdf
+1386 0.206 0.239 0.295: 01721-9e7b03.txt [1.3] 0.675 MB  30 pages ~/testdata/Convex multi-task feature learning.pdf
+1387 0.207 0.277 0.346: 00467-f6b645.txt [1.3] 0.134 MB   2 pages ~/testdata/Keith.Ray.Resume.2016.pdf
+1388 0.207 0.402 0.530: 00883-b9b56a.txt [1.4] 0.247 MB   8 pages ~/testdata/correctness/hlthaff.2011.0084.pdf
+1389 0.207 0.333 0.437: 01738-798d98.txt [1.4] 0.691 MB   6 pages ~/testdata/pseudo_label_final.pdf
+1390 0.207 0.311 0.424: 01836-f60e88.txt [1.3] 0.793 MB  17 pages ~/testdata/causal_inference/r400-reprint.pdf
+1391 0.208 0.307 0.395: 00852-a5c712.txt [1.5] 0.237 MB  13 pages ~/testdata/BEL18_identity.pdf
+1392 0.208 0.439 0.622: 01839-79990d.txt [1.4] 0.794 MB   4 pages ~/testdata/pdf_text/ds-nuance-output-manager-and-meditech-en-us.pdf
+1393 0.208 0.240 0.281: 01932-9114b3.txt [1.6] 0.888 MB  86 pages ~/testdata/causal_inference/hernanrobins_v2.17.18.pdf
+1394 0.209 0.306 0.411: 01561-f2efc9.txt [1.5] 0.542 MB   8 pages ~/testdata/xarc/1611.01046v1.pdf
+1395 0.209 0.334 0.429: 00635-501cdc.txt [1.4] 0.175 MB  19 pages ~/testdata/ergodicity/lecture05.pdf
+1396 0.211 0.255 0.299: 00867-c754db.txt [1.4] 0.242 MB  14 pages ~/testdata/xarc/0912.0779v1.pdf
+1397 0.211 0.311 0.388: 00605-0724bd.txt [1.6] 0.168 MB  18 pages ~/testdata/ergodicity/zinsmodelle3.pdf
+1398 0.211 0.202 0.236: 00576-39a89a.txt [1.5] 0.161 MB  11 pages ~/testdata/Automatic Evaluation of Chat-oriented Dialogue Systems using Large-scale Multi-references.pdf
+1399 0.212 0.242 0.279: 01430-dfb7d3.txt [1.6] 0.467 MB  22 pages ~/testdata/cesifo_wp4280.pdf
+1400 0.212 0.338 0.456: 00363-b44ccb.txt [1.4] 0.107 MB  10 pages ~/testdata/xarc/poon09.pdf
+1401 0.213 0.335 0.449: 01487-e24cdf.txt [1.5] 0.499 MB  14 pages ~/testdata/Neural Message Passing for Quantum Chemistry.pdf
+1402 0.213 0.321 0.433: 01825-ed38f3.txt [1.5] 0.779 MB  11 pages ~/testdata/ergodicity/1405.0585.pdf
+1403 0.213 0.365 0.464: 01170-ef631d.txt [1.5] 0.352 MB  10 pages ~/testdata/Learning Generic Sentence Representations Using Convolutional Neural Networks.pdf
+1404 0.214 0.323 0.444: 01805-0b4645.txt [1.3] 0.751 MB   8 pages ~/testdata/73.pdf
+1405 0.214 0.329 0.457: 01577-20d8ea.txt [1.3] 0.554 MB   6 pages ~/testdata/efficient.pdf
+1406 0.214 0.338 0.467: 01887-1d6aae.txt [1.3] 0.836 MB   9 pages ~/testdata/ppArXiv2.pdf
+1407 0.215 0.319 0.436: 00779-95fc80.txt [1.5] 0.215 MB  12 pages ~/testdata/eacl17amr.pdf
+1408 0.217 0.231 0.279: 01862-14e569.txt [1.4] 0.804 MB  89 pages ~/testdata/xarc/1512.03547v2.pdf
+1409 0.217 0.227 0.254: 01407-4ce12c.txt [1.5] 0.458 MB  25 pages ~/testdata/hierarchical_anova_priors.pdf
+1410 0.217 0.289 0.380: 01629-cf5cf7.txt [1.5] 0.591 MB  15 pages ~/testdata/xarc/1412.6980.pdf
+1411 0.218 0.741 0.847: 01554-3d6243.txt [1.5] 0.537 MB  12 pages ~/testdata/Mandarin_Chinese_Common_Entrance_Level_1_and_2_word_and_character_list.pdf
+1412 0.219 0.336 0.445: 01618-6871b9.txt [1.3] 0.584 MB  10 pages ~/testdata/gentry-homomorphic-encryption.pdf
+1413 0.219 0.392 0.519: 01084-dd4c3d.txt [1.5] 0.318 MB   8 pages ~/testdata/xarc/1306.1840v1.pdf
+1414 0.219 0.363 0.520: 01047-38cd32.txt [1.4] 0.304 MB   3 pages ~/testdata/pt.3.4022.pdf
+1415 0.219 0.230 0.254: 01179-506c35.txt [1.6] 0.357 MB  14 pages ~/testdata/digital_signatures/Acrobat_DigitalSignatures_in_PDF.pdf
+1416 0.220 0.302 0.398: 01853-a0e368.txt [1.5] 0.801 MB  17 pages ~/testdata/osdi16-papadimitriou.pdf
+1417 0.220 0.331 0.453: 01227-f96f86.txt [1.4] 0.374 MB  11 pages ~/testdata/diacritics/Acta_2010_3_4_str_5_15.pdf
+1418 0.220 0.256 0.298: 01714-25f098.txt [1.6] 0.671 MB  13 pages ~/testdata/dr_jekyll_mr_hyde.pdf
+1419 0.222 0.356 0.448: 01431-811ff2.txt [1.3] 0.467 MB  32 pages ~/testdata/PRP-PRF.pdf
+1420 0.223 0.332 0.438: 01647-27f3c2.txt [1.4] 0.604 MB   8 pages ~/testdata/Noise-contrastive estimation.pdf
+1421 0.223 0.344 0.473: 01532-bb8909.txt [1.4] 0.527 MB   8 pages ~/testdata/175.full.pdf
+1422 0.224 0.406 0.546: 01040-9e591a.txt [1.5] 0.301 MB  23 pages ~/testdata/Adrjan_LS_RES2018_Slides.pdf
+1423 0.224 0.319 0.422: 01875-21cd6c.txt [1.6] 0.824 MB  15 pages ~/testdata/xxx.hard/blockstack.pdf
+1424 0.224 0.191 0.214: 01038-631177.txt [1.4] 0.300 MB  46 pages ~/testdata/plac.pdf
+1425 0.225 0.350 0.468: 01558-7eb8fa.txt [1.4] 0.541 MB   9 pages ~/testdata/joi160132.pdf
+1426 0.225 0.362 0.479: 00856-e3c818.txt [1.4] 0.238 MB   9 pages ~/testdata/stoc194-smith.pdf
+1427 0.227 0.341 0.434: 01688-3b0955.txt [1.5] 0.650 MB  24 pages ~/testdata/xarc/1703.09185.pdf
+1428 0.227 0.358 0.468: 01027-330f80.txt [1.3] 0.295 MB  12 pages ~/testdata/ergodicity/fea-applebaum.pdf
+1429 0.227 0.230 0.275: 01320-444f05.txt [1.5] 0.414 MB  27 pages ~/testdata/Homomorphic-no-bootstrap.pdf
+1430 0.228 0.351 0.465: 01108-f1ee2c.txt [1.5] 0.324 MB  10 pages ~/testdata/A Nested Attention Neural Hybrid Model for Grammatical Error Correction.pdf
+1431 0.228 0.306 0.372: 01622-2e797d.txt [1.3] 0.588 MB  82 pages ~/testdata/ergodicity/Christa Cuchiero diploma thesis.pdf
+1432 0.228 0.398 0.494: 01377-ce5199.txt [1.5] 0.442 MB  15 pages ~/testdata/A Joint Many-Task Model- Growing a Neural Network for Multiple NLP Task.pdf
+1433 0.228 0.399 0.561: 00698-9a4813.txt [1.6] 0.193 MB   8 pages ~/testdata/AERO_Q207_article3.pdf
+1434 0.229 0.248 0.289: 01734-5c0877.txt [1.3] 0.689 MB  14 pages ~/testdata/Paroli_Redaelli_Spezia.pdf
+1435 0.229 0.360 0.477: 00575-728a20.txt [1.5] 0.160 MB  11 pages ~/testdata/A Fast Unified Model for Parsing and Sentence Understanding.pdf
+1436 0.232 0.347 0.471: 01586-0fc208.txt [1.6] 0.561 MB   7 pages ~/testdata/NAHV1N1201321_27EN.pdf
+1437 0.234 0.311 0.369: 01939-316759.txt [1.4] 0.898 MB  38 pages ~/testdata/pdf_text/vbb10.pdf
+1438 0.234 0.358 0.482: 01235-ad1eff.txt [1.5] 0.378 MB  11 pages ~/testdata/ff3351005377499835e1e29b901b1a75467f.pdf
+1439 0.235 0.348 0.456: 00777-5bad3d.txt [1.6] 0.214 MB   5 pages ~/testdata/e_055_01_0069.pdf
+1440 0.237 0.309 0.390: 01621-a3bb26.txt [1.4] 0.586 MB  13 pages ~/testdata/Friedrich_Engels.pdf
+1441 0.237 0.358 0.469: 01207-317deb.txt [1.5] 0.365 MB  11 pages ~/testdata/xarc/Deep Learning for Efficient Discriminative Parsing.pdf
+1442 0.237 0.343 0.454: 01967-7ef791.txt [1.5] 0.939 MB   2 pages ~/testdata/UKFD17_Secondary_schools_competition.ama.pdf
+1443 0.240 0.376 0.494: 01590-f02f30.txt [1.5] 0.565 MB  11 pages ~/testdata/emnlp2014.pdf
+1444 0.240 0.405 0.506: 00440-79af8f.txt [1.4] 0.126 MB   7 pages ~/testdata/l1_logistic_reg_aaai.pdf
+1445 0.241 0.353 0.460: 01192-d528fd.txt [1.6] 0.361 MB   4 pages ~/testdata/50810565.pdf
+1446 0.241 0.535 0.666: 01024-ea7e27.txt [1.4] 0.294 MB   5 pages ~/testdata/Mantra-Tullamarine-Woodlands-Restaurant-Menu.pdf
+1447 0.242 0.380 0.491: 00073-d2cb30.txt [1.4] 0.022 MB  20 pages ~/testdata/twitter_advertiser_list.pdf
+1448 0.242 0.378 0.461: 01731-5dcfef.txt [1.4] 0.683 MB  51 pages ~/testdata/Slides_8_Black_Scholes_Model.pdf
+1449 0.242 0.422 0.569: 01833-28033e.txt [1.7] 0.789 MB   1 pages ~/testdata/Jamestown NY Evening Journal 1917 - 0158.pdf
+1450 0.244 0.270 0.331: 00704-80d0c0.txt [1.3] 0.195 MB  32 pages ~/testdata/NPDF-32.pdf
+1451 0.244 0.306 0.374: 01051-cbc3c2.txt [1.4] 0.306 MB  23 pages ~/testdata/ergodicity/0509080.pdf
+1452 0.244 0.260 0.267: 00817-627a2d.txt [1.3] 0.225 MB  36 pages ~/testdata/Ondernemingsraad/VulnerableDarkTriad.pdf
+1453 0.245 0.384 0.496: 00671-d71c03.txt [1.4] 0.184 MB  10 pages ~/testdata/xarc/1603.06186v2.pdf
+1454 0.247 0.350 0.435: 00219-b9a151.txt [1.6] 0.068 MB   1 pages ~/testdata/forms/Reading_Log.pdf
+1455 0.247 0.386 0.489: 00660-491c94.txt [1.4] 0.181 MB  20 pages ~/testdata/1706.09643.pdf
+1456 0.249 0.323 0.397: 01895-882fb9.txt [1.5] 0.843 MB  47 pages ~/testdata/protocol.pdf
+1457 0.249 0.351 0.444: 01105-9e17d6.txt [1.4] 0.324 MB  30 pages ~/testdata/offsets.pdf
+1458 0.250 0.485 0.645: 00701-40507e.txt [1.3] 0.194 MB   2 pages ~/testdata/blank_pages/000011.pdf
+1459 0.250 0.434 0.525: 01443-bedbbb.txt [1.4] 0.472 MB  25 pages ~/testdata/ergodicity/evt_cops2.pdf
+1460 0.251 0.331 0.425: 00312-d8894b.txt [1.4] 0.096 MB   1 pages ~/testdata/Cut-the-Knot.pdf
+1461 0.251 0.352 0.446: 01592-7d21fb.txt [1.4] 0.567 MB  17 pages ~/testdata/ergodicity/1103.4003.pdf
+1462 0.251 0.338 0.451: 01668-3e71b1.txt [1.5] 0.632 MB  11 pages ~/testdata/xarc/Japan-EAG2014-Country-Note.pdf
+1463 0.253 0.271 0.323: 01432-97d284.txt [1.5] 0.468 MB  69 pages ~/testdata/ergodicity/Probability.pdf
+1464 0.253 0.336 0.432: 01827-8b9b7e.txt [1.5] 0.785 MB  26 pages ~/testdata/threshold_sigs.pdf
+1465 0.253 0.485 0.650: 01719-d3e017.txt [1.6] 0.674 MB  11 pages ~/testdata/privacy-fact-sheet-17-australian-privacy-principles_2.pdf
+1466 0.254 0.722 0.820: 00209-427a9b.txt [1.5] 0.065 MB   1 pages ~/testdata/honoris1934a1948.pdf
+1467 0.254 0.430 0.522: 01337-b13e4e.txt [1.3] 0.424 MB  44 pages ~/testdata/cs.pdf
+1468 0.254 0.348 0.441: 00689-a8ee98.txt [1.5] 0.190 MB  12 pages ~/testdata/DPGMM_tutorial.pdf
+1469 0.256 0.468 0.622: 01215-42a944.txt [1.7] 0.368 MB   1 pages ~/testdata/SILVER CREEK NY NEWS 1917 - 0002.pdf
+1470 0.256 0.402 0.515: 01787-94462c.txt [1.7] 0.731 MB  87 pages ~/testdata/The Truth About Lie Symmetries_ Solving Differential Equations Wi.pdf
+1471 0.259 0.410 0.572: 01015-82aeae.txt [1.4] 0.288 MB   4 pages ~/testdata/mgb_II-2010.pdf
+1472 0.260 0.308 0.350: 00792-8cb75c.txt [1.4] 0.218 MB  29 pages ~/testdata/Implementing Gentry’s Fully-Homomorphic Encryption Scheme.pdf
+1473 0.262 0.358 0.477: 01770-96a803.txt [1.3] 0.714 MB  22 pages ~/testdata/three-trillion-dollars.pdf
+1474 0.263 0.464 0.577: 01145-300fea.txt [1.6] 0.343 MB   2 pages ~/testdata/address-change.pdf
+1475 0.267 0.325 0.377: 01885-b60461.txt [1.4] 0.833 MB  36 pages ~/testdata/cvxopt_1306.0057v1.pdf
+1476 0.270 0.419 0.524: 00708-65dd9d.txt [1.4] 0.196 MB  14 pages ~/testdata/ergodicity/1708.02712.pdf
+1477 0.273 0.389 0.524: 01552-014494.txt [1.4] 0.536 MB  37 pages ~/testdata/nips2010.pdf
+1478 0.273 0.383 0.493: 01402-816f57.txt [1.4] 0.457 MB   2 pages ~/testdata/solution-overview-rightfax-and-emr-and-ehrs.pdf
+1479 0.274 0.406 0.540: 00602-3892e8.txt [1.4] 0.167 MB   3 pages ~/testdata/digital_signatures/Legal.pdf
+1480 0.275 0.360 0.456: 01364-d92f89.txt [1.5] 0.434 MB  12 pages ~/testdata/hancock2018babble.pdf
+1481 0.276 0.559 0.653: 00876-181906.txt [1.4] 0.244 MB   1 pages ~/testdata/forecast.pdf
+1482 0.276 0.310 0.409: 00986-9014ec.txt [1.4] 0.280 MB   6 pages ~/testdata/diacritics/thanh.pdf
+1483 0.280 0.445 0.561: 00690-bc4cc9.txt [1.4] 0.190 MB   8 pages ~/testdata/xarc/1206.6382.pdf
+1484 0.280 0.359 0.462: 00294-c21cb9.txt [1.4] 0.090 MB   7 pages ~/testdata/dismissing_attempts_to_discredit_einstein_discoverer_special_relativity.pdf
+1485 0.282 0.324 0.400: 01570-a2be1c.txt [1.3] 0.550 MB  19 pages ~/testdata/spool/000046.pdf
+1486 0.283 0.460 0.575: 00289-1fe2cd.txt [1.4] 0.089 MB   4 pages ~/testdata/lecture16.pdf
+1487 0.284 0.468 0.582: 00654-dd6726.txt [1.3] 0.180 MB  14 pages ~/testdata/KEI_UT_Raessler.pdf
+1488 0.285 0.565 0.692: 01630-5e4783.txt [1.5] 0.592 MB   6 pages ~/testdata/PortMacq270513Pg20-25.pdf
+1489 0.286 0.305 0.343: 01119-dbe7c9.txt [1.4] 0.329 MB  38 pages ~/testdata/TR2005-05.pdf
+1490 0.293 0.335 0.414: 01140-6517a3.txt [1.7] 0.340 MB   5 pages ~/testdata/vector representations for hierarchical.pdf
+1491 0.293 0.410 0.503: 00403-559b66.txt [1.4] 0.117 MB  16 pages ~/testdata/docpro07aut.pdf
+1492 0.294 0.408 0.514: 00895-78b799.txt [1.5] 0.252 MB  18 pages ~/testdata/ch01.pdf
+1493 0.295 0.399 0.504: 00908-6279c6.txt [1.5] 0.255 MB  21 pages ~/testdata/ergodicity/GrasselliHurd05.pdf
+1494 0.297 0.378 0.494: 00834-22eff4.txt [1.5] 0.231 MB  10 pages ~/testdata/linguistic-regularities-in-sparse-and-explicit-word-representations-conll-2014.pdf
+1495 0.300 0.466 0.568: 01931-534605.txt [1.3] 0.888 MB  54 pages ~/testdata/04-using-block-v2-annotated.pdf
+1496 0.301 0.272 0.319: 00799-885656.txt [1.4] 0.220 MB   4 pages ~/testdata/1455_Q_CervScreeningMmtGuide_Oct17.pdf
+1497 0.303 0.417 0.499: 00886-c4ecb4.txt [1.4] 0.248 MB  51 pages ~/testdata/ergodicity/CoxIngersollRossEconomy.pdf
+1498 0.304 0.417 0.525: 01537-eb35fb.txt [1.5] 0.529 MB   8 pages ~/testdata/xarc/1206.4637.pdf
+1499 0.305 0.371 0.436: 00494-73dccd.txt [1.4] 0.142 MB  18 pages ~/testdata/recht11a.pdf
+1500 0.306 0.714 0.837: 01502-52a5d4.txt [1.5] 0.508 MB   1 pages ~/testdata/legislative-process-poster-espanol.pdf
+1501 0.311 0.304 0.326: 01954-281602.txt [1.4] 0.919 MB  83 pages ~/testdata/Implementing Homomorphic Encryption.pdf
+1502 0.313 0.614 0.731: 01657-9e8501.txt [1.6] 0.617 MB   2 pages ~/testdata/FalconX8_flyer_180508.compressed.pdf
+1503 0.315 0.488 0.569: 01829-58189f.txt [1.3] 0.786 MB  36 pages ~/testdata/09-basic-key-exchange-annotated.pdf
+1504 0.320 0.464 0.574: 01361-8d6fda.txt [1.3] 0.434 MB   2 pages ~/testdata/spool/000008.pdf
+1505 0.324 0.498 0.615: 00364-adbf04.txt [1.5] 0.107 MB   8 pages ~/testdata/52_1_29.pdf
+1506 0.336 0.374 0.433: 01269-7a3b33.txt [1.5] 0.398 MB  19 pages ~/testdata/Secure and Efficient Construction of Broadcast Encryption with Dealership.pdf
+1507 0.337 0.395 0.470: 01382-4adc9a.txt [1.4] 0.444 MB  44 pages ~/testdata/Politics_of_Voter_Fraud_Final.pdf
+1508 0.338 0.648 0.778: 00732-9d1a52.txt [1.4] 0.203 MB   2 pages ~/testdata/stamp problem.pdf
+1509 0.343 0.533 0.660: 00888-22d7af.txt [1.3] 0.249 MB   1 pages ~/testdata/pdl (1).pdf
+1510 0.348 0.368 0.423: 01268-d907ec.txt [1.6] 0.398 MB   1 pages ~/testdata/-patente-de-invencion-1445369-1.pdf
+1511 0.348 0.477 0.607: 01254-dbb11d.txt [1.3] 0.388 MB   4 pages ~/testdata/summarization/C96-2183.pdf
+1512 0.348 0.433 0.523: 01177-29c592.txt [1.4] 0.356 MB  56 pages ~/testdata/ergodicity/ergodictheory-1May2011.pdf
+1513 0.352 0.517 0.655: 00141-8ef6eb.txt [1.5] 0.043 MB  22 pages ~/testdata/ergodicity/Ito_Formula.pdf
+1514 0.352 0.418 0.503: 01544-9a3ab6.txt [1.4] 0.531 MB  59 pages ~/testdata/xarc/1702.06237.pdf
+1515 0.355 0.480 0.577: 01946-954e3d.txt [1.4] 0.906 MB   4 pages ~/testdata/Healthcare_Redaction_White_Paper.pdf
+1516 0.360 0.533 0.629: 01870-80893a.txt [1.3] 0.811 MB  43 pages ~/testdata/06-collision-resistance-v2-annotated.pdf
+1517 0.362 0.527 0.640: 02008-1b159d.txt [1.3] 0.999 MB  55 pages ~/testdata/11-pubkey-trapdoor-annotated.pdf
+1518 0.369 0.363 0.409: 01353-4ba29f.txt [1.3] 0.430 MB  45 pages ~/testdata/seqdec120813.pdf
+1519 0.376 0.543 0.646: 01718-4437b5.txt [1.3] 0.674 MB  52 pages ~/testdata/05-integrity-v2-annotated.pdf
+1520 0.389 0.322 0.361: 01429-65d9c4.txt [1.4] 0.467 MB  41 pages ~/testdata/CDD201.pdf
+1521 0.400 0.538 0.643: 00101-f17c11.txt [1.3] 0.030 MB   1 pages ~/testdata/paper-axes2-blue.pdf
+1522 0.400 0.574 0.678: 00022-a338bf.txt [1.3] 0.003 MB   1 pages ~/testdata/table_border_req1_test.pdf
+1523 0.401 0.552 0.641: 01758-00ad60.txt [1.3] 0.706 MB  45 pages ~/testdata/10-numth-annotated.pdf
+1524 0.402 0.518 0.600: 01893-ca325f.txt [1.6] 0.840 MB   6 pages ~/testdata/Industrial_Rev_in_Britain_and_Enclosure_act.pdf
+1525 0.427 0.549 0.711: 01198-3390e9.txt [1.6] 0.362 MB   4 pages ~/testdata/LIDS_TO_.pdf
+1526 0.434 0.630 0.763: 01219-dd89fa.txt [1.4] 0.370 MB  24 pages ~/testdata/carbon-offset-guidelines-may2008.pdf
+1527 0.439 0.658 0.678: 00909-a5f2f6.txt [1.5] 0.255 MB   7 pages ~/testdata/fonts/erewhon-doc.pdf
+1528 0.454 0.795 0.869: 01472-7b7f29.txt [1.4] 0.491 MB   6 pages ~/testdata/Stomlinjer_31delstracka1_171210_181208.pdf
+1529 0.456 0.697 0.786: 00940-cd43bf.txt [1.3] 0.267 MB   2 pages ~/testdata/spool/000019.pdf
+1530 0.456 0.697 0.786: 00941-61cc18.txt [1.3] 0.267 MB   2 pages ~/testdata/spool/000021.pdf
+1531 0.466 0.646 0.753: 01330-a76ac8.txt [1.6] 0.420 MB   6 pages ~/testdata/YSOFT-SAFEQ-complementary-solution-datasheet-en.pdf
+1532 0.468 0.356 0.382: 01992-cf99ed.txt [1.5] 0.971 MB  26 pages ~/testdata/printeron_enterprise_security_white_paper_2018.pdf
+1533 0.470 0.715 0.819: 01151-f4f209.txt [1.4] 0.346 MB   9 pages ~/testdata/Radiographic case definitions and prevalence of osteoarthrosis of the hipA survey of 4 151 subjects in the Osteoarthritis Substudy of the Copenhagen.pdf
+1534 0.478 0.472 0.568: 00196-ebdf86.txt [1.4] 0.062 MB   4 pages ~/testdata/spool/000018.pdf
+1535 0.480 0.606 0.730: 01220-031322.txt [1.4] 0.370 MB   6 pages ~/testdata/g-suite/2-harsha-chakravarty.pdf
+1536 0.492 0.873 0.887: 01238-ac66fd.txt [1.6] 0.378 MB   1 pages ~/testdata/Pages from Wolfcub Vision 01-Jan-16-6749.pdf
+1537 0.495 0.404 0.418: 01782-454f66.txt [1.6] 0.727 MB  22 pages ~/testdata/66cbd59fc92ae57bf16bf28ff28977c494f0.pdf
+1538 0.496 0.650 0.761: 00053-83c71d.txt [1.3] 0.012 MB   4 pages ~/testdata/Print alerts.pdf
+1539 0.507 0.678 0.778: 00201-2415ef.txt [1.3] 0.063 MB   3 pages ~/testdata/blank_pages/000018.pdf
+1540 0.510 0.796 0.897: 01937-e9d848.txt [1.5] 0.896 MB  21 pages ~/testdata/Predicting Cardiovascular Risk Factors from Retinal Fundus Photographs using Deep Learning.pdf
+1541 0.518 0.873 0.931: 01182-85c240.txt [1.5] 0.358 MB  16 pages ~/testdata/AppleMappings.pdf
+1542 0.535 0.552 0.560: 01035-2743dc.txt [1.4] 0.297 MB  34 pages ~/testdata/privacy/paper1.pdf
+1543 0.541 0.694 0.800: 00185-088540.txt [1.3] 0.057 MB   2 pages ~/testdata/blank_pages/000009.pdf
+1544 0.550 0.583 0.630: 01820-aa1ec4.txt [1.5] 0.765 MB  19 pages ~/testdata/Upload%5Ctimetable%5CGrade Timetable 8 Nov..pdf
+1545 0.554 0.700 0.805: 00059-679a39.txt [1.3] 0.015 MB   2 pages ~/testdata/watermark/000183.pdf
+1546 0.571 0.649 0.736: 01583-d8d6a3.txt [1.5] 0.559 MB  21 pages ~/testdata/sample.pdf
+1547 0.578 0.562 0.623: 01388-a1b9d8.txt [1.4] 0.449 MB  15 pages ~/testdata/ergodicity/Bernoulli_1738.pdf
+1548 0.579 0.787 0.866: 01697-47c6f0.txt [1.5] 0.655 MB  70 pages ~/testdata/fontspec.pdf
+1549 0.594 0.716 0.826: 00733-776876.txt [1.3] 0.203 MB   2 pages ~/testdata/angluin-HowToProveIt.pdf
+1550 0.663 0.742 0.828: 00375-240186.txt [1.3] 0.108 MB   1 pages ~/testdata/Practice.pdf
+1551 0.688 0.823 0.886: 01250-76f8fb.txt [1.4] 0.386 MB   2 pages ~/testdata/dna - Wolfram_Alpha.pdf
+1552 0.713 0.834 0.872: 00446-865bc5.txt [1.4] 0.128 MB   1 pages ~/testdata/2582cobden_sbs68_dtv_pubmap.pdf
+1553 0.756 0.827 0.834: 00892-19ca1a.txt [1.4] 0.250 MB   3 pages ~/testdata/1ad1abbb9faea0a048fd20f3c35da06e5275.pdf
+1554 0.767 0.897 0.934: 01291-388db7.txt [1.5] 0.403 MB  80 pages ~/testdata/prp_no_26.pdf
+1555 0.791 0.884 0.976: 01848-7695b8.txt [1.5] 0.799 MB   1 pages ~/testdata/periodictable.pdf
+1556 0.793 0.929 0.969: 00687-f0f6dd.txt [1.7] 0.189 MB  15 pages ~/testdata/155_169.pdf
+1557 0.804 0.948 0.985: 00664-a9b7c5.txt [1.5] 0.182 MB   9 pages ~/testdata/causal_inference/c5cf109660635e6cae6db6327d81c9868529.pdf
+1558 0.818 0.926 0.962: 00957-8e8fac.txt [1.5] 0.271 MB   3 pages ~/testdata/3page_test.pdf
+1559 0.861 0.934 0.957: 00016-37404b.txt [1.4] 0.003 MB   1 pages ~/testdata/simple_r.pdf
+1560 0.866 0.879 0.879: 00918-a348f0.txt [1.5] 0.259 MB   2 pages ~/testdata/things-to-do.pdf
+1561 0.902 0.941 0.961: 00921-8efe89.txt [1.6] 0.260 MB   1 pages ~/testdata/digital_signatures/SampleSignedPDFDocument.pdf
+1562 0.908 0.981 0.991: 00246-2b3073.txt [1.3] 0.074 MB   2 pages ~/testdata/blank_pages/000017.pdf
+1563 0.921 0.996 1.000: 01464-4b6550.txt [1.6] 0.486 MB   3 pages ~/testdata/Papercut vs Equitrac.pdf
+1564 0.926 0.967 0.973: 00632-c46a8e.txt [1.4] 0.175 MB   6 pages ~/testdata/A Two-Step Named Entity Recognizer for Open-Domain Search Queries.pdf
+1565 0.942 0.982 0.992: 01126-e68a75.txt [1.4] 0.333 MB   9 pages ~/testdata/BCHT_revised.pdf
+1566 0.955 0.976 0.986: 01644-bbfbcb.txt [1.4] 0.602 MB   1 pages ~/testdata/text_regular3_1.pdf
+1567 0.967 0.987 0.990: 01856-34dcda.txt [1.5] 0.802 MB  11 pages ~/testdata/hbr-whats-your-data-strategy.pdf
+1568 0.976 0.993 0.995: 01401-0efeb7.txt [1.4] 0.456 MB  32 pages ~/testdata/xarc/MPRA_paper_19596.pdf
+1569 0.980 0.990 0.991: 00484-66a1a0.txt [1.4] 0.139 MB   5 pages ~/testdata/pdf_text/P12-2018.pdf
+1570 0.982 0.997 1.000: 00365-5e386d.txt [1.3] 0.107 MB   4 pages ~/testdata/ergodicity/z8.pdf
+1571 0.983 0.992 0.994: 00462-0826c9.txt [1.4] 0.132 MB   6 pages ~/testdata/Linguistic Regularities in Continuous Space Word Representations.pdf
+1572 0.984 0.994 0.995: 00564-633953.txt [1.4] 0.156 MB   9 pages ~/testdata/g-suite/N10-1142.pdf
+1573 0.985 0.994 0.995: 00976-6aa3d8.txt [1.5] 0.278 MB  16 pages ~/testdata/Improving Distributional Similarity with Lessons Learned from Word Embeddings.pdf
+1574 0.985 0.994 0.996: 01146-2d38f7.txt [1.5] 0.344 MB  11 pages ~/testdata/D16-1023.pdf
+1575 0.985 0.993 0.994: 01365-6fec97.txt [1.4] 0.434 MB  10 pages ~/testdata/Neural Architectures for Fine-grained Entity Type Classification.pdf
+1576 0.986 0.993 0.995: 00991-7069ef.txt [1.4] 0.281 MB   8 pages ~/testdata/WNUT20.pdf
+1577 0.986 0.993 0.994: 01500-29c192.txt [1.4] 0.507 MB   7 pages ~/testdata/P16-2067.pdf
+1578 0.988 0.994 0.998: 00265-ff8527.txt [1.4] 0.080 MB   3 pages ~/testdata/private/Williams Insurance certificate.pdf
+1579 0.988 0.995 0.997: 00540-c0cb78.txt [1.4] 0.150 MB  11 pages ~/testdata/P10-1040.pdf
+1580 0.989 0.995 0.996: 00599-52a796.txt [1.4] 0.167 MB  11 pages ~/testdata/Broad Twitter Corpus.pdf
+1581 0.990 0.996 0.997: 00710-28bc15.txt [1.4] 0.197 MB   8 pages ~/testdata/g-suite/N07-1041.pdf
+1582 0.991 0.996 0.997: 00739-b88a04.txt [1.5] 0.206 MB  16 pages ~/testdata/summarization/C12-1177.pdf
+1583 0.995 0.998 0.999: 00926-c591bd.txt [1.5] 0.262 MB  13 pages ~/testdata/xarc/1611.02731v1.pdf
+1584 0.997 1.000 1.000: 01366-0f2cc0.txt [1.7] 0.435 MB   1 pages ~/testdata/Battle_of_Kokoda.pdf
+1585 0.997 1.000 1.000: 00601-e66347.txt [1.4] 0.167 MB  14 pages ~/testdata/Yemeni_Laws92.pdf
+1586 0.998 1.000 1.000: 00684-ddb895.txt [1.3] 0.188 MB   7 pages ~/testdata/convergent-divergent-creativity.pdf
+1587 1.000 1.000 1.000: 00202-9875b0.txt [1.4] 0.064 MB   1 pages ~/testdata/Peter Williams.pdf
+1588 1.000 1.000 1.000: 00216-4a4739.txt [1.4] 0.067 MB   4 pages ~/testdata/Brookfield2007-103574.pdf
+1589 1.000 1.000 1.000: 00266-602922.txt [1.6] 0.081 MB  11 pages ~/testdata/YoshikawaWeisnerKalilWay2008DP.pdf
+1590 1.000 1.000 1.000: 00419-7cd5bf.txt [1.4] 0.120 MB   1 pages ~/testdata/digital_signatures/certificate.pdf
+1591 1.000 1.000 1.000: 00606-ae3ab4.txt [1.3] 0.168 MB   1 pages ~/testdata/Foreday_Bio2.pdf
+1592 1.000 1.000 1.000: 00646-dc0a1c.txt [1.3] 0.178 MB  11 pages ~/testdata/phillips2003-syntax.pdf
+1593 1.000 1.000 1.000: 00754-b371d3.txt [1.4] 0.208 MB   5 pages ~/testdata/fm4127.pdf
+1594 1.000 1.000 1.000: 00798-4c1e61.txt [1.4] 0.220 MB  13 pages ~/testdata/JEP2006.pdf
+1595 1.000 1.000 1.000: 01316-e597cb.txt [1.3] 0.414 MB  16 pages ~/testdata/Formal grammar and information theory- together again?.pdf
+1596 1.000 1.000 1.000: 01634-a4da1d.txt [1.4] 0.594 MB   4 pages ~/testdata/Please_DocuSign_AOS_Papercut_ND-D2K_AOS.pdf
+1597 1.000 1.000 1.000: 01676-74baad.txt [1.5] 0.638 MB   8 pages ~/testdata/copy-machine-study-ellen-langer.pdf
+1598 1.000 1.000 1.000: 01786-ed325e.txt [1.5] 0.730 MB   9 pages ~/testdata/2017-S1-14998.pdf
+1599 1.000 1.000 1.000: 01788-a326f2.txt [1.4] 0.733 MB  21 pages ~/testdata/ITS-90.pdf
+1600 1.000 1.000 1.000: 01807-5b7366.txt [1.5] 0.751 MB   8 pages ~/testdata/pdf_text/65988.pdf
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+1601 files compared
+mean=0.128 0.222 0.288
