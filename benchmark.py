@@ -112,8 +112,8 @@ if False:
     assert False
 
 
-def make_path(results_dir, i, sha1):
-    return os.path.join(results_dir, '%05d-%s.txt' % (i, sha1[:6]))
+def make_path(results_dir, sha1):
+    return os.path.join(results_dir, '%10s.txt' % sha1[:10])
 
 
 def count_set(words):
@@ -163,10 +163,6 @@ def to_words(path):
     return tokenize(read(path))
 
 
-# def compare_files(path1, path2):
-#     return compare(read(path1), read(path2))
-
-
 TESTS = {
     'poppler': run_pstopdf,
     'unidoc': run_unidoc,
@@ -183,7 +179,7 @@ for i, path in enumerate(path_list[:10]):
     print('%4d: %s %s' % (i, file_sha1(path), info_str(pdf_info(path))))
 
 for test in TESTS:
-    results_dir = 'results.%s' % test
+    results_dir = os.path.join('results', test)
     os.makedirs(results_dir, exist_ok=True)
 
 
@@ -204,8 +200,8 @@ for i, path in enumerate(path_list):
 
     successes = []
     for test, runner in TESTS.items():
-        results_dir = 'results.%s' % test
-        dest = make_path(results_dir, i, sha1)
+        results_dir = os.path.join('results', test)
+        dest = make_path(results_dir, sha1)
         if run_test(path, runner):
             os.rename(TMP, dest)
             successes.append(dest)
