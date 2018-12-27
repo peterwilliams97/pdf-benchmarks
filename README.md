@@ -12,7 +12,7 @@ Build [pdf_info](https://github.com/peterwilliams97/unidoc-examples/blob/benchma
 (This branch has test programs modified to work with this script.)
 
 	pushd $GOPATH/src/github.com/unidoc/unidoc-examples/pdf/text/
-	go build pdf_extract_text.go
+	go build pdf_to_text.go
 	popd
 	cp $GOPATH/src/github.com/unidoc/unidoc-examples/pdf/text/pdf_to_text .
 
@@ -23,11 +23,22 @@ Build [pdf_info](https://github.com/peterwilliams97/unidoc-examples/blob/benchma
 
 
 ### Reference PDF readers
-Install Poppler and PdfBox
+Install Poppler, mupdf, PdfBox, etc
 
-Check that poppler is running
+#### mupdf on Mac
+brew install mupdf-tools
 
-	pdftotext <some pdf file>
+### Check all PDF text converters
+
+Check that these tools are running
+
+	./pdf_info test.pdf
+
+	./pdf_to_text test.pdf
+
+	mutool draw -F txt test.pdf
+
+	pdftotext test.pdf
 
 
 ## Running
